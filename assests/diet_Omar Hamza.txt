@@ -1,0 +1,27 @@
+Full Name: Omar Hamza 
+Sex: Male 
+Age: 18 
+Height (in inches): 5'10 
+Weight (in pounds): 130 
+Race (You may select multiple, use the provided guide made by the U.S. Dept. of Ed): White, Black 
+What country or countries resonate the most with your culture?(If multiple, separate with commas): Egypt 
+Religion(Select Atheist if none): Islam 
+Minutes of activity per day: 37.5 
+Days of activity per week: 4 
+Give a brief description of your active lifestyle(Could include: Walking, Sports, Gym): I like to walk around campus and occasionally go to the gym, but I don't play any sports. 
+If any, provide a brief description of any medical conditions relevant to dietary needs.(Could include: eating disorders, genetic diseases, diabetes, obesity, anorexia): None 
+Taste Preferences(Select all that you enjoy): Sweet, Salty, Sour, Umami (Savoury) 
+Textural Preferences(Select all that you enjoy): Crunchy, Creamy, Chewy, Smooth, Tender, Fibrous 
+Spice Tolerance: 4 
+Do you have a preferred national cuisine? (Provide the country or countries. If multiple, separate with commas): Egypt, India, Turkey, United States 
+Do you have an existing diet plan? If so, providing it will aid the AI in matching your needs.
+Upon receiving the AI generated diet plan, we will ask you to identify which plan you find more beneficial for further research purposes.: None 
+Are you Vegetarian/Vegan/Pescetarian?: No Restriction 
+Do you only eat Halal or Kosher food?: No Restriction 
+If any, please list all types of food you are allergic to.(If multiple, separate with commas): None 
+If any, please list all types of foods to avoid in the making of the diet.(Could include religious prohibitions. If multiple, separate with commas): pork 
+How much money are you willing to spend per week on food?(The more, the better quality food): 70.0 
+Goal weight maintenance: Gain weight (calorie surplus) 
+Goal physical activity maintenance: More activity 
+How many meals per day would you like?: 3 
+How willing are you to try new foods?: 4 
