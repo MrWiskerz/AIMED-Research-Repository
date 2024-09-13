@@ -7,3 +7,7 @@ utilized to process 100+ pages of raw text data, 200+ lines of raw table data, a
 personalized dietary plan. A sample of participant data is displayed, names are anonymized, two versions of AI-made
 dietary plans are created: one without processed training data (plain), one with processed training data (V2). All
 research authors and their are displayed below:
+- Omar Hamza (MrWiskerz): Project Lead, Programmer
+- Ryan Shreshta (ryanshrestha64): Programmer
+- Herbert Melgar (herb3062): Data Processor
+- Hamiz Iqbal (Hamixer): Data Processor
