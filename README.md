@@ -1,5 +1,5 @@
 # DietDroid 3000 Research Project
-We are a bunch of college students interested in inbestigated how an AI-driven personalized diet recommendation 
+We are a bunch of college students interested in investigating how an AI-driven personalized diet recommendation 
 system compares to traditional diet plans in terms of effectiveness, lifestyle preference, and user satisfaction 
 in achieving individual dietary goals. Data is collected by asking participants to fill out carefully structured 
 form regarding their dietary needs and personal preferences. Gemini-1.5-Flash API is the machine learning algorithm 
