@@ -12,7 +12,7 @@ and aid in data collection by filling out the following link. Your help is much 
 
 Participation form: https://forms.gle/knngM4iYbDL6677q8
 
-All research authors and their are displayed below:
+All research authors and their roles are displayed below:
 - Omar Hamza (MrWiskerz): Project Lead, Programmer
 - Ryan Shreshta (ryanshrestha64): Programmer
 - Herbert Melgar (herb3062): Data Processor
