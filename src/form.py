@@ -1,11 +1,6 @@
 import re
 import csv
 
-#TODO (Things to add):
-# Fix height and weight translations
-# Add BMI, calorie maintence amount attribute
-# Training system (Bard API)
-
 # Function library
 class Func_Library():
 
