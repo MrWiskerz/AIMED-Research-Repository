@@ -1,0 +1,2612 @@
+﻿BMI
+Source #1: https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html
+Adult BMI Categories
+Overview
+Body Mass Index (BMI) is a measure of body weight relative to height, calculated by dividing weight (in kilograms) by the square of height (in meters). For adults, BMI categories include underweight, healthy weight, overweight, and obesity, which is divided into three classes. BMI serves as a screening tool and should be evaluated alongside other health factors.
+BMI Categories for Adults (Ages 20 and Older)
+* Underweight: BMI < 18.5
+* Healthy Weight: BMI 18.5 to < 25
+* Overweight: BMI 25 to < 30
+* Obesity: BMI ≥ 30
+   * Class 1 Obesity: BMI 30 to < 35
+   * Class 2 Obesity: BMI 35 to < 40
+   * Class 3 Obesity (Severe Obesity): BMI ≥ 40
+Important Note
+BMI is a useful screening measure, but it should be considered in conjunction with other health indicators. Consult a healthcare provider for personalized insights.
+Example: BMI for an Adult (5'9" Tall)
+Weight Range
+	BMI Range
+	BMI Category
+	124 pounds or less
+	< 18.5
+	Underweight
+	125 to 168 pounds
+	18.5 to < 25
+	Healthy Weight
+	169 to 202 pounds
+	25 to < 30
+	Overweight
+	203 pounds or more
+	≥ 30
+	Obesity
+	203 to 236 pounds
+	30 to < 35
+	Class 1 Obesity
+	237 to 270 pounds
+	35 to < 40
+	Class 2 Obesity
+	271 pounds or more
+	≥ 40
+	Class 3 Obesity
+	Source #2: https://www.cdc.gov/bmi/child-teen-calculator/bmi-categories.html
+Child and Teen BMI Categories
+Overview
+Body Mass Index (BMI) is a measure of body weight relative to height. For children and teens, BMI values are compared to others of the same sex and age, resulting in BMI-for-age percentiles. The categories for children and teens include underweight, healthy weight, overweight, obesity, and severe obesity.
+BMI Categories for Children and Teens (Ages 2 to 19)
+* Underweight: Less than the 5th percentile
+* Healthy Weight: 5th percentile to < 85th percentile
+* Overweight: 85th percentile to < 95th percentile
+* Obesity: 95th percentile or greater
+* Severe Obesity: 120% of the 95th percentile or greater, or BMI ≥ 35 kg/m²
+Expanded Definition of Severe Obesity (American Academy of Pediatrics)
+* Class 2 Obesity: 120% to < 140% of the 95th percentile, or BMI 35 to < 40 kg/m²
+* Class 3 Obesity: 140% of the 95th percentile or greater, or BMI ≥ 40 kg/m²
+Understanding Percentiles
+Percentiles indicate how an individual's BMI compares to a reference population. For example, a 12-year-old girl who is 5 feet tall and weighs 136 pounds has a BMI of 26.6, which places her at the 96th percentile—meaning her BMI is equal to or higher than 96% of her peers.
+Additional Information
+* Child BMI Percentiles: These percentiles help assess a child's growth patterns compared to others of the same sex and age.
+* BMI Calculator: The CDC provides a Child and Teen BMI Calculator that:
+   * Calculates BMI and BMI percentile.
+   * Displays results on a growth chart with explanations.
+   * Offers links to additional resources.
+   * Is not a substitute for professional medical advice.
+Accurate Measurement
+Accurate height and weight measurements are crucial for calculating BMI and percentiles. Follow proper procedures to ensure precise results.
+Source #3: https://www.cdc.gov/bmi/about/index.html
+BMI as a Measure
+Definition
+Body Mass Index (BMI) is calculated by dividing a person’s weight (in kilograms) by the square of their height (in meters).
+Formula: BMI = weight (kg) / height (m)²
+Association with Body Fat
+While BMI does not directly measure body fat, it is moderately to strongly correlated with other body fat measures, such as dual-energy X-ray absorptiometry (DEXA), which provides precise body composition data. However, DEXA scans are expensive and less accessible.
+Advantages of BMI
+* Quick and easy to calculate
+* Inexpensive and noninvasive
+* Can be collected during routine healthcare visits
+Limitations
+BMI does not differentiate between fat, muscle, and bone mass, nor does it indicate the type or distribution of body fat.
+BMI for Screening
+BMI serves as a reliable screening tool to assess weight relative to height. Certain BMI categories are linked to health issues; for instance, a BMI in the obesity category can indicate increased risk for conditions like high blood pressure and high cholesterol. Routine tracking of BMI is beneficial for detecting weight changes and monitoring health risks. The American Academy of Pediatrics recommends annual BMI assessments for children starting at age 2.
+BMI for Population Health
+BMI is an essential population health measure, used globally to assess trends and comparisons over time and across various demographics. For example, the CDC’s Adult Obesity Maps visualize obesity rates by state and demographic factors, aiding public health decision-making. BMI data from programs like WIC help track obesity trends among young children.
+BMI for Individual Health
+BMI can assist individuals and healthcare providers in evaluating chronic disease risk. To gain a comprehensive understanding of health, consider BMI alongside other factors, including:
+* Medical history (existing conditions and family history)
+* Health behaviors (diet, physical activity, sleep)
+* Physical exam results (blood pressure, muscle mass)
+* Laboratory findings (glucose and cholesterol levels)
+Source #4: https://www.nhs.uk/health-assessment-tools/calculate-your-body-mass-index/calculate-bmi-for-adults
+Calculate your body mass index (BMI) for adults
+Use this service to:
+* check the BMI of an adult aged 18 and over
+* get information about what to do next
+You should not use this tool to diagnose any symptoms. If you are worried about your weight, contact your local pharmacist or GP surgery.
+Who should not use this tool
+You should not use this tool if you, or the person you're using it for:
+* are under 18 years old
+* are pregnant
+* have been diagnosed with an eating disorder, or think you may have one
+* have a condition that affects your height
+Information:
+If you or your child are aged between 2 and 17, calculate BMI for children and teenagers.
+What you will need
+To use the calculator, you will need to know your:
+* height
+* weight
+Ethnic background
+The calculator will also ask for information on your ethnic background.
+This is because people from an Asian, Black African, African-Caribbean or Middle Eastern ethnic background have a higher chance of developing health problems at a lower BMI.
+When you enter information on your ethnic background, the calculator will give you more accurate advice about your BMI result.
+Your result
+Your BMI result will be displayed as a number with one of these weight categories:
+* underweight
+* a healthy weight
+* overweight
+* obese
+After getting your result, you may be asked to measure your waist. This can help you understand if you are carrying too much weight around your tummy.
+How your BMI is calculated
+The BMI is calculated by dividing an adult's weight in kilograms by their height in metres squared.
+For example, if you weigh 70kg (around 11 stone) and are 1.70m (around 5 foot 7 inches) tall, you work out your BMI by:
+1. squaring your height in metres: 1.70 x 1.70 = 2.89
+2. dividing your weight in kilograms: 70 ÷ 2.89 = 24.22
+Your result will be displayed to one decimal place, for example, 24.2.
+What your result means
+A higher BMI increases the chance of developing long-term conditions, such as type 2 diabetes and heart disease.
+The BMI calculation is just one measure of health. It cannot tell the difference between muscle and fat.
+For example, if you have a lot of muscle, you may be classed as overweight or obese despite having low body fat.
+This is why you may get a better idea of your overall health from measuring your waist.
+Age
+Source #1 https://medlineplus.gov/nutritionforolderadults.html
+To stay healthy, older adults should:
+* Eat nutrient-dense foods like fruits, vegetables, whole grains, lean proteins, and low-fat dairy
+* Avoid empty calories, saturated and trans fats
+* Stay hydrated and physically active
+
+
+Nutrition for Older Adults
+________________
+
+
+1. What is Nutrition?
+* Definition: Nutrition involves consuming a balanced diet to provide the body with essential nutrients.
+* Nutrients: Carbohydrates, fats, proteins, vitamins, minerals, and water.
+* Importance:
+   * Provides energy.
+   * Helps control weight.
+   * May prevent diseases (e.g., osteoporosis, high blood pressure, heart disease, type 2 diabetes, certain cancers).
+________________
+
+
+2. Changes with Aging
+Nutritional Needs:
+* Caloric Needs: May decrease, but nutrient requirements remain high.
+* Protein: Some older adults need more protein.
+Challenges:
+* Home Life: Adjustments due to living alone or mobility issues.
+* Health: Conditions that affect cooking or eating.
+* Medications: Can alter taste, cause dry mouth, or reduce appetite.
+* Income: Budget constraints affecting food choices.
+* Sensory Changes: Reduced sense of smell and taste.
+* Chewing/Swallowing: Difficulty in processing food.
+________________
+
+
+3. Eating Healthy as You Age
+Recommended Foods:
+* Nutrient-Dense Foods:
+   * Fruits and vegetables (variety and color).
+   * Whole grains (e.g., oatmeal, whole-wheat bread, brown rice).
+   * Fat-free or low-fat dairy (or fortified plant-based alternatives).
+   * Seafood, lean meats, poultry, eggs.
+   * Beans, nuts, seeds.
+Foods to Avoid:
+* Empty Calories: Chips, candy, baked goods, soda, alcohol.
+* Unhealthy Fats:
+   * Saturated Fats: Animal fats.
+   * Trans Fats: Processed fats in margarine, shortening, some baked goods, and fried foods.
+Hydration and Activity:
+* Liquids: Drink plenty of fluids to prevent dehydration.
+* Physical Activity: Exercise may stimulate appetite.
+________________
+
+
+4. Overcoming Eating Difficulties
+Tips for Challenges:
+* Eating Alone: Organize potlucks, cook with friends, or eat at community centers.
+* Chewing Issues: Consult a dentist for potential problems.
+* Swallowing Problems: Drink liquids with meals; consult healthcare providers if issues persist.
+* Taste/Smell Issues: Enhance food with color and texture.
+* Insufficient Intake: Incorporate healthy snacks throughout the day.
+* Cooking Difficulties: Consult a healthcare provider for possible referral to an occupational therapist.
+________________
+
+
+5. Additional Tips
+* Consult Healthcare Providers: For personalized advice and support.
+* Support Systems: Engage with community and family for assistance.
+
+
+Source #2 https://www.nia.nih.gov/health/healthy-eating-nutrition-and-diet/healthy-eating-you-age-know-your-food-groups
+Healthy Eating As You Age: Food Groups Overview
+________________
+
+
+1. Vegetables
+* Types:
+   * Dark Green: Broccoli, collard greens, spinach, kale.
+   * Red/Orange: Acorn squash, carrots, pumpkin, tomato, sweet potato.
+   * Starchy: Corn, green peas, white potatoes.
+   * Other: Eggplant, beets, cauliflower, Brussels sprouts, celery, artichokes, green beans, onions.
+   * Legumes: Black beans, garbanzo beans, kidney beans, soybeans, tofu.
+* 1/2 Cup-Equivalent Examples:
+   * 1 cup raw spinach
+   * 6 baby carrots
+   * 1/2 cup cooked kidney beans
+   * 5 broccoli florets
+* Nutritional Note: Fiber-rich vegetables help with digestion and cholesterol.
+________________
+
+
+2. Fruits
+* Types:
+   * Citrus: Oranges, grapefruits.
+   * Berries: Strawberries, blueberries.
+   * Tree Fruits: Apricots, cherries, peaches, mangoes.
+   * Others: Figs, grapes, pineapples.
+* 1/2 Cup-Equivalent Examples:
+   * 1 small peach
+   * 1/4 cup dried fruit
+   * 1/2 cup grapes
+* Tip: Vegetables and fruits should cover half your plate. Choose whole fruits over juice.
+________________
+
+
+3. Grains
+* Types:
+   * Whole Grains: Whole wheat, oats, bulgur, whole cornmeal.
+   * Refined Grains: White flour, white bread, white rice (often enriched).
+* 1 Ounce-Equivalent Examples:
+   * 1 slice bread
+   * 1 small muffin
+   * 1/2 cup cooked rice
+* Note: At least half of grain foods should be whole grains.
+________________
+
+
+4. Protein Foods
+* Sources:
+   * Lean Meats and Poultry
+   * Seafood
+   * Eggs
+   * Beans, Nuts, Seeds, Soy Products
+* 1 Ounce-Equivalent Examples:
+   * 12 almonds
+   * 1 tablespoon peanut butter
+   * 1 egg
+* Tip: Beans can be counted as either vegetables or protein, depending on your diet.
+________________
+
+
+5. Dairy
+* Types:
+   * Low-Fat or Fat-Free Dairy: Milk, yogurt, cheese.
+   * Fortified Alternatives: Soy milk, fortified plant-based milk.
+* 1 Cup-Equivalent Examples:
+   * 1 cup yogurt
+   * 1/3 cup shredded cheese
+   * 2 cups cottage cheese
+* Note: Choose low-fat or fat-free options; look for fortified alternatives if not consuming dairy.
+________________
+
+
+6. Oils & Solid Fats
+* Types:
+   * Oils: Provide healthy fats and vitamin E.
+   * Solid Fats: Butter, lard (high in saturated fat).
+* Teaspoon Examples:
+   * 1/2 avocado (3 tsp oil)
+   * 4 olives (1/2 tsp oil)
+   * 1 tablespoon peanut butter (2 tsp oil)
+* Note: Prefer oils over solid fats; monitor intake to manage calories.
+________________
+
+
+7. Added Sugars
+* Sources:
+   * Sweetened cereals, cookies, cakes, dairy desserts.
+* Tip: Check ingredient lists for added sugars like brown sugar, corn syrup, high-fructose corn syrup.
+________________
+
+
+8. Beverages
+* Types:
+   * Water, fat-free/low-fat milk, 100% fruit juice.
+   * Limit: Sweetened beverages (soda, fruit drinks) and alcohol.
+* Note: Choose beverages with nutritional benefits; limit sugary and alcoholic drinks.
+________________
+
+
+Infographic
+* 5 Tips for Healthier Food Choices: [Link to Infographic]
+
+
+
+
+Source #3: https://health.gov/news/202107/nutrition-we-age-healthy-eating-dietary-guidelines
+Nutrition as We Age: Healthy Eating with the Dietary Guidelines
+Overview
+Good nutrition throughout life is crucial for preventing chronic diseases. Older adults face higher risks for conditions like heart disease and osteoporosis, but they can reduce these risks by consuming nutrient-dense foods and staying active. Although their calorie needs may decrease, nutrient requirements often remain the same or even increase due to factors like reduced physical activity and age-related changes.
+Special Considerations for Older Adults
+The Healthy Eating Index (HEI) assesses diet quality based on the Dietary Guidelines for Americans. Older adults score an average of 63 out of 100, indicating potential for improvement. Emphasizing fruits, vegetables, whole grains, and dairy while reducing added sugars and saturated fats can enhance diet quality. Protein intake is essential to prevent muscle loss; however, many older adults do not consume enough protein. Including seafood, dairy, beans, and lentils can help meet protein needs while providing vital nutrients like calcium and vitamin D.
+Vitamin B12 Absorption
+The ability to absorb vitamin B12 may decrease with age or certain medications. Health professionals should ensure older adults are getting enough B12 through foods like breakfast cereals and may discuss dietary supplements if necessary.
+Healthy Beverage Choices
+Older adults may struggle to stay hydrated due to reduced thirst perception. Encouraging water intake is important, along with options like unsweetened fruit juices and low-fat milk. If consuming alcohol, moderation is key—2 drinks or fewer for men and 1 drink or fewer for women—due to increased sensitivity to alcohol in older age.
+Supporting Healthy Eating
+Support from health professionals, family, and friends is vital in helping older adults adopt a healthy diet that suits their preferences and budget. Considerations include:
+* Enjoyment of Food: Sharing meals can enhance enjoyment and foster connections.
+* Chewing and Swallowing: Adapt cooking methods to accommodate different textures for those with chewing difficulties. Dental health is also important.
+* Food Safety: Older adults are at higher risk for foodborne illnesses; safe food handling practices are crucial.
+Source #4: https://www.betterhealth.vic.gov.au/health/healthyliving/food-and-your-life-stages
+Food and Your Life Stages
+Overview
+Nutritional requirements change throughout different life stages. A varied diet rich in nutrient-dense foods is essential for everyone, regardless of age.
+Nutritional Needs Across Life Stages
+To support overall health, individuals should consume:
+* A wide variety of nutritious foods
+* Daily hydration with water
+* Adequate kilojoules for energy, primarily from carbohydrates
+* Essential fatty acids from sources like oily fish and nuts
+* Sufficient protein for cell maintenance and repair
+* A range of vitamins and minerals (e.g., iron, calcium, zinc)
+* Foods rich in plant-derived phytochemicals for disease protection
+Life Stage-Specific Nutritional Guidance
+Babies (Birth to 6 Months)
+* Nutritional Needs: Exclusively breastfeed; breastmilk meets all nutrient and fluid needs.
+* Recommendations: Avoid fruit juice; introduce extra water once solids are added.
+Babies (6 to 12 Months)
+* Nutritional Needs: Introduce solids around 6 months; continue breastfeeding until 12 months or longer.
+* Recommendations:
+   * Include iron-rich foods (e.g., iron-enriched cereals, pureed meats).
+   * Introduce foods one at a time to monitor for allergies.
+   * Avoid salt, sugar, honey, and cow’s milk as a drink in the first year.
+Young Children
+* Nutritional Needs: Offer a wide range of foods to ensure proper nutrition.
+* Recommendations:
+   * Encourage variety and repeated exposure to new foods (8-15 times may be necessary).
+   * Monitor for obesity and tooth decay; limit sugary snacks.
+   * Ensure adequate hydration, preferably with water.
+Children Entering Teenage Years
+* Nutritional Needs: Increased energy and nutrient requirements due to growth spurts.
+* Recommendations:
+   * Focus on nutrient-dense foods rather than empty calories.
+   * Include dairy for calcium; encourage girls to consume milk products.
+Older Teenagers and Young Adults
+* Nutritional Needs: Dietary changes may occur due to lifestyle transitions.
+* Recommendations:
+   * Maintain physical activity and limit alcohol.
+   * Ensure intake of iron and calcium-rich foods.
+Food for Pregnancy
+* Nutritional Needs: Focus on nutrient intake rather than calorie excess.
+* Recommendations:
+   * Increase intake of folate, iron, and iodine.
+   * Avoid alcohol, certain high-risk foods, and ensure adequate hydration.
+Food for Breastfeeding
+* Nutritional Needs: Increased energy demands.
+* Recommendations:
+   * Consume nutrient-dense foods rich in folate, iodine, and calcium.
+   * Stay hydrated and avoid alcohol.
+Food for Menopause
+* Nutritional Needs: Increased risk of bone thinning.
+* Recommendations:
+   * Prioritize calcium-rich foods and weight-bearing exercises.
+   * Include high-fiber, low-fat foods and phytoestrogens.
+Food for Older Adults
+* Nutritional Needs: Reduced appetite and intake can complicate nutritional adequacy.
+* Recommendations:
+   * Stay active to stimulate appetite.
+   * Focus on nutrient-dense foods and limit empty-calorie options.
+   * Ensure adequate hydration and fiber intake.
+Gender
+Source #1 https://ericasuter.com/the-performance-training-and-nutrition-menu-for-beast-athletes/
+Quick Nutrition Tips for  Female Athletes (Nutrition with Wendi)
+1. Eat breakfast every day – Non-negotiable for sustained energy and performance.
+2. Prioritize real food – Get nutrients from whole foods over supplements.
+3. Don’t skip meals – All meals matter for energy balance and recovery.
+4. Assess hunger – If still hungry post-meal, increase veggie intake for volume and nutrients.
+5. Stay hydrated – Drink 80–100 oz of fluids daily.
+6. Choose healthier cooking methods – Opt for baked, grilled, steamed, broiled, or roasted foods instead of fried.
+7. Sleep and food – Avoid high-fat, spicy, or large meals before bed for better sleep quality.
+8. Eat the rainbow – Include lean proteins, quality fats, and fluids at every meal.
+9. Eat regularly – Consume balanced meals or snacks every 2-3 hours to support energy levels and prevent hunger.
+________________
+
+
+Sample Meal Plan for Athletes (Nutrition with Wendi)
+Day
+	Breakfast
+	Snack
+	Lunch
+	Dinner
+	Post-Training Snack
+	Pre-Sleep Snack
+	Day 1
+	Protein + fiber-rich food + fruit/veggie
+	1–2 carb choices + 1–2 oz protein
+	Protein + whole grain + fruit/veggie
+	Protein + whole grain + fruit/veggie
+	Protein + carb within 30-60 min of training
+	Little protein + some carb
+	Day 2
+	2-egg veggie omelet + whole-grain English muffin with avocado + 1–2 cups water
+	Cucumber slices + string cheese
+	Whole-grain turkey pesto wrap + pear + carrot sticks
+	Grilled chicken sandwich (whole-grain bun), steamed veggies, salad (avocado) + water + low-fat milk
+	Banana + 8 oz low-fat chocolate milk
+	3 oz cottage cheese + raspberries
+	Day 3
+	Fruit yogurt parfait (1 cup berries, 1 cup Greek yogurt, ½ cup oats) + 1–2 cups water
+	Hummus + pepper slices
+	Brown rice + black beans, 4 oz baked/grilled chicken + spinach salad (vinaigrette/low-fat dressing) + water
+	Large baked potato + broccoli (low-fat cheese), sliced turkey + salsa + 1 cup berries + water
+	6 oz Greek yogurt + 1 cup berries
+	Banana + 2 Tbsp nut butter
+	Day 4
+	Smoothie (1 cup oats, 4 oz low-fat milk, 1 cup blueberries, spinach) + whole-grain toast
+	String cheese + whole-grain crackers + apple
+	Turkey tacos (whole-grain tortilla, 3 oz lean hamburger, cheese, lettuce, salsa, avocado) + 8 oz milk + water
+	Whole-wheat English muffin + tuna + melted Swiss cheese + baked baby carrots + green beans + side fruit + water
+	Grapes + string cheese
+	½ whole-grain turkey sandwich
+	Day 5
+	Whole-grain bagel + 2 oz turkey + cheese + tomato + 1–2 cups water
+	Protein bar (e.g., KIND, RX) + pineapple or raspberries
+	Whole-grain pasta + broccoli + cherries + 3 oz steak + tart cherry juice
+	Whole-grain waffle + peanut butter + banana slices + water
+	String cheese + pear slices
+	
+
+	Day 6
+	Whole-grain waffle + almond butter, chia/flax seed + pear/orange + water
+	Whole-grain rice cake + nut butter + blueberries or banana slices
+	Whole-wheat English muffin topped with marinara, mozzarella, grilled chicken, spinach + side fruit + water
+	Hamburger + whole-grain pasta + green beans + spinach salad with feta + water
+	Greek yogurt + blueberries
+	Whole-grain waffle + peanut butter + banana slices
+	Day 7
+	Whole-wheat pita + egg + low-fat cheese + sliced apple + water
+	Whole-wheat crackers + strawberries + string cheese
+	Sautéed shrimp + asparagus + brown rice + blueberries + water/low-fat milk
+	Sautéed veggies + ground turkey + sweet potato + raspberries + water/low-fat milk
+	Chunky monkey smoothie
+	Whole-wheat bread + almond butter
+	Day 8
+	Oatmeal/overnight oats (cow’s/soy milk, almonds, peaches) + water
+	Snap peas + bell peppers + hummus/low-fat ranch
+	3 oz salmon or baked fish + veggie salad + avocado + whole-wheat roll + water
+	Tomato basil wrap with tofu, sautéed mushrooms, onions + frozen grapes + water/low-fat milk
+	2 hard-boiled eggs + blueberries
+	Banana soft serve (frozen banana + 4 oz milk + protein powder + ice)
+	Source #2: https://www.researchgate.net/publication/21101240_Gender_differences_in_eating_behavior_and_body_weight_regulation
+Gender Differences in Eating Behavior and Body Weight Regulation
+Authors: Barbara J. Rolls, Ingrid C. Fedoroff, Joanne F. Guthrie
+Affiliation: Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine
+Overview
+Gender differences in eating behavior and body weight regulation begin in adolescence. Men generally consume more calories and exhibit different eating styles compared to women, who tend to be socialized into more restrictive eating patterns. Women experience greater food-related conflicts, such as enjoying high-calorie foods while feeling pressured not to eat them. This pressure often leads to dieting behaviors in young girls, contributing to a higher prevalence of body dissatisfaction and eating disorders among women.
+Key Terms:
+* Anorexia Nervosa
+* Body Weight
+* Bulimia Nervosa
+* Eating Behavior
+* Gender
+* Obesity
+________________
+
+
+Developmental Changes
+Infancy and Childhood
+* Boys and girls exhibit similar eating behaviors in early childhood.
+Adolescence
+* Gender differences become pronounced during adolescence, driven by physiological and social changes.
+* Prepubertal boys and girls are comparable in lean body mass, skeletal mass, and body fat.
+* By maturity, women have approximately twice the body fat of men, while men have 1.5 times the lean body mass.
+Hormonal Influences
+* Post-puberty, women undergo significant hormonal fluctuations that impact food intake. Studies indicate that food intake varies with the menstrual cycle, with lower intake around ovulation (high estrogen) and higher intake during the luteal phase (low estrogen).
+* Research shows a similar pattern in appetite ratings, particularly in women with premenstrual syndrome.
+Male Eating Patterns
+* Less research is available on how sex hormones affect male eating behaviors, but some studies suggest men may have a preference for sweeter foods.
+________________
+
+
+Gender Differences in Food Selection and Intake
+Adolescents
+* Boys typically require a higher caloric intake due to greater body weight and metabolic rates. Recommended intake is 3,000 kcal/day for boys and 2,200 kcal/day for girls aged 15-18.
+* National Health and Nutrition Examination Survey (NHANES II) data reveal that average caloric intake for males (3,048 kcal/day) exceeds that of females (1,687 kcal/day).
+* Males consume more calorie-dense foods, while females often choose lower-calorie options.
+Adults
+* Energy needs continue to differ in adulthood, with men requiring more calories (2,900 kcal/day) compared to women (2,220 kcal/day).
+* NHANES II indicates that average caloric intake remains higher for men (2,554 kcal/day) than for women (1,596 kcal/day).
+* Studies show minimal differences in the nutritional quality of diets between genders when controlling for total energy intake.
+Food Preferences
+* Men report higher consumption of meats, dairy, and carbohydrate-rich foods, while women tend to consume more fruits, yogurt, and low-calorie beverages.
+* Data from 1977-1985 show evolving food consumption patterns, with both genders becoming more health-conscious, though women still consume more low-calorie beverages than men.
+
+
+Satisfaction with Body Weight and Shape
+Overview
+There are notable gender differences in how men and women perceive and feel about their body shape and weight. Women generally report lower satisfaction with their body shape and often perceive themselves as overweight, while many men tend to view themselves as underweight and express a desire to gain weight. This disparity extends to overall satisfaction with body weight, with men typically feeling more content with their perceived weight compared to women.
+________________
+
+
+Key Findings
+1. Body Satisfaction:
+   * Women are less satisfied with their body shape than men (Connor-Greene, 1988; Drewnowski & Yee, 1987).
+   * Many women wish to be thinner than they perceive themselves to be, while men generally prefer women to be heavier than women desire (Fallon & Rozin, 1985).
+2. Influence of Social Class:
+   * Social class significantly impacts body image perceptions. Gender and family income are strong predictors of adolescents' desires to be thin (Dornbusch et al., 1984).
+   * Higher-income girls are more likely to express a desire to lose weight, with nearly half of adolescent girls wishing to lose weight, in contrast to very few boys regardless of income.
+3. Historical Context of the Ideal Female Shape:
+   * Women's status has historically been more closely tied to physical appearance compared to men, increasing pressure to conform to prevailing body ideals (Mazur, 1986; Seid, 1989).
+   * The ideal female body has evolved significantly over the centuries, from the voluptuous figures celebrated in art from the 16th to 19th centuries to the thin, boyish ideal of the 1920s, which emphasized a less curvaceous appearance.
+4. Current Trends:
+   * Today’s cultural ideal often leads women to diet in pursuit of an unrealistic body image. In a study by Schwartz, Thompson, and Johnson (1981), over 75% of women cited appearance as their primary motivation for weight loss, rather than health.
+________________
+
+
+Conclusion
+Understanding the gender distinctions in body satisfaction and the societal pressures surrounding body image is crucial for addressing body weight concerns and promoting healthier self-perceptions among both genders. Further research can help develop effective interventions to improve body satisfaction across different demographics.
+Obesity
+Sex Differences in Body Fat
+Overview
+Women typically have a higher fat-to-lean tissue ratio than men. This results in a lower basal metabolic rate since fat is less metabolically active than lean tissue. As a result, women generally require less energy. Key life stages—adolescence, pregnancy, and menopause—are associated with increases in body fat for women, while men do not experience similar changes.
+Key Points
+1. Basal Metabolic Rate:
+   * Women have a lower basal metabolic rate due to a higher proportion of body fat and smaller body size compared to men.
+2. Life Stages:
+   * Significant increases in body fat occur during:
+      * Adolescence
+      * Pregnancy
+      * Menopause
+   * Aging in women often leads to more fat accumulation as metabolic rates decrease.
+3. Fat Distribution:
+   * Men usually have more abdominal fat, while women tend to have more fat in the lower body.
+   * Hormonal changes during the menstrual cycle, pregnancy, and lactation affect fat metabolism in women.
+4. Hormonal Influences:
+   * In menstruating women, lipoprotein lipase (LPL) activity increases in the hip area, leading to fat accumulation. This is amplified during pregnancy and reversed during lactation.
+5. Health Implications:
+   * A higher waist-hip ratio, indicating more abdominal fat, is linked to increased risks of diabetes and cardiovascular issues.
+   * Lower body fat may be less harmful, but obesity is still a significant risk factor for coronary heart disease in middle-aged women.
+Conclusion
+Understanding the differences in body fat distribution and associated health risks for women is crucial in addressing obesity and its health concerns effectively.
+Gender and Weight Loss
+Overview
+Men and women in the United States respond differently to being overweight. Women are more likely to view themselves as overweight, experience greater anxiety related to their weight, and make more attempts to lose weight. Although it has been thought that men are more successful at weight loss, recent studies have challenged this notion.
+Key Points
+1. Perception of Weight:
+   * Women are more likely to believe they are overweight and to feel anxious about it.
+   * Most studies suggest a slightly higher prevalence of obesity in women compared to men.
+2. Weight Loss Attempts:
+   * Women make more attempts to lose weight than men.
+   * A study showed that only 3% of participants maintained their weight loss after a 15-week program, with women who had early-onset obesity showing the best maintenance (Kramer et al., 1989).
+3. Long-Term Maintenance:
+   * Women tend to maintain weight loss better than men (Forster & Jeffery, 1986).
+   * Women reported lower self-esteem and less confidence in controlling their eating compared to men.
+4. Eating Responses:
+   * Women are more likely to eat in response to mood changes and periods of low self-esteem.
+   * Men, on the other hand, tend to overeat in social situations.
+5. Program Implications:
+   * The findings suggest that weight-loss programs should be gender-specific.
+   * Women may need more support for mood-related eating issues, while men might benefit from strategies to manage eating in social contexts.
+Source #3: https://www.medicinenet.com/how_does_gender_affect_nutritional_health/article.htm
+Gender and Basic Nutritional Needs
+Macronutrients
+Foods contain three main macronutrients: protein, fat, and carbohydrates. For optimal health, adults should consume these macronutrients in specific ratios, which are consistent for both men and women:
+* Protein: 10 to 35% of total calories
+* Carbohydrates: 45 to 65% of total calories
+* Fats: 20 to 35% of total calories
+Individual Variations
+Nutritional needs can vary within genders based on factors such as:
+* Genetic makeup
+* Body composition
+* Hormonal levels
+* Chronic diseases
+* Medications
+These factors can influence individual requirements for both macronutrients and micronutrients.
+________________
+
+
+Micronutrients
+Micronutrients, which include vitamins and minerals, are needed in smaller amounts for good health. The FDA has established daily nutritional goals for these micronutrients.
+Differences by Gender
+Men generally require more calories than women, leading to higher needs for certain micronutrients. Men need more of the following:
+* Magnesium
+* Potassium
+* Zinc
+* Vitamin A
+* Vitamin C
+* Thiamin
+* Riboflavin
+* Niacin
+* Choline
+* Vitamin K
+* Vitamin B-6 (after age 70)
+Shared Nutritional Goals
+Some daily nutritional goals are the same for both males and females, including:
+* Phosphorus
+* Sodium
+* Vitamin E
+* Vitamin D
+* Vitamin B-12
+* Folate
+________________
+
+
+Conclusion
+Understanding the macronutrient and micronutrient needs based on gender and individual factors is essential for achieving optimal health. Proper dietary planning should consider these variations to ensure all nutritional needs are met.
+Micronutrients and Female Reproductive Cycles
+Overview
+Women’s micronutrient needs can vary significantly due to reproductive functions. Specific micronutrients are crucial for women during different life stages, particularly during reproductive years and after menopause.
+Key Micronutrient Needs
+1. Iron:
+   * Women need more than twice the amount of iron as men during their reproductive years.
+   * After age 50, iron needs equalize between men and women.
+2. Calcium:
+   * Women's daily calcium intake requirement increases at age 51 to support bone health after menopause.
+   * Men's calcium needs increase later, at age 71.
+3. Pregnancy and Lactation:
+   * Pregnant and lactating women have higher requirements for:
+      * Folate
+      * Iodine
+      * Choline
+      * Iron
+Folic Acid Recommendation
+Medical experts advise women who can become pregnant to take folic acid supplements, even if they are not planning a pregnancy. Adequate folate is essential to prevent neural tube defects, making it important during the month before conception and throughout the first trimester.
+________________
+
+
+Do Food Choices Differ by Gender?
+Food Preferences
+Studies indicate that men and women often have different food preferences, impacting their nutritional intake.
+Food Choices
+* A study of young adults found that:
+   * Women consumed more whole grains, cereals, and cooked vegetables.
+   * Women ate fewer eggs, meat, and processed meats.
+Meat Consumption
+* Research shows men tend to eat more meat and have a more positive view of it, linking meat consumption with masculinity.
+* Women are more likely than men to adopt vegetarian or vegan diets.
+Plant-Based Diets
+* A Yale study found women are generally more open than men to adopting plant-based diets, motivated by health, environmental concerns, and animal welfare.
+________________
+
+
+Are Women Healthier Eaters?
+Healthy Eating Habits
+Research suggests that women tend to be more knowledgeable about nutrition and often make healthier dietary choices.
+Healthy Eating Behaviors
+* A survey across 23 countries revealed that women are more likely than men to:
+   * Avoid high-fat foods
+   * Consume fruits
+   * Add fiber-rich foods
+   * Limit salt intake
+Food Avoidance
+* A Swedish study found women often avoid foods perceived as unhealthy, including:
+   * Gluten
+   * Red meat
+   * White flour
+   * Preservatives
+   * Food coloring
+Dieting Trends
+* Women in the Swedish study were found to be more likely to be dieting than men. However, the motivation for making healthy choices often outweighed the reasons for dieting.
+________________
+
+
+Conclusion
+Women’s nutritional needs, especially regarding micronutrients, are influenced by reproductive functions and life stages. Additionally, food choices and eating habits differ between genders, with women generally exhibiting healthier eating patterns and a greater awareness of nutrition.
+Source #4: https://www.sciencedirect.com/science/article/pii/S1871403X22000904
+Title
+Differences in Weight Loss Outcomes for Males and Females on a Low-Carbohydrate Diet: A Systematic Review
+Authors
+Alyssa Susanto¹, Jessica Burk¹, Samantha Hocking¹ ², Tania Markovic¹ ², Tim Gill¹
+Abstract
+Weight loss responses vary among individuals, with some factors, including gender, influencing outcomes. This review systematically examines weight change differences between males and females on low-carbohydrate diets. While most studies report no significant gender differences, those that do find that males tend to lose more weight than females. Few trials stratify data by gender, an important consideration given physiological and psychological differences between genders that may affect weight loss outcomes. Tailored weight loss strategies considering gender could improve overall success in weight management.
+Keywords
+Low-carbohydrate diet, Weight loss, Obesity, Gender differences, Tailoring, Demographics
+Introduction
+Obesity rates have tripled since 1975, becoming a global health concern. Most weight loss studies report average outcomes, overlooking individual variability. Factors such as compliance, compensatory behaviors, and hormonal differences contribute to this variability. Tailoring weight loss advice based on demographics such as age, gender, and psychosocial factors enhances long-term success. Research suggests males may respond better to low-carbohydrate diets than females, yet few studies focus on gender differences in these interventions. This review explores weight loss variations by gender in low-carbohydrate diet trials.
+Methods
+Eligibility Criteria
+This review includes clinical trials on low-carbohydrate diets targeting weight loss in adults (BMI ≥ 25 kg/m²) that analyze gender differences. Trials that included children, only one gender, or pharmacological interventions were excluded.
+Search Strategy
+Three databases—Medline, EMBASE, and Cochrane Controlled Register of Trials—were searched from 1985 to 2019. Search terms included ‘weight loss,’ ‘obesity,’ ‘overweight,’ ‘low-carbohydrate,’ ‘gender,’ and ‘clinical trial.’ Screening and data extraction were performed independently by two reviewers, with disagreements resolved by a third reviewer.
+Results
+The majority of studies reported no significant gender difference in weight loss outcomes. However, when differences were found, males typically lost more weight than females. Males tend to be underrepresented in weight loss trials, making up only 27% of participants. Biological factors such as body composition and hormonal differences, along with social factors like motivation and body image concerns, contribute to gender-based variations in weight loss outcomes.
+Discussion
+Weight loss outcomes are influenced by gender-specific physiological and psychological factors. Males, due to differences in metabolism, fat distribution, and muscle mass, may achieve faster short-term weight loss than females on low-carbohydrate diets. Tailoring interventions by gender could enhance the effectiveness of weight loss strategies. However, the lack of gender-specific data in trials highlights the need for more research in this area.
+Conclusion
+This review demonstrates that males often lose more weight than females on low-carbohydrate diets, although not all studies report significant differences. Future research should focus on gender-specific weight loss interventions to provide more personalized and effective treatment plans for obesity.
+Source #5: https://www.hopkinsmedicine.org/-/media/files/health/ebooks/healthy-eating-guide-women.ashx
+Healthy Eating Made Simple: A Guide for Women
+Introduction
+Navigating the world of healthy eating can feel overwhelming. With trends changing frequently and conflicting information everywhere, it’s essential to focus on lasting habits rather than fads. This guide provides straightforward, expert-backed advice to help you cultivate healthy eating habits that promote weight management, energy, and long-term health.
+Find a Healthy Diet You Can Stick To
+Go Mediterranean
+The Mediterranean diet is well-researched and offers numerous health benefits, including:
+* 30% reduction in heart disease
+* 80% lower risk of early death
+* 43% lower risk of weight gain
+Key components include:
+* Whole grains: Opt for oatmeal, quinoa, and brown rice over refined carbs.
+* Lean proteins: Choose fish and poultry instead of red and processed meats.
+* Fruits and vegetables: Emphasize a variety, especially leafy greens.
+* Beans and lentils: Great sources of fiber, protein, and essential nutrients.
+* Healthy fats: Use olive oil, nuts, and avocados, while limiting saturated fats.
+* Low-fat dairy: Include skim milk and low-fat yogurt for calcium.
+* Occasional red wine: Enjoy in moderation, if you choose.
+* Limit sweets and processed foods.
+Are Eggs a Healthy Choice?
+Recent studies indicate that dietary cholesterol, such as that found in eggs, doesn’t significantly impact blood cholesterol levels. Eggs are low in saturated fat, making them a nutritious, low-calorie protein source.
+Maximize Nutrition with Minimal Time
+Easy Meal Prep
+Healthy meal preparation doesn’t have to be time-consuming. Here are some strategies to simplify the process:
+* Keep it simple: Assemble meals like salads topped with tuna or hard-boiled eggs.
+* Buy pre-cut vegetables: Save time on prep work.
+* Try a meal delivery service: Discover new recipes and ingredients.
+* Stock frozen vegetables: They provide a quick, nutrient-rich addition to any dish.
+* Spice it up: Experiment with different herbs and spices for variety.
+* Plan a prep day: Prepare a week’s worth of lunches on Sundays.
+* Double up: Cook in bulk and save leftovers for future meals.
+Managing Your Weight
+Understanding Weight Management
+As you age, metabolism may slow, making weight management more challenging. Here are key points to consider:
+* Avoid crash diets: They can harm metabolism and lead to weight regain.
+* Focus on long-term changes: Adopt new eating habits that you can maintain.
+What’s a Healthy Weight?
+Body Mass Index (BMI) is a general indicator of weight status:
+* Underweight: BMI < 18.5
+* Normal weight: 18.5 - 24.9
+* Overweight: 25 - 29.9
+* Obesity: BMI ≥ 30
+Considerations:
+* BMI doesn’t reflect body composition, so muscular individuals may not fit typical categories.
+* Discuss healthy weight goals with your healthcare provider.
+Planning Ahead to Stay on Track
+Research shows that cooking at home promotes healthier eating habits. Here are some meal planning tips:
+* Create simple versions of favorite foods: Homemade meals are often healthier than restaurant options.
+* Set aside time for meal planning: Have a shopping list ready to ensure you have nutritious ingredients.
+Meal Planning Strategies
+* Use a recipe-saving system: Utilize apps or physical folders to organize recipes.
+* Choose a planning day: Consistently plan meals and shopping lists each week.
+* Establish themed nights: For example, Meatless Mondays can simplify meal ideas.
+* Repurpose meals: Use leftovers creatively, like turning roast chicken into chicken salad.
+By focusing on sustainable habits and planning, you can enhance your eating habits and promote better health in the long run.
+Simple Ways to Lose Weight
+Strategies for Maintaining a Healthy Weight
+1. Recognize Portion Distortion
+   * Portion sizes have increased in recent years. Use your fist as a rough guide for measuring:
+      * 1 cup of whole grains = fist size
+      * 2 cups of vegetables = two fists
+   * At restaurants, consider cutting your portion in half.
+2. Share Meals Wisely
+   * Be mindful of eating portions similar to those of your dining companions.
+   * Remember that women typically need fewer calories than men.
+3. Identify Emotional Triggers
+   * Notice when you eat due to sadness, anxiety, or boredom.
+   * Develop healthy coping strategies, such as taking a brisk walk.
+4. Keep a Food Log
+   * Track everything you eat and your emotions for a few days.
+   * Use a notebook, printable food log, or calorie-tracking app to capture:
+      * Hunger levels
+      * Portion sizes
+      * Locations and company during meals
+      * Feelings after eating
+________________
+
+
+Eating Out Without Going All Out
+Tips for Dining Out
+1. Preview Your Options
+   * Check the restaurant’s menu online to make informed choices.
+2. Share with a Friend
+   * Split large portions or take leftovers home if you can't finish your meal.
+3. Study the Salad Menu
+   * Look for salads with a variety of nutritious ingredients like grilled vegetables, lean meats, and whole grains.
+4. Be Wary of Sides and Sauces
+   * Request dressings and sauces on the side to control portions.
+5. Watch the Extras
+   * Be mindful of appetizers, drinks, and desserts that can add extra calories.
+________________
+
+
+Snack Smart
+* Snacks can be part of a healthy diet; they help prevent overeating at meals.
+* Choose nutrient-dense snacks for better satiety:
+   * Fruits or vegetables with:
+      * Plain or vanilla Greek yogurt
+      * Nuts (1 ounce)
+      * Nut butter (2 tablespoons)
+      * Cheese stick
+      * Hummus
+________________
+
+
+Healthy Eating Across Life Stages
+Nutritional Needs Post-Menopause
+1. Protein
+   * Essential for bone health and to prevent age-related muscle loss when combined with physical activity.
+2. Iron
+   * After menopause, iron needs decrease. Consult your doctor or dietitian for dietary recommendations.
+3. Whole Soy Foods
+   * May help alleviate menopause symptoms and lower LDL cholesterol. Whole soy foods include:
+      * Edamame
+      * Tofu, tempeh, and miso
+      * Soy milk
+________________
+
+
+The MIND Diet: Brain Food
+Overview
+* Combines the DASH and Mediterranean diets to reduce the risk of Alzheimer’s disease.
+Potential Benefits
+* 53% reduced risk of Alzheimer’s for strict followers.
+* 35% reduced risk for moderate adherents.
+Foods to Eat Regularly
+* Yes:
+   * Whole grains: 3+ servings daily
+   * Dark leafy greens: 6+ servings weekly
+   * Other vegetables: 1+ daily
+   * Berries: 2+ weekly
+   * Nuts: 5+ servings weekly
+   * Beans/legumes: 3+ servings weekly
+   * Poultry: 2+ servings weekly
+   * Fish: 1+ weekly
+   * Wine: 5-ounce glass daily (optional)
+   * Olive oil: Primary cooking oil
+* Avoid:
+   * Red meat: <4 servings weekly
+   * Sweets and pastries: <5 servings weekly
+   * Butter/margarine: <1 tablespoon daily
+   * Cheese: <1 serving weekly
+________________
+
+
+Pregnancy Eating Do’s and Don’ts
+Do's
+* Load up on:
+   * Whole grains, vegetables, fruits, low-fat dairy, lean proteins, healthy fats (olive oil, avocados), and water.
+Don’ts
+* Avoid high-risk foods:
+   * Deli meats, soft cheeses, sushi, undercooked eggs.
+   * Limit caffeine and avoid alcohol and high-mercury seafood (e.g., shark, swordfish).
+Prenatal Vitamins
+* Take prenatal vitamins with iron, calcium, and folic acid. Consult your doctor for recommendations.
+Weight Gain Guidelines
+* Second trimester: Add 340 calories/day.
+* Third trimester: Add 450 calories/day.
+________________
+
+
+Nutrition Needs As You Get Older
+Key Nutrients
+1. Calcium
+   * Important for preventing osteoporosis. Sources include milk, kale, broccoli, and yogurt.
+   * Consult your doctor about calcium supplements.
+2. Vitamin D
+   * Necessary for calcium absorption. Aim for 600 IU daily; consider a supplement if levels are low.
+
+
+Medical Conditions
+Source #1: Source #1: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8994850/
+Introduction
+In recent decades, global changes in nutritional patterns and increased sedentary behavior have contributed to a worldwide epidemic termed ‘diabesity,’ a condition in which obesity and type 2 diabetes mellitus (T2DM) coexist. This issue is particularly relevant in Oman, where T2DM cases are increasing by approximately 7000 per year, bringing the total number to around 98,000 cases. For adults with T2DM, adherence to self-care routines—including dietary restrictions, physical exercise, medication, and glucose monitoring—is critical for achieving sustained glycemic control and favorable long-term health outcomes.
+Dietary adherence is especially challenging for patients with T2DM. Unlike medication adherence, which involves fewer and more straightforward actions, dietary changes require consistent effort throughout the day. Furthermore, three specific challenges complicate diet adherence in T2DM patients:
+1. Customized diets based on individual patient characteristics.
+2. Conflicting dietary recommendations from various health authorities.
+3. Evolving nutritional science, which may cause confusion and reduce patients’ resolve to adhere to dietary plans.
+Only about 25% of T2DM patients adhere to their prescribed dietary plans, highlighting the importance of developing effective strategies for improving adherence. This literature review aims to define diet adherence for healthcare providers and identify key barriers to diet adherence in T2DM patients.
+Definitions and Conceptual Background
+In healthcare literature, the terms "adherence," "compliance," "concordance," and "sustenance" are often used interchangeably. The term "adherence" gained popularity in the mid-1990s, replacing the term "compliance," as it is perceived as less judgmental and more reflective of a mutual responsibility between the patient and healthcare provider. Adherence is frequently used in combination with other terms, such as "medication adherence," "exercise adherence," and "diet adherence."
+Adherence to a diabetic diet, the cornerstone of T2DM management, involves individualized dietary recommendations given within a medical context. A healthy diet typically includes at least 400 grams of fruits and vegetables daily, with limited intake of free sugars and fats. Despite its proven benefits, dietary adherence remains low among T2DM patients. For example, in the US, only 28% of people with diabetes meet the recommended guidelines for saturated fat, and adherence rates are similarly low in other regions, such as Jordan and New Zealand.
+Methods
+The Walker and Avant method of concept analysis was employed to clarify the meaning of diet adherence, its attributes, antecedents, and consequences. The analysis involved a comprehensive literature search of English-language studies published between 2010 and 2020. Scientific databases, such as CINAHL, PubMed, PsycINFO, and others, were searched using keywords including "diet adherence," "compliance," and "T2DM." The search yielded a range of studies, which were evaluated for inclusion based on their focus on defining attributes, antecedents, consequences, and measurement of diet adherence.
+Results
+Definition of Diet Adherence
+Adherence, according to the Cambridge English Dictionary, is the act of following rules or guidelines strictly. When combined with "diet," it refers to faithfully following dietary recommendations, usually agreed upon by both the patient and healthcare provider. In T2DM patients, these dietary recommendations must be tailored to the individual, taking into account their disease stage, biochemical parameters, and available food options.
+The World Health Organization defines adherence as the degree to which a person's behavior, including dietary habits, aligns with healthcare recommendations. Self-efficacy and family support are crucial for maintaining dietary adherence, with social and economic factors playing a significant role.
+Key Attributes of Diet Adherence
+Three critical attributes of diet adherence were identified:
+1. Following Recommendations: The first step in dietary adherence is understanding and implementing dietary recommendations. This involves changing negative thoughts into positive internal dialogues and learning new skills to adopt healthier behaviors.
+2. Self-Monitoring: Self-monitoring involves awareness and recording of dietary intake, which can include calories, macronutrients, or portion sizes. This process helps patients improve their self-management and has been linked to successful weight loss.
+3. Maintenance and Relapse Prevention: Maintaining dietary changes over the long term is essential but challenging. Factors such as stress or social events may lead to relapses. Strategies for relapse prevention are necessary to help patients sustain dietary adherence.
+Antecedents of Diet Adherence
+Several antecedents must precede the behavior change required for successful diet adherence:
+* Motivation: Motivation is critical in initiating and maintaining adherence. It mobilizes personal resources and is closely linked to improved clinical outcomes, such as lower glycated hemoglobin (HbA1c) levels.
+* Understanding Recommendations: Patients must fully understand dietary recommendations to adhere to them. Studies have shown that a better understanding leads to higher adherence.
+* Self-Efficacy: The belief in one's ability to follow a prescribed diet is a significant predictor of long-term success.
+* Goal Setting: Setting specific, measurable, achievable, realistic, and time-bound (SMART) goals can help improve dietary adherence.
+* Social Support: Family and social support play a crucial role in helping individuals maintain dietary changes, particularly when it comes to meal planning and grocery shopping.
+Consequences of Diet Adherence
+Adhering to a prescribed diet offers numerous benefits, including:
+* Clinical Improvements: Better control of body mass index (BMI), HbA1c, cholesterol levels, and blood pressure.
+* Psychological Benefits: Increased self-esteem, confidence, and overall health-related quality of life.
+Conclusion
+This concept analysis clarified the definition of diet adherence in T2DM patients, highlighting the attributes, antecedents, and consequences of adherence. Understanding these components can help healthcare providers develop better strategies and interventions to support patients in adhering to their dietary plans.
+Source #2: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2821339
+Study Information
+Title: Healthy Prenatal Dietary Pattern and Offspring Autism
+Authors: Catherine Friel, PhD; Alastair H. Leyland, PhD; Jana J. Anderson, PhD; Alexandra Havdahl, PhD; Anne Lise Brantsæter, PhD; Ruth Dundas, MSc
+Source: JAMA Netw Open. 2024;7(7)
+. doi:10.1001/jamanetworkopen.2024.22815
+Publication Date: July 18, 2024
+Key Points
+Question: What is the link between a healthy prenatal dietary pattern and autism diagnosis or autism-related traits in children, based on two large cohort studies, MoBa (Norwegian Mother, Father, and Child Cohort Study) and ALSPAC (Avon Longitudinal Study of Parents and Children)?
+Findings: Maternal consumption of a healthy prenatal diet was associated with reduced odds of offspring autism diagnosis (MoBa) and fewer social communication difficulties (MoBa and ALSPAC). No consistent associations were found for other autism traits.
+Meaning: Prenatal diet may play a role in autism-related outcomes and contribute to understanding autism's causes.
+Abstract
+Objective: Investigate the relationship between prenatal dietary patterns and autism diagnosis/autism-associated traits using large cohort studies from Norway and the UK.
+Design: Cohort study using data from MoBa (84,548 mother-infant pairs) and ALSPAC (11,760 mother-infant pairs). Data from FFQs (food frequency questionnaires) were analyzed, and children were followed up to age 8.
+Main Outcomes: Odds of autism diagnosis and social communication difficulties in children were compared across levels of adherence to a healthy prenatal dietary pattern.
+Introduction
+Autism diagnosis and autism-associated traits vary across the population, and social communication difficulties and restrictive behaviors are two key features.
+Prenatal dietary patterns are a potential factor in autism development, but existing studies have been small and inconsistent.
+Objective: To examine the link between a healthy prenatal diet and autism/autism-related traits in large populations (MoBa and ALSPAC).
+Methods
+Study Design: Data from two cohort studies (MoBa in Norway and ALSPAC in the UK) were used. Participants completed FFQs to report dietary patterns during pregnancy.
+Population: MoBa involved 84,548 pregnancies, and ALSPAC involved 11,760 pregnancies. Both cohorts tracked autism diagnoses and autism-associated traits (like social communication difficulties) up to age 8.
+Dietary Pattern: A healthy prenatal diet was defined through factor analysis and included high consumption of fruits, vegetables, fish, nuts, and whole grains, and low consumption of red/processed meat and sugary foods.
+Outcome Measures:
+Autism Diagnosis: Collected from hospital records and diagnostic criteria (ICD-10 codes) in MoBa.
+Social Communication Difficulties: Measured using the Social Communication Questionnaire (SCQ) in MoBa and the Social and Communication Disorders Checklist (SCDC) in ALSPAC.
+Statistical Analysis
+Confounders: Maternal age, education, depression, BMI, smoking, alcohol use, multivitamin use, and planned pregnancy were considered.
+Models: Odds ratios were calculated for each outcome (autism diagnosis, SCQ, SCDC) by comparing high, medium, and low adherence to a healthy diet. Sensitivity analyses tested robustness by adjusting for additional factors.
+Results
+Main Findings:
+High adherence to a healthy prenatal diet was associated with lower odds of:
+Autism diagnosis in MoBa (OR 0.78).
+Social communication difficulties in MoBa and ALSPAC (OR 0.74).
+No consistent association with restrictive/repetitive behaviors.
+Sensitivity Analysis:
+A plant-based diet was linked to fewer social communication difficulties.
+A fish-based diet was associated with fewer restrictive behaviors.
+Discussion and Conclusion
+Key Insights:
+A healthy prenatal diet may reduce the odds of autism diagnosis and social communication difficulties, especially in female offspring.
+Limitations:
+Inconsistent results for some autism traits.
+Study relied on self-reported dietary information.
+Conclusion: This study supports the idea that prenatal diet can influence autism-related outcomes, though more research is needed.
+Supplemental Information
+Data Sources: MoBa and ALSPAC provided a comprehensive data set for this study.
+Ethical Considerations: Both studies were approved by respective ethics committees, and participants provided informed consent.
+References
+The study references previous literature on autism prevalence, prenatal nutrition, and dietary patterns, but detailed references are excluded here for brevity.
+Source #3: https://www.hiv.gov/hiv-basics/living-healthy-with-hiv/taking-care-of-yourself/food-safety-and-nutrition
+
+
+Importance of Good Nutrition for People with HIV
+Why Is Good Nutrition Important?
+* General Health: Nutrition provides essential nutrients needed for overall health, growth, and proper body function.
+* For People with HIV: Good nutrition strengthens the immune system, maintains health, and enhances the absorption of HIV medications.
+________________
+
+
+What Is Good Nutrition?
+* Healthy Dietary Pattern: According to the USDA, a balanced diet includes:
+   * A variety of fruits and vegetables
+   * Whole grains
+   * Protein foods
+   * Dairy or fortified soy alternatives
+* Nutrient-Rich Choices: Focus on foods low in added sugars, saturated fat, and sodium to reduce the risk of chronic diseases (e.g., diabetes, heart disease, obesity).
+* Resources: Explore MyPlate.gov for tips on healthy eating and how to read Nutrition Facts labels.
+Guidance
+* Consult with your HIV healthcare provider or a registered dietitian before making major dietary changes. Many clinics offer access to dietitians for personalized advice.
+________________
+
+
+Weight Gain and HIV Medicines
+* Antiretroviral Therapy (ART): Essential for controlling HIV. Adhering to ART can lead to an undetectable viral load, which helps maintain health and prevent transmission.
+* Weight Gain Factors:
+   * Some ART can cause weight gain, but the reasons are unclear.
+   * Weight gain may occur as individuals regain health after treatment.
+   * More common in women, Black/African American individuals, and those with prior health issues.
+* Other Influences: Lifestyle habits, sleep, other medications, and genetics can also affect weight.
+Health Risks
+* Being overweight can increase the risk of chronic diseases. Discuss any weight concerns with your healthcare provider.
+________________
+
+
+Eating Healthy on a Budget
+* Budget-Friendly Tips:
+   * Use the Shop Simple with MyPlate tool for cost-effective shopping and meal planning.
+   * Inquire about local food resources and assistance programs through your healthcare provider.
+________________
+
+
+The Role of Exercise
+* Physical Activity: Regular exercise is vital for maintaining a healthy lifestyle, including for those living with HIV.
+________________
+
+
+Food Safety for People with HIV
+* Increased Risk: Foodborne illnesses can be more severe for those with compromised immune systems. Follow these safety guidelines:
+   * Avoid:
+      * Raw eggs, meats, and seafood (including sushi)
+      * Unpasteurized dairy products and juices
+   * Four Steps to Prevent Food Poisoning:
+      * Clean: Wash hands and surfaces frequently.
+      * Separate: Prevent cross-contamination.
+      * Cook: Use a thermometer to ensure proper cooking temperatures.
+      * Chill: Refrigerate leftovers promptly.
+Water Safety
+* Importance: Contaminated water can carry harmful pathogens. Learn safe practices for drinking and preparing food.
+Hepatitis A Prevention
+* Risk: People with HIV are at higher risk for severe hepatitis A. Vaccination is recommended and involves two doses, 6–18 months apart.
+________________
+
+
+This structured overview provides essential information on nutrition, weight management, food safety, and health resources for individuals with HIV.
+
+
+
+
+
+
+Source #4: https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-older-adults-and-people-cancer-diabetes-hivaids-organ-transplants-and-autoimmune
+Food Safety for Vulnerable Populations
+Overview
+Food safety is crucial for everyone, but it's especially important for individuals with weakened immune systems. This guide helps older adults and those with cancer, diabetes, HIV/AIDS, organ transplants, or autoimmune diseases avoid foodborne illnesses.
+________________
+
+
+The Immune System: Importance
+* Function: The immune system defends against infections and foreign invaders. It comprises a network of cells, tissues, and organs that work together to protect the body.
+* Decline with Age: Aging and certain diseases weaken the immune system. Medications for conditions like HIV/AIDS, organ transplants, and autoimmune diseases can also compromise immune function.
+________________
+
+
+Why Food Safety Matters
+* Risk of Foodborne Illness: Contaminated food can harbor bacteria, viruses, or parasites that lead to food poisoning. In the U.S., 48 million people experience foodborne infections each year, with 128,000 hospitalized and 3,000 dying from these illnesses.
+* Higher Vulnerability: Individuals with weakened immune systems face a greater risk of severe illness from foodborne pathogens, including prolonged sickness, hospitalization, or death.
+Specific Risks
+1. Older Adults (65+):
+   * Higher hospitalization and mortality rates from foodborne illnesses due to aging organs and systems.
+   * Slower digestion and reduced stomach acid increase the risk of bacterial growth.
+   * Decline in immune function after age 50, with significant weakening by age 75.
+2. People with Cancer:
+   * Cancer therapies (radiation, chemotherapy) can weaken the immune system.
+   * Cancer that spreads to the bone marrow further compromises immune response.
+3. People with Diabetes:
+   * Delayed immune response increases susceptibility to infections.
+   * Potential damage to stomach acid production and digestive function allows harmful bacteria to thrive.
+4. People with HIV/AIDS:
+   * The virus severely damages the immune system, making individuals more vulnerable to infections, including foodborne illnesses.
+5. Organ Transplant Recipients:
+   * Immunosuppressants prevent organ rejection but also increase the risk of infections from foodborne pathogens.
+6. People with Autoimmune Diseases:
+   * Conditions like lupus or inflammatory bowel disease involve immune system dysfunction.
+   * Treatments often include immunosuppressants, making individuals more susceptible to infections.
+________________
+
+
+Key Recommendations
+* Consult Healthcare Providers: Discuss specific foods and products to avoid based on individual health needs.
+* Practice Safe Food Handling: Follow food safety guidelines to reduce the risk of contamination and infection.
+
+
+Source #5: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-nutrition-and-food-safety
+HIV and Nutrition and Food Safety
+Last Reviewed: August 23, 2021
+Key Points
+* Nutrition's Role: Good nutrition supports overall health, maintains the immune system, and helps people with HIV manage their weight and absorb medications.
+* Food Safety: Food and water can be contaminated with germs, leading to foodborne illnesses. Individuals with HIV face a higher risk of severe and prolonged illness from these infections.
+* Importance of Food Safety: Proper food handling, preparation, and storage reduce the risk of foodborne illnesses.
+________________
+
+
+Importance of Good Nutrition for People Living with HIV
+* Support for Immune Health: A healthy diet is essential for maintaining a robust immune system, which is compromised by HIV.
+* Weight Management: Good nutrition aids in maintaining a healthy weight and optimizing the absorption of HIV medications.
+Healthy Diet Recommendations
+* Variety of Foods: Include a range of foods from the five food groups: fruits, vegetables, grains, protein foods, and dairy.
+* Balanced Intake: Consume the right amount of food to maintain a healthy weight.
+* Low in Unhealthy Components: Opt for foods low in saturated fat, sodium, and added sugars.
+* Resources: Visit USDA’s MyPlate.gov for more information on healthy eating.
+________________
+
+
+Nutrition-Related Issues from HIV and Medications
+* Challenges: Some HIV-related infections can affect eating and swallowing. Side effects from medications—such as loss of appetite, nausea, or diarrhea—may hinder adherence to treatment.
+* Consult Healthcare Providers: If facing nutrition-related problems, it's essential to discuss these with your healthcare provider.
+________________
+
+
+Understanding Food Safety
+* Contamination Risks: Food and water can harbor germs that lead to foodborne illnesses.
+* Definition: Food safety encompasses selecting, handling, preparing, and storing food to prevent contamination.
+Food Safety Importance for People with HIV
+* Increased Risk: Due to a compromised immune system, individuals with HIV are more susceptible to severe foodborne illnesses. Adhering to food safety guidelines is crucial for reducing this risk.
+________________
+
+
+Food Safety Guidelines for People with HIV
+To prevent foodborne illnesses, individuals with HIV should:
+Avoid:
+* Raw or Undercooked Foods:
+   * Raw eggs or products containing raw eggs (e.g., homemade cookie dough)
+   * Raw or undercooked poultry, meat, and seafood
+   * Unpasteurized milk, dairy products, and fruit juices
+Follow the Four Basic Steps to Food Safety:
+1. Clean: Wash hands, utensils, and surfaces frequently while preparing food.
+2. Separate: Prevent cross-contamination by keeping raw foods separate from ready-to-eat foods (e.g., fruits and vegetables).
+3. Cook: Use a food thermometer to ensure foods are cooked to safe temperatures.
+4. Chill: Refrigerate or freeze perishable items within 2 hours of cooking or purchasing to prevent spoilage.
+Source #6: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/artificial-sweeteners-fact-sheet
+Artificial Sweeteners and Cancer
+Overview
+* What Are Artificial Sweeteners? Artificial sweeteners are chemically synthesized substances used as sugar substitutes in foods and beverages. They are significantly sweeter than table sugar, requiring much smaller amounts (200 to 20,000 times less) to achieve the same sweetness. Their caloric content is negligible, leading to their classification as nonnutritive.
+* FDA Approval: The following six artificial sweeteners are approved by the FDA: saccharin, aspartame, acesulfame potassium (Ace-K), sucralose, neotame, and advantame. The FDA has reviewed safety studies for these sweeteners and found no evidence linking them to cancer in humans.
+Animal Studies and Cancer Associations
+* Initial Concerns: Early studies suggested a link between cyclamate and saccharin with bladder cancer in rats, leading to cyclamate's ban in the U.S. in 1969. Although more recent evaluations found no cancer link, it remains unapproved in the U.S.
+* Saccharin: Initially listed as a potential human carcinogen, subsequent mechanistic studies indicated that the cancer-causing effects observed in rats do not apply to humans. It was removed from the carcinogen list in 2000.
+* Aspartame: In 2023, the IARC classified aspartame as Group 2B, indicating it is possibly carcinogenic to humans based on limited evidence of liver cancer in humans and animal studies. However, JECFA concluded that aspartame does not exhibit adverse effects and maintains its safety assessment.
+Epidemiological Studies
+* Cancer Associations: Epidemiological studies have examined potential links between artificial sweeteners and various cancers. These studies have limitations and cannot firmly establish causation due to confounding factors.
+General Findings
+* Mixed Results: Research has produced inconsistent results regarding the association of artificially sweetened beverages with cancer risk. For example, some studies found links to kidney cancer, while others did not.
+* NutriNet-Santé Study: This French cohort study found that high artificial sweetener intake was associated with a slight increase in cancer risk, particularly for obesity-related cancers.
+* Lack of Evidence for Saccharin: No significant association between saccharin use and bladder cancer has emerged from human studies.
+Aspartame Findings
+* Conflicting Evidence: While some studies linked aspartame to liver cancer, others found no association, including large cohort studies like the NIH-AARP Diet and Health Study.
+Other Sweeteners
+* Sucralose: Studies consistently find no evidence linking sucralose to cancer risk.
+* Acesulfame Potassium: The NutriNet-Santé Study suggested a slight increase in cancer risk, but further studies are needed for clarity.
+* Neotame and Advantame: No research has reported on human cancer risks associated with these sweeteners.
+Artificial Sweeteners and Obesity
+* Weight Management: Many use artificial sweeteners to reduce calorie intake and combat obesity, a known cancer risk factor. However, evidence is mixed regarding their effectiveness.
+* WHO Recommendation: In May 2023, the World Health Organization advised against using non-sugar sweeteners for weight management based on a systematic review of the evidence
+Source #7: https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq
+Nutrition in Cancer Care (PDQ®) – Patient Version
+Overview of Nutrition in Cancer Care
+Key Points
+* Importance of Nutrition: Good nutrition is crucial for individuals with cancer.
+* Personalized Goals: Nutrition goals are tailored to each person's cancer type, stage, and health conditions.
+* Role of Dietitians: Registered dietitians are essential members of the healthcare team.
+* Effects of Cancer and Treatment: Cancer and its treatments can cause nutritional side effects and malnutrition.
+* Common Conditions: Anorexia and cachexia frequently lead to malnutrition in cancer patients.
+Detailed Overview
+1. Good Nutrition: Supports growth, health, and tissue repair. A healthy diet includes essential nutrients like vitamins, minerals, proteins, carbohydrates, fats, and water.
+2. Nutrition Goals: Set based on individual cancer circumstances. Adequate protein and calories are vital for recovery and energy.
+3. Role of Dietitians: Collaborate with patients and healthcare teams to manage dietary needs throughout treatment.
+4. Impact of Cancer Treatments: Treatments can affect appetite, taste, and nutrient absorption, leading to malnutrition, which can weaken the body and decrease quality of life.
+Conditions Affecting Nutrition
+* Anorexia: Loss of appetite, common in cancer patients, especially those with advanced disease.
+* Cachexia: Characterized by muscle and weight loss, often occurring even when caloric intake is adequate.
+________________
+
+
+Effects of Cancer Treatment on Nutrition
+Key Points
+* Chemotherapy & Hormone Therapy: Can lead to various nutritional challenges.
+* Radiation Therapy: May damage cells in the treatment area, affecting nutrition.
+* Surgery: Increases nutrient needs; impacts digestion based on the surgery site.
+* Immunotherapy: Side effects vary, potentially impacting nutrition.
+* Stem Cell Transplant: Special nutritional needs arise due to treatment effects.
+Specific Treatment Effects
+* Chemotherapy: Affects rapidly dividing cells, leading to side effects like loss of appetite and nausea.
+* Radiation Therapy: Targets specific areas, leading to localized side effects (e.g., mouth sores, nausea).
+* Surgery: Nutritional issues can arise from the surgical removal of organs impacting digestion.
+* Immunotherapy & Stem Cell Transplants: Can introduce additional complications, including infections and digestive challenges.
+________________
+
+
+Nutrition Assessment in Cancer Care
+Key Points
+* Diet and Weight History: Healthcare teams assess nutritional risk factors through detailed questioning.
+* Nutritional Counseling: Registered dietitians provide tailored advice to improve nutrition.
+* Goals of Nutrition Therapy: Focus on enhancing quality of life and managing symptoms, especially in advanced cancer cases.
+________________
+
+
+Treatment of Symptoms
+Key Points on Managing Symptoms
+* Anorexia: Encourage high-protein, high-calorie foods; eat small, frequent meals; consider appetite-stimulating medications if necessary.
+* Nausea & Vomiting: Opt for bland, easy-to-digest foods; avoid strong smells; consider anti-nausea medications.
+* Dry Mouth: Stay hydrated; use moistening agents; avoid irritants like alcohol and tobacco.
+* Mouth Sores: Consume soft foods; avoid spicy or acidic items; maintain oral hygiene.
+* Taste Changes: Experiment with different flavors and textures; use plastic utensils to minimize metallic taste.
+* Sore Throat & Trouble Swallowing: Focus on soft foods; consider thickening agents; avoid irritants.
+* Lactose Intolerance: Use lactose-free products; consider lactase supplements.
+* Weight Gain Prevention: Emphasize fruits, vegetables, and lean proteins; maintain portion control.
+Types of Nutrition Support
+Key Points:
+* Nutrition support is essential for those unable to eat or digest normally.
+* It can be provided in various forms: enteral and parenteral nutrition.
+Enteral Nutrition
+* Also known as tube feeding.
+* Nutrients are delivered in liquid form via a tube inserted into the stomach or intestines.
+   * Types of Feeding Tubes:
+      * Nasogastric Tube: Inserted through the nose for short-term use (a few weeks).
+      * Gastrostomy/Jejunostomy Tube: Placed directly into the stomach or small intestine for long-term feeding.
+* Formulas are tailored to individual health needs.
+Parenteral Nutrition
+* Nutrients are infused directly into the bloodstream, bypassing the digestive system.
+* Catheter Placement:
+   * Central Venous Catheter: Inserted into a large vein in the chest for long-term use.
+   * Peripheral Venous Catheter: Inserted into a vein in the arm for short-term use.
+* Regular monitoring is necessary to prevent complications.
+Medications for Appetite and Weight Loss
+* Medications like prednisone and megestrol can improve appetite and weight gain.
+* It's vital to address cancer symptoms affecting appetite early for effective management.
+Nutrition Needs at End of Life
+* Nutrition goals shift to symptom relief rather than nutrient intake.
+* Common issues include loss of appetite and swallowing difficulties.
+* Decisions about nutrition and fluids involve patients, families, and healthcare teams, respecting personal preferences and cultural beliefs.
+* Nutrition support may benefit those expected to live longer, while risks include infection and other complications.
+Nutrition Trends in Cancer
+* Some individuals explore special diets and supplements to enhance treatment outcomes.
+   * Vegetarian/Vegan Diet: Evidence is inconclusive regarding benefits.
+   * Macrobiotic Diet: No proven advantages for cancer.
+   * Ketogenic Diet: May limit tumor cell growth; more research is needed.
+Dietary Supplements
+* Vitamin C: Supports health but evidence for cancer treatment is limited.
+* Probiotics: May reduce treatment-related diarrhea.
+* Melatonin: Potentially alleviates treatment side effects.
+* Oral Glutamine: Studied for its effectiveness in managing diarrhea and mucositis.
+
+
+Source #8: https://www.cdc.gov/diabetes/healthy-eating/diabetes-and-kidney-disease-food.html
+Diabetes and Kidney Disease: What to Eat?
+What to Know
+About 1 in 3 American adults with diabetes also has chronic kidney disease (CKD). Navigating dietary needs can be challenging, but understanding both diabetes and CKD diets can help.
+________________
+
+
+Diabetes Diet
+A healthy diabetes diet resembles a balanced diet for anyone. Focus on:
+* Fruits and Vegetables: Plenty of colorful options.
+* Healthy Fats: Sources like avocados and olive oil.
+* Lean Proteins: Chicken, fish, and plant-based proteins.
+* Limit: Salt, sugar, and refined carbohydrates (like cookies and sodas).
+Your carbohydrate goal will vary based on factors like age and activity level. Adhering to your meal plan helps maintain blood sugar levels and protects kidney health.
+________________
+
+
+Kidney Diet
+For CKD, certain foods need to be limited to safeguard kidney function. Your specific dietary needs depend on your CKD stage and whether you're on dialysis.
+Foods to Limit:
+* Sodium: Reducing sodium helps manage blood pressure and fluid retention. Focus on fresh, homemade meals and check labels for low sodium options (5% or less).
+* Potassium: Too much can lead to heart issues. Foods high in potassium (like oranges and potatoes) may need to be restricted, while lower potassium options (like apples and carrots) can be included.
+* Phosphorus: Excess phosphorus can weaken bones and harm blood vessels. Limit foods like meat, dairy, nuts, and dark sodas, as they are high in phosphorus.
+* Protein: Balance is key. Too much protein can stress your kidneys, while too little isn’t healthy either. Work with a dietitian to find the right balance.
+Avoid Herbal Supplements: Many can be harmful to kidneys. Consult your doctor before taking any supplements or vitamins.
+________________
+
+
+Recommended Foods
+Here are some kidney-friendly and diabetes-friendly options:
+* Fruits: Berries, grapes, cherries, apples, plums
+* Vegetables: Cauliflower, onions, eggplant, turnips
+* Proteins: Lean meats (poultry, fish), eggs, unsalted seafood
+* Carbohydrates: White bread, bagels, sandwich buns, unsalted crackers, pasta
+* Drinks: Water, clear diet sodas, unsweetened tea
+For managing low blood sugar, consider switching from orange juice to apple or grape juice for a similar effect with less potassium.
+________________
+
+
+Late-Stage CKD
+As CKD progresses, nutritional needs change, especially if you're on dialysis:
+* Increased Protein Needs: Dialysis patients often require more protein due to the treatment's effects on the body.
+* Fluid Restrictions: Monitor fluid intake to prevent buildup between treatments. Be alert for swelling in the legs, arms, or around the eyes.
+* Blood Sugar Management: Blood sugar levels may fluctuate during dialysis. Regular monitoring by your doctor is essential.
+________________
+
+
+Keep Reading:
+For more detailed information, consult with your dietitian. CKD and diabetes can evolve over time, so regular check-ins are crucial to managing your diet effectively and maintaining your health.
+
+
+Source #9: https://www.cdc.gov/diabetes/about/
+Diabetes Basics
+Key Points
+* Chronic Condition: Diabetes is a long-lasting health condition that affects how your body converts food into energy.
+* Types of Diabetes: The three main types are:
+   * Type 1 Diabetes
+   * Type 2 Diabetes
+   * Gestational Diabetes (diabetes during pregnancy)
+________________
+
+
+Overview
+When you eat, your body breaks down most foods into glucose, which then enters your bloodstream. This increase in blood sugar prompts your pancreas to release insulin, which allows the sugar to enter your cells for energy.
+In diabetes, either your body doesn’t produce enough insulin or your cells don’t respond effectively to it. This results in elevated blood sugar levels, which can lead to serious health issues over time, including heart disease, vision loss, and kidney disease.
+While there is no cure for diabetes, effective management strategies include:
+* Weight Loss: Achieving a healthy weight.
+* Healthy Eating: Following a balanced diet.
+* Physical Activity: Staying active.
+* Medication: Taking prescribed medications as directed.
+* Education and Support: Engaging in diabetes self-management education and support.
+* Healthcare Appointments: Keeping regular medical check-ups.
+________________
+
+
+Types of Diabetes
+Type 1 Diabetes
+* Cause: An autoimmune reaction where the body mistakenly attacks insulin-producing cells.
+* Insulin Dependence: Daily insulin administration is necessary for survival.
+* Diagnosis: Commonly diagnosed in children and young adults, but can occur at any age. Symptoms can develop rapidly.
+Learn More: [About Type 1 Diabetes]
+Type 2 Diabetes
+* Cause: The body becomes resistant to insulin or doesn’t produce enough.
+* Onset: Develops over several years and is typically diagnosed in adults, though increasingly in younger populations.
+* Symptoms: Often asymptomatic; regular blood sugar testing is essential for those at risk.
+Learn More: [About Type 2 Diabetes]
+Gestational Diabetes
+* Description: Occurs in pregnant women who previously had no diabetes.
+* Risks: Can lead to complications for both mother and baby, and increases the mother’s risk of developing type 2 diabetes later.
+* Resolution: Usually resolves after childbirth, but associated risks can persist.
+Learn More: [About Gestational Diabetes]
+________________
+
+
+Prevention
+Prediabetes
+* Prevalence: About 1 in 3 adults in the U.S. have prediabetes, yet more than 80% are unaware.
+* Definition: Blood sugar levels are elevated but not high enough to be classified as type 2 diabetes.
+* Risks: Increases the likelihood of developing type 2 diabetes, heart disease, and stroke.
+Prevention Strategies:
+* Lifestyle changes can help prevent or delay type 2 diabetes in those with prediabetes.
+Learn More: [How You Can Prevent Type 2 Diabetes]
+________________
+
+
+Diabetes by the Numbers
+* The number of adults diagnosed with diabetes has more than doubled in the past 20 years.
+* In the U.S.:
+   * Approximately 38 million adults have diabetes; 1 in 5 are unaware.
+   * Diabetes is the eighth leading cause of death.
+   * Type 2 diabetes represents 90% to 95% of all diagnosed cases, while type 1 accounts for 5% to 10%.
+   * It is the leading cause of kidney failure, lower-limb amputations, and adult blindness.
+   * Medical costs associated with diabetes total approximately $413 billion annually, more than double that of individuals without diabetes.
+
+
+
+
+
+
+
+
+Source #10: https://medlineplus.gov/ency/article/001214.htm
+Understanding Diabetes
+Diabetes is a chronic disease that affects the body’s ability to regulate blood sugar levels.
+Causes
+Diabetes arises from issues with insulin, a hormone produced by the pancreas that controls blood sugar. The body may produce too little insulin, be resistant to insulin’s effects, or both. Here’s how the process typically works:
+1. Digestion: When food is digested, glucose enters the bloodstream, providing fuel for the body.
+2. Insulin Function: The pancreas releases insulin to move glucose from the bloodstream into cells (muscle, fat, etc.) for storage or energy use.
+In individuals with diabetes, high blood sugar occurs because:
+* The pancreas does not produce sufficient insulin.
+* Cells do not respond effectively to insulin (insulin resistance).
+* The liver may produce excess glucose.
+Types of Diabetes
+Type 1 Diabetes
+* Prevalence: Accounts for 5% to 10% of diabetes cases in the U.S.
+* Onset: Often diagnosed in children, teens, or young adults.
+* Insulin Dependency: The body produces little or no insulin due to immune system damage to insulin-producing cells. Daily insulin injections are necessary.
+Type 2 Diabetes
+* Prevalence: Makes up 90% to 95% of diabetes cases.
+* Onset: Typically occurs in adults but is increasingly seen in younger populations due to rising obesity rates.
+* Symptoms: May be asymptomatic; insulin resistance is common. Not all affected individuals are overweight.
+Other Types
+* LADA: Latent autoimmune diabetes in adults, a slower-forming type 1.
+* MODY: Maturity-onset diabetes of the young, a genetic form of diabetes.
+* Gestational Diabetes: High blood sugar that develops during pregnancy in women without prior diabetes.
+Family History: Having a parent or sibling with diabetes increases the likelihood of developing the disease.
+Symptoms
+High blood sugar can lead to several symptoms, including:
+* Blurry vision
+* Excessive thirst
+* Fatigue
+* Frequent urination
+* Increased hunger
+* Weight loss
+Type 1 Symptoms: Develop quickly, often within weeks to months, leading to severe illness by diagnosis.
+Type 2 Symptoms: Often develop slowly, with some individuals remaining asymptomatic.
+Complications
+If left unmanaged, diabetes can lead to serious complications, including:
+* Eye Issues: Problems such as cataracts and diabetic retinopathy, potentially leading to blindness.
+* Foot and Leg Problems: Sores and infections that may necessitate amputation.
+* Nerve Damage: Causing pain, tingling, digestive issues, and erectile dysfunction.
+* Kidney Damage: Potentially leading to kidney failure.
+* Immune System Weakness: Resulting in more frequent infections.
+* Cardiovascular Risks: Increased chance of heart attacks and strokes.
+Diagnosis
+Tests
+* Urine Analysis: May indicate high urine sugar but is not definitive for diabetes.
+* Blood Tests:
+   * Fasting Blood Glucose: Diagnosed if levels are 126 mg/dL (7.0 mmol/L) or higher on two tests.
+   * Hemoglobin A1C Test: Normal (<5.7%), prediabetes (5.7%-6.4%), diabetes (≥6.5%).
+   * Oral Glucose Tolerance Test: Diagnosis occurs if glucose levels reach 200 mg/dL (11.1 mmol/L) or higher after two hours.
+Screening Recommendations
+* Overweight or Obese Adults: Starting at age 35, screening every 3 years.
+* Overweight Women with Risk Factors: Screening before pregnancy.
+* All Adults Age 35 or Older: Every 3 years, or earlier if risk factors exist (e.g., family history, high blood pressure).
+
+
+
+
+Source #11: https://www.nccih.nih.gov/health/irritable-bowel-syndrome-what-you-need-to-know
+Irritable Bowel Syndrome (IBS): What You Need to Know
+Overview
+Irritable Bowel Syndrome (IBS) is the most commonly diagnosed gastrointestinal (GI) condition, characterized by recurrent abdominal pain and changes in bowel movements, including diarrhea, constipation, or a combination of both. It involves a complex interaction between the brain and the gut.
+Nutritional Approaches
+* Peppermint Oil: Some evidence suggests that peppermint oil may help alleviate IBS symptoms.
+* Probiotics: Certain probiotics might improve symptoms, but current evidence is insufficient to confirm their effectiveness.
+* Prebiotics: Research has not demonstrated clear benefits for IBS sufferers.
+* Herbal Products: The evidence on other herbal remedies is limited, making it difficult to draw conclusions.
+Psychological and Physical Approaches
+* Gut-Directed Hypnotherapy: There is some evidence that this technique can alleviate IBS symptoms and enhance quality of life.
+* Acupuncture: Research findings on the effectiveness of acupuncture for IBS are inconclusive.
+* Meditation and Mindfulness: There is minimal research on the benefits of meditation, yoga, or relaxation techniques for IBS.
+Safety of Complementary Health Approaches
+* Probiotics and Peppermint Oil: Generally considered safe, but both can cause side effects. Comprehensive studies on the safety of probiotics are limited.
+* Prebiotics: Typically safe but may cause side effects such as gassiness, bloating, abdominal pain, cramps, and diarrhea when taken in high doses (over 20 grams per day).
+* Psychological and Physical Approaches: Generally have good safety records when used correctly, but individual health conditions (like pregnancy) may affect safety.
+Complementary Health Approaches
+Complementary health approaches encompass a variety of medical and health care systems, practices, and products that originate outside mainstream medicine. These approaches can be classified into different categories:
+1. Nutritional: Includes special diets, dietary supplements, herbs, probiotics, and microbial-based therapies.
+2. Psychological: Involves practices like meditation, hypnosis, music therapies, and relaxation techniques.
+3. Physical: Encompasses treatments like acupuncture, massage, and spinal manipulation.
+4. Combination Approaches: Integrate multiple therapies, such as yoga (psychological and physical) or mindful eating (psychological and nutritional).
+
+
+Source #12: https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety
+Probiotics: Usefulness and Safety
+What Are Probiotics?
+Probiotics are live microorganisms that may provide health benefits when consumed or applied. Commonly found in yogurt, fermented foods, dietary supplements, and beauty products, they can enhance gut health. However, severe infections have been reported in premature infants given probiotics, prompting warnings from the U.S. Food and Drug Administration (FDA).
+While many view bacteria as harmful, many microorganisms are beneficial. Some help digest food, destroy disease-causing cells, or produce vitamins. Probiotics often consist of organisms similar to those naturally present in our bodies.
+Types of Probiotic Bacteria
+Probiotics mainly include bacteria from the Lactobacillus and Bifidobacterium groups. Yeasts like Saccharomyces boulardii are also used. Different strains may have different effects; thus, not all probiotics function the same way.
+Prebiotics vs. Probiotics
+Prebiotics are nondigestible components that promote the growth of beneficial microorganisms. They are not the same as probiotics.
+What Are Synbiotics?
+Synbiotics are products that combine both probiotics and prebiotics for synergistic effects.
+Popularity of Probiotics
+According to the 2012 National Health Interview Survey, about 4 million U.S. adults (1.6%) reported using probiotics or prebiotics in the past 30 days. Probiotic usage among adults quadrupled from 2007 to 2012. In that same survey, around 300,000 children aged 4 to 17 (0.5%) had also used probiotics or prebiotics recently.
+How Might Probiotics Work?
+Probiotics can:
+* Help maintain or restore a healthy microbiome.
+* Produce beneficial substances.
+* Influence immune responses.
+Regulation of Probiotics in the U.S.
+Probiotics can be regulated as dietary supplements, food ingredients, or drugs based on their intended use. Many are sold as dietary supplements, which don’t require FDA approval before marketing. Claims about structure or function are allowed without FDA approval, but health claims require it. Probiotics marketed as drugs must undergo rigorous clinical trials to demonstrate safety and effectiveness.
+The Microbiome
+The microbiome refers to the community of microorganisms living in and on our bodies. Research, including the Human Microbiome Project, has explored how these microorganisms affect health. Agencies like the National Center for Complementary and Integrative Health (NCCIH) fund studies on how dietary interactions with the microbiome may lead to health benefits.
+Scientific Evidence on Probiotics
+While research has investigated various health conditions associated with probiotics, definitive conclusions on effectiveness and safety remain elusive. Promising areas of research include:
+* Prevention of antibiotic-associated diarrhea, including that caused by Clostridium difficile.
+* Prevention of necrotizing enterocolitis and sepsis in premature infants.
+* Treatment of infant colic and periodontal disease.
+* Induction or maintenance of remission in ulcerative colitis.
+
+
+
+
+Source #13: https://www.fda.gov/consumers/womens-health/high-blood-pressure-hypertension
+Probiotics: Usefulness and Safety
+Overview of Probiotics
+Probiotics are live microorganisms that may offer health benefits when consumed or applied to the body. Commonly found in yogurt, fermented foods, dietary supplements, and beauty products, they play a significant role in promoting gut health. However, there have been reports of severe infections in premature infants given probiotics, prompting the U.S. Food and Drug Administration (FDA) to issue warnings about their use.
+Understanding Microorganisms
+While many associate bacteria with illness, many microorganisms are beneficial. They assist in digesting food, eliminating disease-causing cells, and producing essential vitamins. Probiotics typically consist of organisms similar to those naturally found in our bodies.
+Types of Probiotic Bacteria
+The most common probiotic bacteria belong to two main groups: Lactobacillus and Bifidobacterium. Yeasts like Saccharomyces boulardii can also serve as probiotics. Each strain may have different effects, meaning that one type of Lactobacillus may not produce the same benefits as another.
+Distinguishing Prebiotics from Probiotics
+It’s important to note that prebiotics and probiotics are not the same. Prebiotics are nondigestible food components that selectively promote the growth or activity of beneficial microorganisms.
+What Are Synbiotics?
+Synbiotics are products that combine probiotics and prebiotics, offering potential synergistic benefits.
+Popularity and Usage of Probiotics
+According to the 2012 National Health Interview Survey (NHIS), approximately 4 million U.S. adults (1.6%) reported using probiotics or prebiotics in the past 30 days. This figure reflects a significant increase, with probiotic usage among adults quadrupling from 2007 to 2012. The survey also indicated that around 300,000 children aged 4 to 17 (0.5%) had used these products recently.
+Mechanisms of Action
+Probiotics may:
+* Help maintain or restore a healthy microbiome.
+* Produce beneficial substances.
+* Influence the body’s immune response.
+Regulation in the United States
+In the U.S., the regulation of probiotics is complex. Depending on their intended use, probiotics can be classified as dietary supplements, food ingredients, or drugs. Many are marketed as dietary supplements, which do not require prior FDA approval. While they can make structure/function claims, health claims need FDA approval. Probiotics marketed as drugs must undergo stringent clinical trials to demonstrate safety and effectiveness.
+Understanding the Microbiome
+The microbiome consists of the diverse community of microorganisms living in and on our bodies. Research, including the Human Microbiome Project, has focused on how these microorganisms impact health. Organizations like the National Center for Complementary and Integrative Health (NCCIH) support studies exploring the interactions between diet and the microbiome, aiming to identify beneficial health effects.
+Scientific Evidence and Effectiveness
+Extensive research has been conducted on probiotics, yet many questions about their effectiveness and safety for various health conditions remain unanswered. Promising areas of study include:
+* Prevention of antibiotic-associated diarrhea, including that caused by Clostridium difficile.
+* Prevention of necrotizing enterocolitis and sepsis in premature infants.
+* Treatment of infant colic and periodontal disease.
+* Induction or maintenance of remission in ulcerative colitis.
+Despite the promise shown in these areas, researchers continue to investigate which specific probiotics are effective, optimal dosages, and which individuals may benefit the most.
+For a deeper understanding of specific health conditions related to probiotics, ongoing research is essential.
+Source#14:https://www.nhlbi.nih.gov/health/educational/healthdisp/pdf/tipsheets/Choose-Foods-Low-in-Sodium.pdf
+Choosing Foods Low in Sodium
+Selecting and preparing foods lower in salt can help manage or prevent high blood pressure. Here’s a guide to help you make healthier choices:
+Understanding Sodium Levels
+* Low Sodium: 5% or less of the Daily Value
+* High Sodium: 20% or more of the Daily Value
+Choose More Often
+* Protein Sources:
+   * Grilled or baked chicken and turkey (skin removed)
+   * Fresh fish or rinsed canned fish (e.g., tuna, sardines)
+   * Low-sodium or reduced-sodium cheeses
+* Grains:
+   * Plain rice, noodles, or pasta
+   * Homemade low-sodium or reduced-sodium soups
+* Vegetables:
+   * Fresh, frozen, or "no-salt-added" vegetables
+   * Rinsed canned vegetables
+* Snacks:
+   * Low-salt or salt-free chips, nuts, and pretzels
+* Flavorings:
+   * Spices and herbs (e.g., cilantro, parsley, garlic powder, onion powder)
+   * Vinegar and chili powder
+Choose Less Often
+* Processed Meats:
+   * Smoked and cured meats (e.g., bacon, ham, sausage, hot dogs)
+* Canned Foods:
+   * Regular canned foods packed in broth or salt
+   * Canned fish that is not rinsed
+* Snacks:
+   * Salty chips, crackers, nuts, popcorn, and pretzels
+* Condiments:
+   * Soy sauce, monosodium glutamate (MSG), fish sauce, bouillon cubes, ketchup, and Cajun seasonings
+Reading Food Labels
+When selecting packaged foods, always check the sodium content on the label. For example, if a packaged noodle soup shows a % Daily Value of sodium at 34%, it is considered high in sodium. Aim for products with the lowest % Daily Value for sodium to make healthier choices.
+
+
+Source #15: https://www.nhlbi.nih.gov/education/dash-eating-plan
+DASH Eating Plan
+The DASH (Dietary Approaches to Stop Hypertension) eating plan is a flexible and balanced approach designed to promote heart-healthy eating for life.
+Overview of the DASH Eating Plan
+The DASH eating plan does not require special foods; instead, it provides daily and weekly nutritional goals. Key recommendations include:
+* Emphasize:
+   * Vegetables
+   * Fruits
+   * Whole grains
+* Include:
+   * Fat-free or low-fat dairy products
+   * Fish
+   * Poultry
+   * Beans
+   * Nuts
+   * Vegetable oils
+* Limit:
+   * Foods high in saturated fat (e.g., fatty meats, full-fat dairy, tropical oils like coconut and palm oil)
+   * Sugar-sweetened beverages and sweets
+Serving Recommendations for a 2,000-Calorie Diet
+Daily Servings
+* Grains: 6–8 servings
+* Meats, Poultry, and Fish: 6 or fewer servings
+* Vegetables: 4–5 servings
+* Fruits: 4–5 servings
+* Low-Fat or Fat-Free Dairy Products: 2–3 servings
+* Fats and Oils: 2–3 servings
+* Sodium: 2,300 mg*
+Weekly Servings
+* Nuts, Seeds, Dry Beans, and Peas: 4–5 servings
+* Sweets: 5 or fewer servings
+*Note: Reducing sodium to 1,500 mg can further lower blood pressure.
+Key Nutritional Focus
+When following the DASH eating plan, aim to choose foods that are:
+* Low in saturated and trans fats
+* Rich in potassium, calcium, magnesium, fiber, and protein
+* Lower in sodium
+For more resources, recipes, and research on the DASH eating plan, explore our educational materials.
+
+
+Allergies/Intolerances (e.g., gluten, dairy)
+Source #1: https://www.thermofisher.com/allergy/us/en/allergen-fact-sheets/shellfish.html
+Food Allergy Overview
+Definition
+A food allergy occurs when the body’s immune system abnormally reacts to normally harmless substances, such as proteins found in milk or eggs. This condition is a significant public health issue affecting both children and adults. Globally, up to 250 million people may have food allergies, with most affected by one to three foods. Though over 170 foods have been identified as allergy triggers, eight major allergen groups account for 90% of food allergies. Symptoms can affect the skin, gastrointestinal tract, cardiovascular system, and respiratory tract.
+Food Allergy vs. Food Intolerance
+* Food Allergy: Involves an immune system reaction to specific proteins in foods.
+* Food Intolerance: Does not involve the immune system but can cause similar symptoms.
+Common Food Allergens
+* Egg
+* Milk
+* Peanut
+* Tree Nut
+* Wheat
+* Sesame
+* Soy
+* Fruits and Vegetables
+* Seafood and Shellfish
+Click on each allergen to learn about:
+* Specific allergy information
+* Common symptoms
+* Testing details
+* Allergy management
+* Symptom relief
+Symptoms of Food Allergies
+* Gastrointestinal: Stomach pain, diarrhea, nausea, vomiting
+* Respiratory: Mild wheezing or coughing, dyspnea (difficult or labored breathing)
+* Dermatological: Itching or tingling in the mouth, lips, or throat, urticaria (rash/hives), intense itching, facial edema (swelling)
+* Systemic: Fatigue, failure to thrive, feeling very hot or very cold, rising anxiety, pale or flushed appearance, hoarseness, croupy/choking cough, very pale/cyanotic lips, unresponsiveness, circulatory collapse
+Testing and Management
+* Testing: A blood test (specific IgE) can help identify allergic triggers.
+* Symptom Tracker: Use a symptom tracker to create a profile of your symptoms. Print, scan, or download your results for review with your healthcare provider to determine if further testing is needed.
+Resources for Healthcare Providers
+* Explore fact sheets for a comprehensive list of food allergens, symptoms, cross-reactivities, component names, and management plans.
+Egg Allergy Information
+Overview
+* Nutritional Value: Eggs are a rich source of protein, essential minerals, and vitamins. They are commonly used in various foods and processed products for their emulsifying, binding, and coagulant properties.
+* Varieties:
+   * US/Europe: Primarily chicken eggs.
+   * Other Regions: Duck eggs (Europe and Asia), goose eggs (Europe).
+* Cross-Reactivity: Allergy to chicken eggs may extend to eggs from other birds like quail, turkey, duck, and goose.
+Prevalence
+* Global: Affects 0.5 to 2.5% of young children.
+* Australia: Affects 8.9% of infants.
+* Outgrowing: Approximately 70% of children outgrow the allergy by age 16.
+Egg Presence in Foods
+* Common Ingredients Indicating Egg:
+   * Albumin, apovitellin, binder, cholesterol-free egg substitutes, coagulant, dried egg solids, egg white, egg yolk, egg wash, eggnog, emulsifier, fat substitutes, globulin, lecithin, livetin, lysozyme, meringue powder, ovalbumin, ovoglobulin, ovomucin, ovomucoid, ovotransferrin, ovovitelia, ovoitellin, powdered eggs, silici albuminate, simplesse, surimi, trailblazer, vitellin, whole egg.
+* Foods Containing Eggs:
+   * Baked goods, baking mixes, batters, bearnaise sauce, bouillon, breakfast cereals, cake flours, candy, cookies, creamy fillings, custard, egg noodles, eggnog, French toast, Hollandaise sauce, ice cream, lemon curd, macaroni, malted cocoa drinks, marshmallows, mayonnaise, meringues, muffins, noodles, omelets, pancakes, processed meats (e.g., bologna, meatloaf, meatballs, sausages), puddings, salad dressings, sherbets, soufflés, soups, sweets, tartar sauce, Turkish delight, waffles, wines.
+* Non-Food Products:
+   * Shampoos, cosmetics, pharmaceuticals (e.g., laxatives), potential cross-contamination from cooking surfaces.
+Testing and Management
+* Specific IgE Component Testing:
+   * nGal d 1 (Ovomucoid): Stable to heat; indicates a risk for reactions to all forms of egg.
+   * nGal d 2 (Ovalbumin): Sensitive to heat; extensively heated egg (e.g., baked) may be tolerated.
+   * nGal d 3 (Conalbumin): Sensitive to heat; extensively heated egg may be tolerated.
+   * nGal d 4 (Lysozyme): Sensitive to heat; extensively heated egg may be tolerated; may be used in some pharmaceuticals.
+Cross-Reactivity
+* Common Cross-Reactions: Eggs from other birds (quail, turkey, duck, goose, seagull).
+* Chicken Meat: Rare cross-reactivity.
+Avoidance and Risk Management
+* All Forms of Egg:
+   * Some individuals can tolerate extensively heated egg (e.g., in baked goods), while others must avoid all forms.
+* Personal Risk Profile: Depends on specific proteins causing the allergy.
+Cow's Milk Allergy Information
+Overview
+* Sources: Cow's milk is consumed worldwide and is used in dairy products such as cheese, butter, yogurt, and cream. It is a significant nutritional source for bone health and growth.
+* Cross-Reactivity: Allergy to cow's milk often includes milk from other mammals (e.g., goats, sheep, water buffalo, camels). If allergic to cow's milk, milk from these animals may also cause reactions.
+Prevalence
+* Infants and Children: Affects 2-3% of children in developed countries.
+* Outgrowing: Approximately 80% of children outgrow milk allergies by age 16.
+* Adult Onset: Rare.
+* Retesting: Recommended every 6-12 months to monitor progress.
+Milk Allergy vs. Lactose Intolerance
+* Milk Allergy: Immune system response; symptoms include hives, vomiting, bloody stools, upset stomach, and anaphylaxis.
+* Lactose Intolerance: Digestive issue; symptoms include diarrhea, gas, and abdominal cramps.
+Milk Presence in Foods
+* Common Ingredients Indicating Milk:
+   * Artificial butter flavor, butter, butter fat, buttermilk solids, caramel color, casein, cheese, cream, curds, demineralized whey, ghee, lactalbumin, lactic acid, rennet casein, sour cream, whey, yogurt.
+* Foods Containing Milk Protein:
+   * Batter-fried foods, biscuits, bread, breakfast cereals, cakes, chocolate, cookies, cream sauces, custard, ice cream, margarine, muffins, packaged soups, pies, puddings, sausages, sherbet, vegetarian cheese.
+* Milk Terms on Labels:
+   * Acidophilus milk, buttermilk, condensed milk, dried milk, evaporated milk, lactose-free milk, malted milk, milk powder, nonfat milk, pasteurized milk, skim milk, sour milk, sweetened condensed milk.
+Allergy Management
+* Reaction Types:
+   * Severe reactions may occur from ingesting, touching, or inhaling milk protein.
+   * Individuals highly allergic may react to minute quantities of milk protein or milk powder.
+* Label Caution: Products labeled "lactose-free," "nondairy," or "kosher" may still contain milk protein.
+* Breastfeeding: Mothers with milk-allergic infants should avoid all forms of milk.
+Testing and Management
+* Specific IgE Component Testing:
+   * nBos d 4 (alpha-lactalbumin), nBos d 5 (beta-lactoglobulin): Sensitive to heat; extensively heated (baked) milk may be tolerated.
+   * nBos d 6: Sensitive to heat; may tolerate baked milk and extensively heated beef.
+   * nBos d 8: Stable to heat; risk for reactions to fresh and baked milk. High IgE levels may indicate a less likely chance of outgrowing the allergy.
+* Test Results: Should be reviewed with a healthcare provider for accurate interpretation and management planning.
+Resources
+* Symptom Tracker: Use to monitor and manage symptoms.
+* Consult Healthcare Provider: For interpreting test results and managing the allergy.
+Peanut Allergy Information
+Overview
+* Sources: Peanuts (ground nuts, earthnuts, goobers) are rich in protein and fat. Commonly consumed roasted, in peanut butter, and as ingredients in bakery goods, candies, cereals, sauces, and marinades.
+* Prevalence:
+   * Children: Most common food allergy in children. Affects up to 2% in the UK and roughly 2.5% in the US.
+   * Adults: Second most common food allergy.
+* Prognosis: About 20% of children outgrow the allergy. Untreated peanut allergies often persist lifelong.
+* Accidental Exposure: Common due to presence in many foods and risk of cross-contamination.
+Where Peanuts Are Found
+* Common Ingredients:
+   * Artificial flavoring, baked goods, candy, chili, chocolate, crumb toppings, egg rolls, enchilada sauces, fried foods, flavorings, graham cracker crusts, hydrolyzed plant protein, hydrolyzed vegetable protein, marzipan, mole sauces, natural flavorings, nougats.
+* Food Labels Indicating Peanut Protein:
+   * Arachic oil, arachis, arachis hypogaea, artificial nuts, beer nuts, boiled peanuts, cold pressed peanut oil, crushed nuts, earth nuts, goober peas, ground nuts, hydrolyzed peanut protein, mandelonas, mixed nuts, monkey nuts, flavored nuts, nut pieces, nut meat, peanut butter, peanut butter chips, peanut butter morsels, peanut flour, peanut paste, peanut sauce, peanut syrup, Spanish peanuts, Virginia peanuts.
+Risk Factors
+* Reactions:
+   * Eating peanuts or foods containing peanuts is the most common cause of reactions.
+   * Touching peanuts can trigger reactions in some individuals.
+   * Cross-contamination risk in food manufacturing and preparation.
+   * Airborne peanut protein from processes like grinding or pulverization can cause reactions.
+* Tree Nuts: Peanuts and tree nuts (e.g., pecans, cashews) often come into contact during manufacturing; consult with your healthcare provider about avoiding all tree nuts.
+* Lupine: Common in Europe, high cross-reactivity with peanuts; found in seed, bean, and flour forms.
+Cross-Reactivity
+* Related Allergens:
+   * Plant foods such as tree nuts, fruits, soybeans, vegetables, and legumes.
+   * Pollen Food Allergy Syndrome (PFAS) / Oral Allergy Syndrome (OAS): Reactions to fresh fruits, raw vegetables, or tree nuts due to similar proteins in pollens (e.g., birch, grass, weed). Up to 25% of children with allergic rhinitis may also have PFAS.
+Avoidance
+* Forms of Peanuts:
+   * Peanuts have different proteins with varying allergenic potential.
+   * Some may tolerate extensively cooked peanuts (e.g., baked), but roasting can increase allergenicity.
+   * For others, all forms of peanuts should be avoided due to stable proteins that can cause severe reactions (anaphylaxis).
+Testing and Management
+* Specific IgE Component Testing:
+   * Helps identify which proteins in peanuts trigger symptoms.
+   * Can guide management strategies based on specific allergic responses.
+Almond Allergy Information
+Overview
+* Allergy Type: Common and severe tree nut allergy.
+* Development: Typically develops by age 2; number of tree nuts one is allergic to may increase with age.
+* Prevalence:
+   * US: 9-15% of tree nut allergic individuals.
+   * UK: 22-33% of tree nut allergic individuals.
+* Cross-Allergy: 20-30% of those with a peanut allergy are also allergic to tree nuts. Peanuts and tree nuts account for 70-90% of food-related anaphylactic fatalities.
+* Outgrowing Allergy: Low chance; only about 10% of sensitized individuals outgrow tree nut allergies.
+Types of Almonds
+* Bitter Almonds: Used for oil extraction.
+* Sweet Almonds: Consumed as snacks, used in baking, milk, and butter.
+Where Almonds Are Found
+* Food Items:
+   * Baked goods, baking mixes, sauces (e.g., barbeque, pesto), cereals, chocolates, pralines, crackers, dressings, gravies, flavored coffees, frozen desserts, muesli, nougats, marzipan, almond milks, nut milks, spreads (e.g., Nutella), vegetarian dishes, Indian and Asian dishes, pastas, liqueurs (e.g., amaretto).
+* Non-Food Items:
+   * Bean bags, bird seeds, cosmetics, hair care products, sunscreens, massage oils, pet foods.
+Cross-Reactivity
+* Common Cross-Reactions:
+   * Fruits (e.g., apple, peach, kiwi), berries, vegetables (e.g., celery, carrot), legumes (e.g., soy), other nuts (e.g., hazelnut).
+* Pollen Food Allergy Syndrome (PFAS) / Oral Allergy Syndrome (OAS):
+   * Symptoms include itchy mouth, scratchy throat, hives, swelling. Common with pollen allergies (e.g., birch, alder, ragweed).
+Avoidance
+* Forms to Avoid:
+   * Sweet and bitter almonds, marzipan, almond milk, and other almond-based products.
+* Potential Risks:
+   * "Natural flavors" or "botanicals" may contain nut flavorings. Asian restaurants may use nuts and seeds, posing cross-contamination risks.
+Testing and Management
+* Symptom Tracker: Use to monitor symptoms.
+* Specific IgE Testing: Helps determine which proteins trigger symptoms.
+________________
+
+
+Brazil Nut Allergy Information
+Overview
+* Allergy Type: Common and severe tree nut allergy.
+* Development: Typically develops by age 2; number of tree nuts one is allergic to may increase with age.
+* Prevalence:
+   * UK: 24-33% of those with tree nut allergies.
+   * US: Less than 5% of those with tree nut allergies.
+* Cross-Allergy: 20-30% of those with peanut allergies are also allergic to tree nuts. Peanuts and tree nuts account for 70-90% of food-related anaphylactic fatalities.
+* Outgrowing Allergy: Low chance; only about 10% of sensitized individuals outgrow tree nut allergies.
+Description
+* Source: Edible seed from South American tree; high in protein, dietary fiber, thiamin, copper, magnesium, and selenium.
+* Uses: Consumed raw or blanched, found in mixed nuts, and used in personal care products (e.g., shampoos).
+Where Brazil Nuts Are Found
+* Food Items:
+   * Mixed nut offerings, chocolates, cereals, pralines, baked goods, baking mixes, sauces, dressings, frozen desserts.
+* Non-Food Items:
+   * Shampoos, soaps, hair conditioners, skin-care products.
+Cross-Reactivity
+* Common Cross-Reactions:
+   * Other tree nuts, plant foods (e.g., fruits, legumes, vegetables).
+* Pollen Food Allergy Syndrome (PFAS) / Oral Allergy Syndrome (OAS):
+   * Symptoms include itchy mouth, scratchy throat, hives, swelling. Common with pollen allergies (e.g., birch, grass, weed).
+Avoidance
+* Forms to Avoid:
+   * Raw and blanched Brazil nuts, Brazil nut oil, and products containing Brazil nuts.
+* Potential Risks:
+   * Heating may affect allergenicity; proteins in Brazil nuts are stable and may cause severe reactions (anaphylaxis).
+Testing and Management
+* Symptom Tracker: Use to monitor symptoms.
+* Specific IgE Testing: Helps determine which proteins trigger symptoms.
+Cashew Nut Allergy Facts, Symptoms, and Treatment
+Overview
+* Prevalence: Tree nut allergies, including cashews, often develop by age 2. Approximately 30% of those with tree nut allergies are allergic to more than one nut. Around 20-30% of individuals with peanut allergies may also be allergic to tree nuts. Peanuts and tree nuts account for 70-90% of food-related anaphylactic fatalities.
+* Prevalence Range: Tree nut allergy affects 0.05% to 7.3% of the population. Only about 10% of individuals outgrow these allergies.
+Common Tree Nuts
+* Walnuts
+* Almonds
+* Pistachios
+* Cashews
+* Pecans
+* Hazelnuts
+* Macadamias
+* Brazil nuts
+* Pine nuts
+Cashew Nut Specifics
+* Source: Derived from an evergreen shrub or tree in the sumac family; technically edible seeds shaped like curved beans.
+* Prevalence: Cashews are the second most common cause of tree nut allergies, affecting about 20% of individuals with tree nut allergies.
+Where to Find Cashews
+* Food Items: Asian dishes, bakery items, sweets, ice creams, butters, cakes, chocolates, pestos.
+* Common Sources: Thai, Indian, and Chinese cuisines; also used as a pine nut replacement in some recipes.
+Potential Cross-Contamination
+* Food Items: Baked goods, baking mixes, sauces, cereals, chocolates, pralines, crackers, dressings, gravies, flavored coffees, frozen desserts, muesli, nougats, almond chicken, pad Thai, chili, and more.
+* Non-Food Items: Bean bags, bird seeds, cosmetics, hair care products, sunscreens, massage oils, and pet foods.
+Cross-Reactivity
+* Common Cross-Reactions: Pistachios, pink peppercorn, other tree nuts, fruits, soybeans, vegetables, legumes.
+* Pollen Food Allergy Syndrome (PFAS): Symptoms include itchy mouth, scratchy throat, hives, or swelling. PFAS can occur with tree pollen allergies (e.g., birch) and affects up to 25% of children with allergic rhinitis.
+Management
+* Avoidance: Depending on individual tolerance, some may tolerate cashews if extensively heated, but others should avoid them completely.
+* Consult Healthcare Provider: For a tailored allergy management plan, including testing and avoiding specific allergens.
+________________
+
+
+Hazelnut Allergy Facts, Symptoms, and Treatment
+Overview
+* Prevalence: Hazelnut allergies often develop by age 2, similar to other tree nut allergies. In Europe, hazelnuts are the most common tree nut allergy. Prevalence in the U.S., Western Europe, and Australia is around 7.2%.
+* Prevalence Range: Tree nut allergies affect 0.05% to 7.3% of the population.
+Hazelnut Specifics
+* Source: Edible nuts from the birch family; often found in pastries, chocolates, and nut butters like Nutella.
+Where to Find Hazelnuts
+* Food Items: Cookies, pralines, nut spreads, cakes, pastries, chocolates, ice creams, breakfast cereals, breads, hazelnut oil.
+* Common Sources: Baked goods, sauces, cereals, chocolates, and more.
+Potential Cross-Contamination
+* Food Items: Similar to cashew, including baked goods, sauces, cereals, chocolates, and more.
+* Non-Food Items: Bean bags, bird seeds, cosmetics, hair care products, sunscreens, and pet foods.
+Cross-Reactivity
+* Common Cross-Reactions: Other tree nuts, fruits, soybeans, vegetables, legumes.
+* Pollen Food Allergy Syndrome (PFAS): Symptoms similar to those for cashew nut allergies. PFAS can occur with tree pollen allergies (e.g., birch).
+Management
+* Avoidance: Hazelnuts may need to be avoided completely. Tolerance to extensively heated hazelnuts varies.
+* Consult Healthcare Provider: For tailored allergy management and testing options.
+________________
+
+
+Macadamia Nut Allergy Facts, Symptoms, and Treatment
+Overview
+* Prevalence: Less than 5% of those with tree nut allergies in the U.S. are allergic to macadamia nuts. Similar to other tree nut allergies, they often develop by age 2.
+* Prevalence Range: Affects 0.05% to 7.3% of the population.
+Macadamia Nut Specifics
+* Source: Derived from evergreen trees; often roasted, salted, and used in confectionery and chocolates. High in fat and a good source of calcium, phosphorus, iron, and vitamin B.
+Where to Find Macadamia Nuts
+* Food Items: Confections, chocolates, nut mixes, baked goods, ice creams, cereals.
+Potential Cross-Contamination
+* Food Items: Similar to other tree nuts, including baked goods, sauces, cereals, and more.
+* Non-Food Items: Bean bags, bird seeds, cosmetics, hair care products, sunscreens, and pet foods.
+Cross-Reactivity
+* Common Cross-Reactions: Coconut, peanuts, other tree nuts.
+Management
+* Avoidance: Eliminating all tree nuts from the diet is often recommended due to cross-contamination risks. Consult a healthcare provider for a specific management plan.
+Pecan Nut Allergy
+* Prevalence & Development:
+   * Common and often severe.
+   * Typically develops by age 2; the number of allergens may increase with age.
+   * About 30% of those with a tree nut allergy are allergic to multiple nuts.
+   * Peanuts, though legumes, can cause cross-reactivity with tree nuts (20-30% of those with a peanut allergy may also be allergic to tree nuts).
+   * Peanuts and tree nuts together cause 70-90% of food-related anaphylactic fatalities.
+   * Affects 0.05% to 7.3% of the population, with a lower chance of outgrowing the allergy (about 10% of sensitized individuals).
+* Common Tree Nuts:
+   * Walnuts, almonds, pistachios, cashews, pecans, hazelnuts, macadamias, Brazil nuts, pine nuts.
+* Pecans:
+   * High fat content and caloric value similar to butter.
+   * Used raw, sweetened, salted, or in pastries and chocolates.
+   * Traditional in pecan pie and praline candy, especially in the southeastern U.S.
+* Potential Sources:
+   * Found in baked goods, cereals, chocolates, trail mixes, and various processed foods.
+   * Look out for "natural flavors" and "botanicals" which may indicate the presence of nuts.
+* Cross-Reactivity:
+   * Possible reactions with other tree nuts and related plant foods (e.g., fruits, soybeans).
+   * Shared allergenic proteins with walnuts.
+   * Symptoms may include itchy mouth, throat, hives, or swelling (Pollen Food Allergy Syndrome or Oral Allergy Syndrome).
+* Management:
+   * Avoid pecans and potentially all tree nuts.
+   * Consult with a healthcare provider for personalized advice and emergency planning.
+Pistachio Nut Allergy
+* Prevalence & Development:
+   * Similar to other tree nut allergies in development and severity.
+   * Affects about 7% of those with tree nut allergies in the U.S.
+   * More common in regions where pistachios are cultivated.
+* Pistachios:
+   * High in protein, fat, dietary fiber, and vitamin B6.
+   * Used in baklava, halvah, ice cream, and as a colorant in confections.
+* Potential Sources:
+   * Incorporated into desserts, snacks, and used for coloring.
+* Cross-Reactivity:
+   * Similar allergenic proteins to cashews.
+   * Possible cross-reactions with other tree nuts and plant foods.
+* Management:
+   * Avoid pistachios and related foods.
+   * Consult a healthcare provider for testing and to develop an allergy management plan.
+Walnut Allergy
+* Prevalence & Development:
+   * Common and severe.
+   * Affects 0.05% to 7.3% of the population.
+   * Similar prevalence and cross-reactivity patterns as other tree nuts.
+* Walnuts:
+   * Rich in omega-3s, proteins, fats, antioxidants, and some vitamins and minerals.
+   * Found in yogurts, pizzas, cakes, and Middle Eastern desserts.
+* Potential Sources:
+   * Present in a variety of processed foods and desserts.
+* Cross-Reactivity:
+   * Shared allergenic proteins with pecans.
+   * Possible reactions to other tree nuts and plant foods.
+* Management:
+   * Some individuals may tolerate extensively heated walnuts, while others should avoid them completely.
+   * Consult a healthcare provider for personalized risk assessment and management.
+Wheat Allergy
+Overview:
+* Prevalence: ~3.6% in Europe; major allergen in the US and other countries.
+* Characteristics: Often outgrown by age 16.
+* Difference from Celiac Disease: Wheat allergy is an allergic reaction; celiac disease is an autoimmune condition.
+Sources of Wheat:
+* Food: Baked goods, cereals, pasta, flour, matzoh, seitan, etc.
+* Nonfood: Play dough, cosmetics, some medications.
+Cross-Reactivity:
+* Common: Rye, barley, maize, rice, and grass pollens.
+Testing:
+* Component Tests: Includes rTri a 14 (OAS), rTri a 19 (omega-5-gliadin), Gliadin, rPhl p 12 (OAS), MUXF3 (CCD).
+* Management: Avoid foods with wheat; gluten-free doesn't equal wheat-free.
+________________
+
+
+Sesame Allergy
+Overview:
+* Prevalence: Common in Israel, Japan, Europe; lower in the US and Canada.
+* Characteristics: Often persists into adulthood; common cause of anaphylaxis in children.
+Sources of Sesame:
+* Food: Baked goods, Asian cuisine, tahini, hummus, salad dressings, sauces, etc.
+* Nonfood: Cosmetics, medications, nutritional supplements.
+Cross-Reactivity:
+* Common: Other seeds, tree nuts, peanuts.
+Testing:
+* Component Test: rSes i 1 (high risk for severe reactions).
+* Management: Avoid all forms of sesame; heating does not reduce allergenicity.
+________________
+
+
+Soy Allergy
+Overview:
+* Prevalence: ~0.4% in US children; often outgrown by age 10.
+* Characteristics: Common in processed foods; allergenic proteins can vary in stability.
+Sources of Soy:
+* Food: Soy sauce, tofu, soy oil, soy flour, various processed foods, etc.
+* Ingredients Indicating Soy: Soy flour, lecithin, textured vegetable protein (TVP), etc.
+Cross-Reactivity:
+* Common: Fruits (e.g., apple, cherry), vegetables (e.g., carrot), legumes (e.g., peanut), tree nuts.
+Testing:
+* Component Tests: rGly m 4 (mild symptoms, heat-sensitive), nGly m 5/nGly m 6 (severe reactions, stable), MUXF3 (CCD).
+* Management: Depending on protein sensitivity, some may tolerate heated soy; others must avoid all soy.
+Fish Allergy
+Overview
+* Prevalence: Fish is a common food allergen, particularly in Scandinavia and among adults.
+* Species: Over 30,000 species. Allergy varies by species.
+* Forms: Fish muscle (cooked, fried, pickled, raw), fish eggs, caviar, skin, gelatin, blood.
+* Cross-Reactivity: High; allergic to one fish increases risk for other fish.
+Symptoms
+* Common Reactions: Skin rash, gastrointestinal issues, respiratory problems, anaphylaxis.
+* Severe Cases: Reactions to steam or vapor from cooking fish.
+Foods and Products Containing Fish
+* Food Labels: Anchovies, bass, catfish, cod, flounder, grouper, haddock, hake, halibut, herring, mahi, perch, pike, pollock, salmon, scrod, sole, snapper, swordfish, tilapia, trout, tuna.
+* Processed Foods: Barbecue sauce, bouillabaisse, Caesar salads/dressings, caponata, etouffee, fish oil, fish sauce, fish sticks, fritto misto, gelatin, gumbo, imitation fish, jambalaya, kedgeree, paella, stocks, soups, Worcestershire sauce.
+* Non-Food Items: Fish-based gelatin and collagen in pharmaceuticals, vaccines, cosmetics, toiletries.
+Precautions
+* Cross-Contamination: Avoid seafood restaurants, high-risk cuisines (African, Chinese, Indonesian, Thai, Vietnamese), and shared frying oils.
+* Filleting Issues: Ensure the correct fish species is used; be aware of substitution risks.
+* Supplements: Avoid fish oil supplements unless verified allergen-free.
+Testing and Management
+* Specific IgE Component Tests: Identifies allergenic proteins such as rCyp c 1 and rGad c 1.
+* Interpretation: Discuss results with a healthcare provider for a tailored management plan.
+________________
+
+
+Shellfish Allergy
+Overview
+* Prevalence: Common in adults; high rates of anaphylaxis, especially in certain Asian countries.
+* Groups: Crustaceans (crabs, lobsters, prawns, shrimp), Mollusks (bivalves, gastropods, cephalopods).
+* Cross-Reactivity: High within crustaceans and to a lesser extent with mollusks.
+Symptoms
+* Common Reactions: Skin rash, gastrointestinal issues, respiratory problems, anaphylaxis.
+* Severe Cases: Reactions to aerosolized particles or vapors from cooking shellfish.
+Foods and Products Containing Shellfish
+* Food Labels: Crustaceans (barnacle, crab, crawfish, krill, lobster, prawns, shrimp), Mollusks (abalone, clam, cockle, cuttlefish, limpet, mussel, octopus, oyster, periwinkle, scallop, snail, squid).
+* Processed Foods: Bouillabaisse, clam broth, condiments, crab extract, cuttlefish ink, etouffee, fish sauce, gumbo, jambalaya, lobster extract, oyster juice, paella, seafood flavorings, surimi.
+* Non-Food Items: Glucosamine, moisturizers, calcium supplements.
+Precautions
+* Cross-Contamination: Avoid seafood markets and high-risk environments. Be cautious with shared cooking oils.
+* Inhalation Risks: Be wary of environments where shellfish is cooked.
+Testing and Management
+* Specific IgE Component Tests: Identifies allergenic proteins such as rPen a 1 (tropomyosin).
+* Interpretation: Discuss results with a healthcare provider to develop a management plan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source #2: https://www.stanfordchildrens.org/en/topic/default?id=egg-allergy-diet-for-children-90-P01684
+Egg Allergy Diet for Children
+General Guidelines for Egg Allergy
+To manage an egg allergy, the primary goal is to avoid feeding your child foods or products that contain eggs. These foods are known as allergens. While it may be straightforward to eliminate visible eggs from their diet, many products may contain hidden eggs, and not all are required to disclose egg content under federal labeling laws. Therefore, reading labels is crucial.
+Allowed Foods vs. Not Allowed Foods
+Food Group
+	Allowed
+	Not Allowed
+	Breads & Starches
+	- Plain enriched white, whole-wheat, rye bread (no egg products)
+- Biscuits made with egg-free baking powder
+- Crackers and homemade breads with allowed ingredients
+- Most cereals and grains (e.g., rice)
+- Low-sodium, egg-free baking mixes
+	- Commercially made pancakes, waffles, donuts, muffins
+- Egg noodles or pasta
+- Fried rice containing eggs
+	Vegetables
+	- All fresh, frozen, dried, or canned vegetables
+	- Casseroles or sauces containing eggs (e.g., hollandaise, soufflé)
+	Fruits
+	- Fresh, frozen, dried, or canned fruits and juices
+	- Fruits with egg-based sauces (e.g., custard)
+	Meats & Substitutes
+	- Baked, broiled, boiled, or roasted meats (beef, poultry, fish)
+- Meats with egg-free breading
+	- Eggs in any form (including powders)
+- Soufflés, commercially breaded meats or fish
+	Dairy Products
+	- Whole, low-fat, or skim milk; cheese; yogurt
+	- Malted drinks, eggnog, custard, or any products with egg
+	Soups & Combinations
+	- Homemade soup or broth with allowed ingredients
+	- Egg drop soup, soups with egg noodles or macaroni
+	Desserts & Sweets
+	- Gelatin, fruit ice, homemade desserts with allowed ingredients
+	- Cakes, cookies, custards, cream-filled pies, chocolate candies with egg products
+	Fats & Oils
+	- Butter, margarine, vegetable oil, eggless mayonnaise
+	- Salad dressings and mayonnaise that contain eggs
+	Beverages
+	- Water, fruit juice, tea, carbonated drinks
+	- Drinks clarified with egg (e.g., root beer, wine, coffee)
+	Condiments & Miscellaneous
+	- Sugar, honey, jam, jelly; salt, spices
+	- Cream sauces made with eggs, hollandaise, tartar sauce
+	Ingredients to Avoid
+Do not consume foods that contain any of the following:
+* Albumin
+* Egg whites
+* Egg yolk
+* Dried egg
+* Egg powder
+* Egg solids
+* Egg substitutes
+* Eggnog
+* Fat substitutes made with egg
+* Globulin
+* Livetin
+* Lysozyme (used in Europe)
+* Mayonnaise
+* Meringue
+* Ovalbumin
+* Ovomucin
+* Ovomucoid
+* Ovovitellin
+* Surimi
+Additional Considerations
+* Hidden Sources: Be cautious with products that may have egg-based ingredients, such as lecithin, marshmallows, or certain types of pasta.
+* Clarifying Agents: Egg whites and shells may be used in clarifying soups, consommés, and bouillons.
+Conclusion
+Managing an egg allergy in children requires careful attention to food labels and ingredient lists. Always consult with a healthcare provider for personalized advice and further dietary recommendations.
+
+
+Source #3: https://www.uhhospitals.org/health-information/health-and-wellness-library/article/adult-diseases-and-conditions-v0/tree-nut-allergy-diet
+Tree Nut Allergy Diet
+General Guidelines for Tree Nut Allergy
+To maintain an allergy-free diet, it is essential to avoid all foods or products that contain tree nuts. Tree nut allergies can cause serious reactions, so reading food labels is critical.
+In the U.S., all packaged food must clearly state if it contains tree nuts, including the specific type of nut, as mandated by the Food Allergen Labeling and Consumer Protection Act (FALCPA).
+Important Distinctions
+* Peanuts vs. Tree Nuts: Peanuts are distinct from tree nuts. Some individuals with tree nut allergies may also react to peanuts, while others may not. Consult your healthcare provider for personalized guidance.
+Nuts to Avoid
+Stay away from the following tree nuts:
+* Almonds
+* Beechnuts
+* Brazil nuts
+* Butternuts
+* Cashews
+* Chestnuts
+* Coconut (consult your provider)
+* Filberts (hazelnuts)
+* Ginkgo nuts
+* Hickory nuts
+* Lychee nuts
+* Macadamia nuts
+* Pecans
+* Pine nuts (pignolia)
+* Pistachios
+* Walnuts
+Foods to Avoid
+These foods often contain tree nuts:
+* Caponata (may contain pine nuts)
+* Gianduja (chocolate mixed with nuts)
+* Marzipan or almond paste
+* Natural nut extracts
+* Nougat
+* Artificial nuts (reflavored peanuts)
+* Nut butters (e.g., cashew or almond butter)
+* Chocolate hazelnut spread
+* Nut oils and pastes
+* Pesto (may contain pine nuts, walnuts, or cashews)
+* Praline
+Additional Considerations
+* Artificial Nuts: These are peanuts that have been deflavored and then reflavored with a nut taste.
+* Coconut: Although classified as a tree nut by the FDA, it is actually a fruit. Many people with tree nut allergies can eat coconut; consult your provider.
+* Shea Nuts: Also classified as nuts by the FDA, shea nut allergies are rare. Check with your provider about using shea products.
+* Natural Extracts: Avoid foods with natural extracts, such as pure almond extract and natural wintergreen extract.
+Cross-Contamination Risks
+* Ethnic foods, baked goods, and candies may be cross-contaminated with tree nuts.
+* Tree nuts are often found in sauces, cereals, crackers, and ice creams.
+* Foods without tree nuts can be contaminated during manufacturing. The law does not require companies to include advisory statements like "made in a facility with tree nuts."
+Products Not Covered by FALCPA
+The following items may not have FALCPA labeling:
+* Foods not regulated by the FDA
+* Makeup and personal care products
+* Prescription and over-the-counter medicines and supplements
+* Toys, crafts, and pet foods
+Emergency Preparedness
+* Epinephrine: Always carry 2 epinephrine autoinjectors. Ensure those around you know how to use them.
+* Medical Alert: Wear a medical alert bracelet or necklace that indicates your allergy.
+Dining Out
+* Inform restaurant staff of your allergy to avoid cross-contamination.
+* Always read labels and ask about ingredients, even for familiar foods.
+* Avoid buffets that may have tree nuts, as shared serving spoons can lead to contamination.
+By following these guidelines and maintaining vigilance, individuals with tree nut allergies can help prevent allergic reactions. Always consult with a healthcare provider for tailored advice.
+
+
+Source #4: https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition
+Eating, Diet, & Nutrition for Lactose Intolerance
+Managing Lactose Intolerance
+Dietary Changes
+If you have lactose intolerance, consult with your doctor or a dietitian to create a dietary plan that minimizes symptoms while ensuring you receive adequate nutrition. This is especially important for children with lactose intolerance.
+Understanding Lactose
+You may not need to eliminate lactose completely. Most individuals can tolerate some lactose without experiencing symptoms. Research indicates that many can consume about 12 grams of lactose (approximately 1 cup of milk) with minimal issues.
+Tips for Tolerance
+You might be able to tolerate milk and milk products better if you:
+* Consume small amounts at a time and have them with meals.
+* Introduce dairy gradually to see how your body reacts.
+* Opt for yogurt and hard cheeses (e.g., cheddar or Swiss), which generally have lower lactose levels.
+* Use lactase supplements to aid in lactose digestion.
+Lactose-Free Options
+Lactose-free and lactose-reduced milk products can help you manage your lactose intake while still providing the nutritional benefits of dairy. These alternatives are widely available and nutritious.
+Ensuring Calcium and Vitamin D Intake
+Getting enough calcium and vitamin D is crucial for those with lactose intolerance. While milk and dairy are common sources, there are plenty of lactose-free options, including:
+* Fish with soft bones (e.g., canned salmon, sardines)
+* Leafy greens (e.g., broccoli)
+* Oranges
+* Nuts (e.g., almonds, Brazil nuts)
+* Dried beans
+* Calcium-fortified products (e.g., certain cereals, fruit juices, soy milk)
+Vitamin D Sources
+Vitamin D aids in calcium absorption. Ensure your diet includes:
+* Eggs
+* Certain fish (e.g., salmon)
+* Foods with added vitamin D (e.g., fortified cereals and orange juice)
+If you can tolerate small amounts of dairy, opt for those fortified with vitamin D. Sunlight exposure also helps your body produce vitamin D.
+Nutrient Sufficiency
+Discuss with your doctor or dietitian to ensure you’re meeting your nutritional needs. Consult your healthcare provider before using dietary supplements or alternative therapies, and talk about safe sun exposure practices.
+Foods and Drinks Containing Lactose
+Lactose is present in all milk and dairy products and can be found in various processed foods. Common sources include:
+* Baked goods: Bread, pancakes, cookies, cakes
+* Processed foods: Breakfast cereals, instant potatoes, soups, margarine, salad dressings
+* Processed meats: Bacon, sausage, hot dogs, lunch meats
+* Meal replacements: Milk-based shakes and protein powders
+* Coffee creamers: Nondairy liquid or powdered options
+Identifying Lactose
+Check ingredient lists for the following terms, which indicate lactose content:
+* Milk
+* Lactose
+* Whey
+* Curds
+* Milk by-products
+* Dry milk solids
+* Nonfat dry milk powder
+Medication Awareness
+A small amount of lactose can be present in some medications. Discuss with your doctor the lactose content in any prescribed or over-the-counter medications, especially if you're sensitive to even small quantities.
+By following these guidelines and consulting with healthcare professionals, individuals with lactose intolerance can effectively manage their symptoms while maintaining a balanced diet.
+
+
+Source #5: https://www.healthline.com/nutrition/lactose-free-diet
+Lactose-Free Diet: Foods to Eat and Avoid
+Overview
+If you are lactose intolerant, consuming dairy products and certain prepared foods can lead to uncomfortable symptoms. A lactose-free diet eliminates or restricts lactose, the sugar found in milk. Many are aware that milk and dairy products contain lactose, but it can also be hidden in various processed foods.
+Who Should Follow a Lactose-Free Diet?
+Lactose is naturally present in milk, and many individuals lack the enzyme lactase needed to digest it, resulting in symptoms like stomach pain and bloating. Approximately 65% of the global population is affected by lactose intolerance. Some may adopt a lactose-free diet for personal, health, religious, or ethical reasons, while others may do so to manage a dairy allergy.
+Summary
+A lactose-free diet can alleviate symptoms for those with lactose intolerance and may be pursued for other dietary preferences or needs.
+Foods to Eat
+Many nutritious options fit well into a lactose-free diet:
+* Fruits: Apples, oranges, berries, peaches, plums, grapes, pineapples, mangoes
+* Vegetables: Onions, garlic, broccoli, kale, spinach, arugula, collard greens, zucchini, carrots
+* Meat: Beef, lamb, pork, veal
+* Poultry: Chicken, turkey, goose, duck
+* Seafood: Tuna, mackerel, salmon, anchovies, lobster, sardines, clams
+* Eggs: Egg yolks and whites
+* Soy Foods: Tofu, tempeh, natto, miso
+* Legumes: Black beans, kidney beans, lentils, pinto beans, chickpeas
+* Whole Grains: Barley, buckwheat, quinoa, couscous, wheat, farro, oats
+* Nuts: Almonds, walnuts, pistachios, cashews, Brazil nuts, hazelnuts
+* Seeds: Chia seeds, flax seeds, sunflower seeds, pumpkin seeds
+* Milk Alternatives: Lactose-free milk, rice milk, almond milk, oat milk, coconut milk, cashew milk, hemp milk
+* Lactose-Free Yogurts: Coconut yogurt, almond milk yogurt, soy yogurt, cashew yogurt
+* Healthy Fats: Avocados, olive oil, sesame oil, coconut oil
+* Herbs and Spices: Turmeric, oregano, rosemary, basil, dill, mint
+* Beverages: Water, tea, brewed coffee, coconut water, juice
+Note: Lactose-free milk products should be avoided by those with a dairy allergy, as they may still contain milk proteins.
+Summary
+A variety of healthy foods can be included in a lactose-free diet, such as fruits, vegetables, whole grains, nuts, seeds, and legumes.
+Foods to Avoid
+Lactose is primarily found in dairy products, but it can also appear in various prepared foods:
+Dairy Products to Avoid
+* Milk: All types (cow’s, goat’s, buffalo)
+* Cheese: Especially soft cheeses (cream cheese, cottage cheese, mozzarella, ricotta)
+* Butter
+* Yogurt
+* Ice Cream: Frozen yogurt and dairy-based sherbet
+* Buttermilk
+* Sour Cream
+* Whipped Cream
+Some dairy products have lower lactose levels and may be tolerated by individuals with mild intolerance, such as:
+* Butter (trace amounts)
+* Certain yogurts (with beneficial bacteria)
+* Kefir
+* Aged or hard cheeses
+* Heavy cream
+Prepared Foods to Avoid
+Lactose can also be hidden in many processed foods. Look out for:
+* Convenience meals
+* Instant potato mixes
+* Cream-based sauces, soups, and gravies
+* Bread, tortillas, crackers, and biscuits
+* Baked goods and desserts
+* Creamed vegetables
+* Candies, including chocolates
+* Waffle, pancake, muffin, and cake mixes
+* Breakfast cereals
+* Processed meats (hot dogs, bacon, sausage, cold cuts)
+* Instant coffee
+* Salad dressings
+* Flavored potato chips
+Summary
+Lactose is commonly found in dairy products and various prepared foods like baked goods, cream-based sauces, and processed meats.
+Identifying Lactose in Foods
+When uncertain if a food contains lactose, checking the label is crucial. Look for terms such as:
+* Milk
+* Whey
+* Butter
+* Cream
+* Cheese
+* Condensed milk
+* Lactose
+* Malted milk
+Be aware that terms like lactate, lactic acid, and lactalbumin are not related to lactose.
+Summary
+Reading labels for added milk or dairy products is essential in identifying potential lactose content.
+Bottom Line
+Lactose is a sugar found in many foods, particularly dairy and processed items. Following a lactose-free diet allows individuals to enjoy a variety of fruits, vegetables, whole grains, legumes, and proteins while managing their symptoms effectively. Always check labels to ensure the foods you consume are free from lactose.
+Source #6: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/gluten-free-diet/art-20048530
+Gluten-Free Diet Guide
+Definition
+A gluten-free diet excludes foods containing gluten, a protein found in wheat, barley, rye, and triticale (a wheat-rye hybrid).
+Purpose
+Following a gluten-free diet is essential for managing:
+* Celiac Disease: An autoimmune disorder where gluten damages the small intestine, impairing nutrient absorption.
+* Non-Celiac Gluten Sensitivity: Causes symptoms similar to celiac disease but without intestinal damage.
+* Gluten Ataxia: Affects nerve tissues, leading to muscle control issues.
+* Wheat Allergy: An immune response to proteins in wheat, causing symptoms like congestion and breathing difficulties.
+Diet Details
+Allowed Fresh Foods
+A healthy gluten-free diet includes:
+* Fruits and Vegetables: All fresh varieties.
+* Legumes and Nuts: Beans, seeds, legumes, and nuts (unprocessed).
+* Protein: Eggs, lean meats, fish, and poultry (non-processed).
+* Dairy: Most low-fat dairy products.
+* Gluten-Free Grains and Flours:
+   * Amaranth
+   * Arrowroot
+   * Buckwheat
+   * Corn (cornmeal, grits, polenta labeled gluten-free)
+   * Flax
+   * Gluten-free flours (rice, soy, potato, bean)
+   * Hominy
+   * Millet
+   * Quinoa
+   * Rice (including wild rice)
+   * Sorghum
+   * Soy
+   * Tapioca
+   * Teff
+Foods to Avoid
+Avoid all foods and drinks containing:
+* Grains: Wheat, barley, rye, and triticale.
+* Oats: May be contaminated unless labeled gluten-free.
+Common Wheat Varieties to Avoid
+* Durum
+* Einkorn
+* Emmer
+* Kamut
+* Spelt
+Gluten-Containing Products
+Avoid unless labeled gluten-free:
+* Beverages: Beer, ale, porter (usually contain barley).
+* Baked Goods: Bread, cakes, cookies, crackers, etc.
+* Processed Foods: Gravies, sauces, seasonings, and imitation meats.
+* Others: Soups, salad dressings, and snack foods.
+Gluten-Free Food Labels
+Look for labels indicating:
+* Gluten-Free: Must have fewer than 20 parts per million of gluten.
+* Processed Foods: Must avoid gluten-containing ingredients or ensure no cross-contamination.
+Eating Gluten-Free
+At Home
+* Store gluten-free and gluten-containing foods separately.
+* Keep surfaces and equipment clean.
+* Use separate toasters for bread.
+Dining Out
+* Review restaurant menus in advance.
+* Dine during off-peak hours for better service.
+Results
+* A strict gluten-free diet is crucial for managing celiac disease and reducing symptoms.
+* For some with non-celiac gluten sensitivity, the diet may not be lifelong; periodic re-evaluation of gluten tolerance may be possible.
+Risks
+* Excluding gluten-containing foods can reduce intake of essential nutrients like iron, calcium, and fiber.
+* Some gluten-free products may be higher in sugar and fat. Always check labels for nutrient content.
+Costs
+Prepared gluten-free foods tend to be more expensive than their gluten-containing counterparts, potentially leading to higher overall dietary costs.
+
+
+
+
+
+
+
+
+Overall Health 
+Source #1: https://www.eatingwell.com/article/2059033/best-and-worst-foods-to-eat-for-gut-health/
+Probiotics
+Probiotics are beneficial bacteria found in fermented foods that support gut health. The most common types are Lactobacillus and Bifidobacterium, each with its own strains. Probiotics balance gut bacteria, improve immunity, help digestion, and contribute to skin and heart health.
+* Probiotic-Rich Foods:
+   1. Sauerkraut: Fermented cabbage, rich in probiotics if homemade or unpasteurized. Provides 4g of fiber per cup.
+      * Serving ideas: With grilled chicken, in sandwiches, on cheese plates.
+   2. Kimchi: Spicy Korean fermented cabbage, often with scallions and radishes.
+      * Serving idea: In fried rice bowls.
+   3. Kefir: Fermented milk similar to yogurt, rich in probiotics. Choose plain, unflavored kefir to avoid added sugars.
+      * Serving ideas: In smoothies, overnight oats.
+   4. Kombucha: Fermented tea made with a SCOBY. Homemade kombucha may have higher probiotic content than store-bought.
+      * Tips: Use rooibos tea for lower alcohol content.
+   5. Miso: Fermented soybean paste, high in probiotics and protein.
+      * Serving ideas: Add to soups, dressings, or as a glaze on salmon.
+   6. Tempeh: Fermented soybean cake, rich in probiotics, protein, and essential vitamins.
+      * Serving idea: Marinate and grill, then add to salads.
+   7. Yogurt: Popular probiotic-rich food made from fermented milk. Look for the "Live & Active Cultures" label.
+      * Serving ideas: Combine with fruits, or substitute for dairy in recipes.
+Prebiotics
+Prebiotics are fibers that feed the good bacteria in your gut, helping probiotics thrive. Common sources include plant-based fibers like inulin and oligofructose.
+* Prebiotic-Rich Foods:
+   1. Jerusalem Artichokes: High in inulin, a prebiotic fiber.
+      * Serving ideas: Roasted or raw in salads.
+   2. Leeks: High in fructans, good for gut health.
+      * Serving ideas: Add to omelets, salads, or grilled with vinaigrette.
+   3. Onions: Rich in inulin, fructans, and fructooligosaccharides (FOS), which help gut flora.
+      * Serving ideas: Add to soups, salads, or roasted with herbs.
+   4. Raspberries: High in fiber and polyphenols, which promote the growth of beneficial gut bacteria.
+      * Serving ideas: Eat fresh, frozen, or added to yogurt and cereal.
+   5. Beans and Legumes: Fiber-rich foods that feed gut bacteria and promote fermentation.
+      * Serving ideas: Add to salads, soups, or tacos.
+   6. Asparagus: Contains fructans and antioxidants.
+      * Serving ideas: Roast or shave raw over salads.
+   7. Garlic: Rich in inulin and FOS, also has anti-inflammatory properties.
+      * Serving ideas: Use to flavor stir-fries, pasta, and sauces.
+   8. Bananas: Green bananas contain resistant starch, which feeds beneficial bacteria.
+      * Serving ideas: Pair with nut butter, or use in smoothies.
+   9. Pears: Rich in pectin, which helps lower cholesterol and supports gut health.
+      * Serving ideas: Slice and sprinkle with cinnamon or add to oatmeal.
+   10. Watermelon: High in fructans and hydrating for the gut.
+      * Serving ideas: Serve fresh, or in salads with feta and mint.
+Polyphenols
+Polyphenols are plant chemicals that gut microbes love. Found in foods like berries, apples, and dark chocolate, they promote beneficial bacteria and may help reduce cancer, diabetes, and cardiovascular diseases.
+Foods to Limit for Gut Health
+1. Artificial Sweeteners: Aspartame, saccharin, and sucralose can negatively impact gut bacteria.
+2. Red Meat: Contains L-carnitine, which may contribute to atherosclerosis when interacting with gut bacteria.
+3. Processed Foods: Lack diversity and fiber, and may contain harmful additives like sugars and artificial sweeteners.
+4. Alcohol: Excessive alcohol can damage gut health; moderate consumption may have positive effects.
+Conclusion
+For optimal gut health, focus on consuming a variety of probiotic and prebiotic-rich foods, limit processed foods and alcohol, and gradually introduce these into your diet to avoid digestive discomfort.
+Source #2: https://www.nature.com/articles/s41430-021-00991-6
+Role of the gut microbiome in chronic diseases: a narrative review
+Gut Microbiome and Autoimmune Diseases (AIDs)
+The pathogenesis of autoimmune diseases (AIDs) is influenced by genetic predispositions and environmental factors, notably gut microbiota disturbances. Emerging evidence suggests that dysbiosis (imbalanced gut microbiota) plays a key role in the immunopathogenesis of various autoimmune conditions.
+________________
+
+
+Rheumatoid Arthritis (RA)
+RA is an autoimmune inflammatory disease primarily affecting joints. Environmental factors like diet, smoking, and infections contribute to gut/oral dysbiosis and RA onset.
+* Microbiome Alterations: RA patients show reduced gut microbial diversity, with increased abundance of Prevotella species (notably Prevotella copri) and Collinsella, and decreased levels of Faecalibacterium.
+* Key Findings:
+   * Germ-free mice: Protected from experimental arthritis, suggesting a microbiome connection.
+   * Collinsella: Increases gut permeability and IL-17A expression, a cytokine involved in RA inflammation.
+   * SCFAs (Short-Chain Fatty Acids): SCFAs, such as butyrate, suppress inflammation in RA. Mice deficient in SCFA receptors had exacerbated RA inflammation.
+   * Zonulin: Increased gut permeability is linked to RA. Therapies targeting gut permeability (e.g., butyrate supplementation) may help delay RA onset and severity.
+________________
+
+
+Type 1 Diabetes (T1D)
+Alterations in gut microbiota, including reduced bacterial diversity, precede metabolic symptoms of T1D.
+* Microbiome Alterations: Increased Bacteroides and decreased SCFA-producing bacteria (e.g., Faecalibacterium prausnitzii) have been observed in T1D patients.
+* Gut Permeability: Increased gut permeability and dysbiosis precede T1D development, with gut permeability modulation potentially influencing disease incidence.
+* SCFAs and T1D:
+   * Non-obese diabetic (NOD) mice: High SCFA diets (acetate and butyrate) protected against T1D through immune-modulating effects.
+   * SCFAs play a role in reducing gut inflammation and improving immune function, potentially delaying or preventing T1D.
+________________
+
+
+Atopic Eczema
+Atopic eczema is a chronic skin condition with immune dysregulation, gut microbiota imbalance, and skin barrier dysfunction.
+* Microbiome Alterations: Increased Clostridia, Escherichia coli, and Staphylococcus aureus and decreased Bifidobacteria and Bacteroides have been linked to eczema. SCFA producers, like Coprococcus eutactus, are lower in patients with severe eczema.
+* SCFAs: Reduced levels of butyrate and propionate are associated with severe eczema, likely due to a decrease in SCFA-producing bacteria (F. prausnitzii).
+* Microbial Function: Dysbiosis affects the immune system and gut-barrier integrity, potentially driving eczema progression.
+________________
+
+
+Atopic Asthma
+The rapid rise in asthma prevalence, especially in industrialized nations, is linked to altered gut microbiota in early life.
+* Microbiome Alterations: Proteobacteria (e.g., Haemophilus, Moraxella, Neisseria) dominate in asthma patients. Dysbiosis early in life, influenced by factors like antibiotic use and cesarean birth, has been linked to asthma.
+* SCFAs and Asthma: SCFAs have protective effects against asthma by reducing airway inflammation and immune cell activity. High levels of butyrate and propionate in infants reduce asthma risk.
+* Histamine-Producing Bacteria: Increased histamine-secreting bacteria in asthma patients correlate with disease severity, suggesting microbiota’s role in modulating immune responses in asthma.
+________________
+
+
+Gut Inflammation and Bowel Disorders
+Irritable Bowel Syndrome (IBS)
+IBS involves abdominal pain and altered bowel habits, with gut microbial dysbiosis contributing to low-grade inflammation.
+* Microbiome Alterations: Increased Firmicutes (e.g., Ruminococcus, Clostridium) and reduced Bifidobacterium and Faecalibacterium have been observed in IBS patients.
+* SCFAs and IBS: Faecalibacterium prausnitzii plays a key role in maintaining gut health, and its reduction is associated with worsened IBS symptoms. SCFAs, particularly butyrate, improve gut barrier integrity and reduce inflammation.
+* Dietary Management: A low-FODMAP diet has shown efficacy in reducing IBS symptoms by modulating gut microbiota composition, though not all patients respond equally.
+Inflammatory Bowel Disease (IBD)
+IBD encompasses Crohn’s disease (CD) and ulcerative colitis (UC), both characterized by chronic intestinal inflammation.
+* Microbiome Alterations: Decreased microbial diversity, specifically lower levels of butyrate-producing Firmicutes (e.g., Faecalibacterium and Roseburia) and increased Proteobacteria, are common in IBD patients.
+* SCFAs and IBD: Butyrate supports colon health by enhancing epithelial barrier integrity and reducing inflammation. Therapies aiming to restore butyrate levels, such as probiotics, may help in managing IBD.
+Gut Microbiome and Cardiometabolic Diseases
+1. Cardiovascular Disease (CVD)
+* Gut Microbiota and CVD: Changes in gut microbiota composition and function are linked to CVD development. Mechanistic studies in rats have shown associations with myocardial infarction severity.
+* Hypertension:
+   * Human Studies:
+      * In the TwinsUK cohort, self-reported hypertension showed no relation to 68 microbiota markers.
+      * The CARDIA study observed that increased gut microbiome diversity was modestly associated with reduced systolic blood pressure.
+      * The FINRISK study found weak overall associations between gut microbiota composition and blood pressure but noted changes in microbiota genera related to hypertension.
+      * Specifically, Lactobacillus paracasei was linked to lower mean arterial pressure and reduced dietary sodium intake.
+* Diet and Gut Microbiota:
+   * Western Diet: High in choline and carnitine, can increase cardiovascular risk through trimethylamine oxide (TMAO) production.
+   * Mediterranean Diet: Associated with reduced blood pressure and body-mass index, particularly when combined with fasting.
+* Probiotics:
+   * Rodent Studies: Probiotics like Lactobacillus plantarum and Lactobacillus rhamnosus improved heart function after myocardial infarction.
+   * Meta-Analysis: Probiotic use resulted in significant blood pressure reduction.
+   * Atherosclerosis: A. muciniphila supplementation protected against atherosclerosis in a Western diet model.
+2. Type 2 Diabetes (T2DM)
+* Gut Microbiota in T2DM: Patients with T2DM often have altered gut microbiota. Key findings include:
+   * Negative Associations: Genera such as Bifidobacterium, Bacteroides, and Akkermansia.
+   * Positive Associations: Genera like Ruminococcus and Fusobacterium.
+* Microbial Metabolites:
+   * Butyrate: Linked to insulin sensitivity. SCFAs like butyrate trigger GLP-1 secretion, impacting insulin release and appetite.
+   * Microbiome-Metabolite Score: Strongly associated with T2DM prevalence and incidence, suggesting these metabolites as key links between microbiome composition and health.
+3. Non-Alcoholic Fatty Liver Disease (NAFLD)
+* Gut-Liver Axis: Dysbiosis can increase intestinal permeability, leading to endotoxemia and liver damage.
+* Microbiota Changes:
+   * Alterations: Decreased alpha and beta diversity, increased Proteobacteria, and Enterobacteriaceae, and reduced butyrate producers.
+   * Advanced NAFLD/NASH: Decreased levels of F. prausnitzii and variable SCFA levels (e.g., acetate higher in advanced stages).
+* Mechanisms: Microbial species can metabolize bile acids or produce toxins that affect liver health. SCFAs have dual roles, potentially promoting or preventing NAFLD depending on their signaling pathways.
+4. Chronic Kidney Disease (CKD)
+* Gut-Kidney Axis: Gut dysbiosis in CKD involves reduced microbial diversity and increased levels of harmful bacteria.
+* Microbiota Changes:
+   * Decreased: Bifidobacterium, Lactobacillaceae, Akkermansia, and Prevotellaceae.
+   * Increased: Enterobacteriaceae, Enterococci, and Clostridium perfringes.
+* SCFAs: Decreased in CKD, which contributes to disease progression. Increased proteolytic bacteria lead to harmful uremic toxins.
+* Therapeutic Interventions:
+   * Prebiotics, Probiotics, and Synbiotics: Shown to potentially improve gut microbiota, reduce inflammation, and modulate uremic toxins in CKD patients.
+Effects of a Healthy Diet Mediated by the Gut Microbiome
+1. Diet and Gut Microbiome Interaction
+* Dietary Interventions: Clinical studies have shown that dietary changes can impact gut microbiota. For example:
+   * Fiber-Rich Diets: Improve glucose control and metabolic profiles in Type 2 Diabetes Mellitus (T2DM) patients and reduce coronary heart disease risk.
+   * Individual Variation: Postprandial glycemic responses vary among individuals eating the same meals. Considering gut microbiota composition can help design personalized diets for better glucose control.
+2. Microbiome Structure and Cardiometabolic Markers
+* Study Findings:
+   * Microbial Diversity: Correlated with fasting and postprandial biomarkers. Notably, high-density lipoprotein cholesterol (HDLC) was positively linked with microbial species richness.
+   * Predictive Value: Gut microbiome composition was a better predictor of postprandial triglycerides and insulin levels than glucose.
+   * Diet Influence: Healthy plant-based diets shape gut microbiome composition. Approximately 10% of microbiome composition variance was explained by eating patterns.
+3. Diet-Specific Microbial Changes
+* Bacterial Taxa:
+   * Healthy vs. Unhealthy Diets: Bacterial species were grouped by their association with plant-based (DietPositive) or animal-based (DietNegative) foods.
+   * Mediterranean Diet: A 12-month study found significant changes in gut microbiota.
+      * DietPositive Bacteria: Associated with lower inflammation markers and better health indicators.
+      * DietNegative Bacteria: Linked to higher inflammation and frailty.
+   * Overlap with Other Studies: Findings were consistent with studies on omega-3 fatty acids and soluble fiber (inulin) supplementation.
+4. Effect of Dietary Fat and Carbohydrates
+* Type of Dietary Fat:
+   * Saturated Fat: Increased Proteobacteria abundance.
+   * Unsaturated Fat: Increased butyrate-producing bacteria.
+* Carbohydrate Sources:
+   * Resistant Starch Types: Different forms of resistant starch (maize, potato, tapioca) impacted gut microbiome composition and SCFA production in specific ways.
+      * Maize Starch: Increased butyrate producers.
+      * Tapioca Starch: Shifted propionate proportions, increasing succinate-producing bacteria.
+   * Dose Dependency: The effects were dose-dependent, plateauing at 35 g/day.
+5. Conclusions and Implications
+* Dietary Impact: Specific dietary interventions can target and modulate gut microbiome composition, influencing metabolic health and disease outcomes.
+* Personalized Diets: Understanding individual responses to diet and gut microbiome interactions can lead to more effective, personalized dietary recommendations.
+
+
+Source #3: https://www.ahajournals.org/doi/full/10.1161/CIR.0b013e3181e8edf1
+### **1. Fat Consumption**
+   - **Saturated fats**: Limit to less than 7% of total daily calories.
+   - **Trans fats**: Avoid entirely.
+   - **Total fat intake**: 25–35% of daily caloric intake, emphasizing unsaturated fats.
+
+
+### **2. Cholesterol**
+   - Limit to **<300 mg/day** (general population) and **<200 mg/day** (at-risk individuals).
+
+
+### **3. Proteins**
+   - Prefer **plant-based proteins** (e.g., legumes, nuts).
+   - Include **fish** (especially omega-3 rich fish) twice weekly.
+
+
+### **4. Carbohydrates**
+   - Emphasize **fiber-rich sources** like whole grains, fruits, and vegetables.
+
+
+### **5. Fiber**
+   - Aim for **25-30 g/day** of dietary fiber from natural sources.
+
+
+### **6. Sodium and Salt**
+   - Reduce sodium intake to **<1,500 mg/day**, especially for hypertensive and at-risk individuals.
+
+
+### **7. Alcohol**
+   - Consume in moderation: **up to one drink/day** for women, **two drinks/day** for men.
+
+
+### **8. Physical Activity**
+   - Engage in **150 minutes of moderate exercise** or **75 minutes of vigorous exercise** weekly.
+
+
+### **9. Body Weight**
+   - Maintain a **healthy body weight** in relation to height to lower cardiovascular risks.
+
+
+### **10. Calories**
+   - Adjust caloric intake to **achieve or maintain** a healthy weight.
+
+
+The guidelines focus on **reducing cardiovascular risk** through a balanced diet rich in plant-based foods, healthy fats, and limited processed foods. For more details, refer to the original article on the [AHA website](https://www.ahajournals.org/doi/full/10.1161/CIR.0b013e3181e8edf1).
+
+
+Source #4: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+Healthy Diet Guide
+Key Facts
+* A healthy diet protects against malnutrition and noncommunicable diseases (NCDs) like diabetes, heart disease, stroke, and cancer.
+* Poor dietary habits and inactivity are major global health risks.
+* Healthy eating begins early, with breastfeeding promoting growth and cognitive development, and reducing future obesity and NCD risks.
+* Energy balance: Calories consumed should match calories expended.
+* Total fat intake should be <30% of total energy; saturated fats <10%, and trans-fats <1%.
+* Limit free sugars to <10% of total energy (ideally <5%) and salt to <5g/day.
+Overview
+Healthy eating throughout life helps prevent malnutrition and NCDs. However, processed food consumption has increased, leading to diets high in energy, fats, sugars, and salt, while fruit, vegetables, and fiber intake has declined.
+Individual Variability
+A balanced diet varies based on:
+* Age, gender, lifestyle, physical activity level.
+* Cultural context and local food availability.
+Recommendations
+For Adults
+A healthy diet includes:
+* Fruits and Vegetables: At least 400g/day (5 portions), excluding starchy roots.
+* Fats: Less than 30% of total energy intake, with a preference for unsaturated fats.
+* Sugars: <10% of total energy intake (50g for a 2000-calorie diet); ideally <5%.
+* Salt: <5g/day, preferably iodized.
+For Infants and Young Children
+* Exclusively breastfeed for the first 6 months.
+* Continue breastfeeding until at least 2 years.
+* Complement breast milk with safe, nutrient-dense foods from 6 months onward, avoiding added salt and sugars.
+Practical Advice
+Fruit and Vegetables
+* Aim for at least 400g/day.
+* Include vegetables in every meal and opt for fresh fruit and raw veggies as snacks.
+Fats
+* Reduce total fat intake to <30% of energy.
+* Replace saturated and trans-fats with unsaturated fats.
+* Cook using methods like steaming or boiling instead of frying.
+Salt, Sodium, and Potassium
+* Limit salt intake to <5g/day; most comes from processed foods.
+* Increase potassium intake through fruits and vegetables to help manage blood pressure.
+Sugars
+* Reduce free sugar intake to <10% of total energy intake.
+* Choose fresh fruits and vegetables over sugary snacks and beverages.
+Promoting Healthy Diets
+Creating a supportive food environment involves multiple sectors:
+* Government Actions:
+   * Coherent national policies promoting healthy diets.
+   * Incentives for producing and selling healthy foods.
+   * Regulation of food marketing to children.
+* Consumer Engagement:
+   * Raise awareness about healthy diets.
+   * Promote nutrition education and culinary skills.
+* Infant Feeding Practices:
+   * Support breastfeeding and protect working mothers.
+WHO Response
+The WHO has initiated several strategies and recommendations to promote healthy diets globally, including:
+* The Global Strategy on Diet, Physical Activity, and Health.
+* Recommendations to reduce the marketing of unhealthy foods to children.
+* A Comprehensive Implementation Plan for maternal and child nutrition.
+* A commitment to reduce salt intake and eliminate trans-fats from food supplies.
+These efforts aim to ensure healthy lives and promote well-being for all ages.

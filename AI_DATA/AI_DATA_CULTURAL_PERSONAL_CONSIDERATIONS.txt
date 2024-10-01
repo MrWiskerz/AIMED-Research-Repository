@@ -1,0 +1,1126 @@
+﻿Ethnic Demographics on Diet Effectiveness: How diet success varies across populations
+Cultural/Religious Restrictions: Dietary restrictions based on beliefs
+Source #1: https://academic.oup.com/ije/article/50/1/12/5989816?login=true
+Religious Dietary Rules and Potential Nutritional and Health Consequences: Structured Overview
+Introduction:
+* 84% of the global population identifies with a religious group.
+* Many religions have specific dietary rules intended to promote physical and spiritual well-being.
+* Understanding these dietary practices is essential for health professionals to respect and meet the needs of religiously diverse populations, particularly in countries with high migration rates.
+* This study aims to explore how religious dietary rules might impact nutrition and health, offering insights for healthcare professionals to address potential nutritional inadequacies without judgment.
+Methods:
+* A literature review was conducted using databases like PubMed, Google Scholar, and Medline.
+* Sources included holy texts, religious organizations, and scientific publications.
+* The analysis focused on the Abrahamic and Asian religions, excluding less prevalent religions with insufficient nutritional studies.
+* Reviewed dietary rules and breastfeeding practices of major religions and analyzed potential health outcomes, including deficiencies and benefits.
+* The review evaluated large cohort studies, case-control studies, meta-analyses, and surveys with significant sample sizes.
+Findings by Religion:
+* Christianity:
+   * Dietary practices vary across denominations. Some promote fasting and abstinence, while others, like Seventh-day Adventists, encourage vegetarianism.
+   * Nutritional impact: Balanced vegetarian diets can prevent deficiencies, but prolonged fasting may lead to malnutrition.
+* Judaism:
+   * Adheres to strict dietary rules (Kosher) involving the exclusion of certain animals, specific slaughter methods, and meat preparation rituals.
+   * Nutritional impact: Potential risks include iron deficiency due to exsanguination in slaughtering practices and increased salt intake. Observant groups, especially Orthodox Jews, may experience higher rates of anemia.
+* Islam:
+   * Follows Halal dietary laws and practices fasting during Ramadan.
+   * Nutritional impact: Potential risks include dehydration during fasting, weight fluctuations, and complications for individuals with diabetes.
+* Hinduism:
+   * Most Hindus follow a lacto-vegetarian diet, with abstinence from alcohol and certain meats.
+   * Nutritional impact: Risk of iron and vitamin B12 deficiency in poorly balanced vegetarian diets.
+* Buddhism:
+   * Promotes vegetarianism, but dietary rules are less formal.
+   * Nutritional impact: Balanced vegetarian diets are beneficial, but deficiencies may arise in iron and B12.
+Discussion:
+* The review identifies both potential benefits (e.g., lower risk of alcohol-related diseases, cardiovascular benefits from vegetarianism) and risks (e.g., nutritional deficiencies, dehydration from fasting).
+* Health professionals must consider the implications of religious dietary rules when providing dietary advice to individuals, especially in relation to iron, vitamin B12, and overall caloric intake.
+Conclusion:
+* Religious dietary rules are diverse and complex, with varied nutritional and health impacts.
+* Healthcare providers should have an understanding of these practices to offer tailored nutritional advice that respects religious beliefs while preventing deficiencies or health risks.
+Recommendations for Healthcare Professionals:
+1. Educate religious individuals about potential nutritional risks related to their dietary practices.
+2. Encourage balanced meals that meet nutritional needs within the framework of religious rules.
+3. Monitor and address risks of dehydration, anemia, and deficiencies, particularly during periods of fasting.
+Kosher Laws (Judaism)
+* Milk from kosher animals is also kosher, but cheese made using non-kosher animal rennet is not.
+* Meat (except fish, eggs, fruits, vegetables, and grains) cannot be consumed, cooked, or processed with dairy (Ex. 23:19, Ex. 34:26, Deut. 14:21).
+* After eating meat, one must wait 3–6 hours before consuming dairy, but only rinse the mouth and eat a neutral solid when switching from dairy to meat.
+* Separate utensils, plates, and dishwashers are required for meat and dairy in orthodox homes, leading some families to avoid either meat or dairy.
+   * Eliminating meat can cause iron deficiency in children (high prevalence of ID in Israeli children), while avoiding dairy can reduce calcium intake, though rare in Israel.
+* A study in The Netherlands linked Jewish food laws with shorter stature in 19th-century male conscripts.
+* Another study found a U-shaped relationship between religiosity and health among Israeli Jews, with moderately religious individuals experiencing worse health than both secular and highly observant groups.
+Yom Kippur (Judaism)
+* Yom Kippur is a day of fasting for all adults (Lev: 16, 23, Num. 29) from sundown to sundown.
+   * Pregnant and lactating women, children under 9, and sick individuals are exempt from fasting.
+   * Healthy individuals generally tolerate fasting, though there is mild dehydration risk in hot climates.
+Christian Dietary Practices
+* Catholicism:
+   * Abstinence from meat is observed on Fridays (especially during Lent) and fasting on Ash Wednesday and Good Friday for adults under 60.
+   * Fish and vegetarian dishes are common on abstinence days.
+* Protestantism:
+   * Most Protestants have no strict food laws, but Seventh-day Adventists follow a lacto-ovo-vegetarian diet, leading to lower obesity, cholesterol, and cardiovascular disease rates.
+   * Some Adventists eat only two meals a day, with long overnight fasts aiding in weight loss and glucose control.
+* Orthodox Christianity:
+   * Orthodox Christians observe 180–200 days of abstinence, abstaining from meat, dairy, fish, and olive oil during Lent.
+   * Fasting results in lower body mass, cholesterol, and cardiovascular risk factors.
+   * In Ethiopia, Orthodox Christians observe over 200 fasting days per year, and this practice can lead to underweight and growth deficits in mothers and children.
+Islamic Dietary Practices
+* Tahneek: Prelacteal feeding of newborns with softened dates or honey (possible botulism risk).
+* Breastfeeding is strongly encouraged, and mothers should breastfeed for two lunar years (Sura 2:233).
+   * Complementary foods are sometimes delayed, leading to iron and vitamin D deficiencies.
+   * Milk banking is controversial due to concerns over "milk siblings."
+* Halal Laws:
+   * Halal laws allow all vegetarian foods and kosher meat but prohibit pork, alcohol, and blood.
+   * Islamic slaughtering methods can result in lower iron content in meats.
+   * Studies suggest religious observance may reduce meat consumption.
+* Vitamin D Deficiency:
+   * Veiled women are more likely to have vitamin D deficiency due to less sun exposure (as observed in studies from Turkey, China, and Saudi Arabia).
+* Ramadan:
+   * Fasting during Ramadan involves abstaining from food and drink during daylight hours.
+   * Weight loss is typically minor, but overeating during iftar can cause digestive issues.
+   * Dehydration and other risks are possible, especially for individuals with medical conditions like diabetes or kidney disease, though guidelines for managing these conditions exist.
+   * Despite exemptions, many pregnant or ill individuals choose to fast, sometimes affecting health outcomes.
+Asian Religions (Hinduism, Buddhism, Sikhism)
+* Hinduism:
+   * This ancient religion includes various philosophies and practices, but detailed dietary specifics are not provided here.
+1. Breastfeeding Practices
+* India:
+   * 90-95% of mothers breastfeed regardless of education, caste, place of birth/residence.
+   * Decline in exclusive breastfeeding: 74% at 1 month, 46% by 4 months.
+   * Median exclusive breastfeeding: 1.4 months; breastfeeding + water: 4.7 months.
+   * Hindu mothers often discard colostrum, feeding newborns cow's milk, water, or honey due to cultural beliefs.
+* Buddhism:
+   * Strong breastfeeding culture, continuing beyond 2 years.
+* Chinese culture:
+   * Breastfeeding is encouraged. Survey data:
+      * 58% of infants aged 6-8 months receive breast milk.
+      * Formula also used by 46% of infants.
+2. Dietary Habits by Religion and Region
+* Hinduism:
+   * Many Hindus avoid meat, fish, and eggs due to the belief in the sanctity of living beings.
+   * Lacto-vegetarianism is common; milk products are encouraged.
+   * Sacred cows are never consumed.
+   * Risks of deficiencies: vitamin B12, iron, zinc, selenium, omega-3 fatty acids.
+   * Surveys show higher undernutrition and iron deficiency anemia (ID) in Hindus compared to other religious groups (24% vs. 11-21% undernutrition).
+* Sikhism:
+   * Sikhs are generally free to choose meat or vegetarian diets but must avoid halal/kosher meat.
+   * Many follow a lacto-vegetarian diet, with strict avoidance of alcohol.
+* Buddhism:
+   * Many Buddhists follow lacto-vegetarian diets under the principle of non-harm.
+   * Monks/nuns avoid eating after noon.
+   * Studies show varying effects of vegetarianism on body composition and bone health, depending on the duration and type of vegetarianism.
+* Chinese culture:
+   * Traditional Chinese diets are rich in starch, legumes, and vegetables, with moderate meat, poultry, and seafood consumption.
+   * Changing dietary patterns towards high-fat, low-carb diets have led to nutrient deficiencies in calcium, iron, and other essential vitamins/minerals.
+3. Nutritional Risks and Observations
+* Hinduism:
+   * Strict vegetarians are more prone to ID anemia and vitamin B12 deficiency, particularly in pregnant women and infants.
+   * Risks increase with the exclusion of animal products and milk.
+* Buddhism:
+   * Long-term vegetarianism has shown risks for postmenopausal women regarding bone health, especially in vegan diets.
+   * However, not all studies agree on the impact of vegetarian diets on bone mineral density.
+* Chinese Culture:
+   * The traditional diet has benefits but is shifting, with children often having inadequate calcium and vitamin intake.
+   * Rice is a staple, but half of Chinese infants consume no fruits or vegetables, leading to deficiencies.
+4. Cultural/Religious Fasting and Nutritional Impact
+* Religious fasting:
+   * Fasting practices vary widely:
+      * Greek Orthodox: periods of abstinence, similar to vegetarian diets.
+      * Islam (Ramadan): Moderate or reversible impact on nutrition.
+      * Prolonged fasting in Ethiopian Orthodox Church can lead to undernutrition.
+* Nutritional Deficiencies:
+   * Risks include iron and vitamin B12 deficiencies, especially in vegan diets.
+   * A well-planned lacto-vegetarian diet is generally nutritionally adequate but should be monitored for specific deficiencies.
+5. Benefits and Mixed Outcomes
+* Breastfeeding:
+   * Prolonged breastfeeding is beneficial in various religions.
+* Alcohol Avoidance:
+   * Alcohol abstention in religions like Islam, Mormonism, and Hinduism has significant public health benefits.
+* Vegetarian Diets:
+   * Vegetarian diets may lower risks of hypertension, obesity, and blood glucose issues but can also increase risks for stroke and nutrient deficiencies.
+6. Health Recommendations for Professionals
+* Understanding religious dietary practices is essential for guiding care, particularly for migrant populations.
+* Nutritional assessments should include BMI evaluation, clinical examination, and monitoring for key nutrients (iron, B12, calcium).
+* Supplementation may be required for populations at risk of deficiencies, especially among women and children.
+7. Conclusion
+Religious dietary practices are generally neutral but can lead to benefits or deficiencies depending on adherence and socio-economic factors. Healthcare providers must balance understanding patients' spiritual practices with providing adequate nutritional guidance, especially in diverse, global populations.
+
+
+
+
+
+
+
+
+Source #2: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ije/50/1/10.1093_ije_dyaa182/1/dyaa182_supplementary_data.docx?Expires=1728496592&Signature=2K96zZUdEU~jUuLk7N95Dlh2qAAoOoGBIuGRIkcpIp2MyVAKAkyo4MpEZv2Gj-nQAorspsqHDgAAC~YBp4iQCqyY6neux6IkYERbQ437YqNp~LF9BtQ~eWv1yMHGbgNE33D1rQV4MFAjsOPkR8mNjhz812y-drMdw6AHdaaYFcxbAq5x5S6ZERenztsT8JI1AsoPa-YOSlevf22UhY7griYnNuBwnsnCJ-ZzbgKWrHNVpNDuq10p7X4rKWb3B6b6w6JewXVfVx3s2OWRKx6xD8c4kZNE6GPrJenVdcXiul6Fts3MU7z8x2MCCErLWLWqdvbNDBOrpJFj~FEePI7fSA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+Supplementary Table S1. Non-exhaustive list of usual animals’ flesh, fat, eggs and milk considered as kosher (allowed for consumption according to Jewish law) or not.
+Category
+	Kosher
+	Non-kosher
+	All animals
+	 
+	Sick or previously dead
+	Quadrupeds
+(Only the forequarter of the quadruped may be used, except when the sciatic nerve and its adjacent blood vessels have been removed)
+	Animals which both chew the cud, i.e. is a ruminant and have split hooves: Beef, cow, veal, deer, goat, roe, sheep, ewe.
+	All the carnivores, camel, pigs; Rabbits and hares.
+	Poultry and birds
+	All poultry and domestic birds are allowed: Chicken, duck, goose, guinea fowl, ostrich, pheasant, turkey, partridge, pigeon, quail.
+	 All birds of prey or scavengers.
+	Eggs
+	Eggs from kosher poultry and birds.
+	Egg containing blood
+	Milk
+	Milk from kosher animals
+	 
+	Main Fishes and Seafood
+	Only fish with fins and scales can be eaten: Anchovy, bass, bonito, carp, cod, haddock, halibut, herring, mackerel, mullet, perch, salmon, sardine, sole, trout, tuna, whiting.
+	Eel, ray, shark, sturgeon, swordfish. No shellfish are permissible: Clams, crab, crayfish, lobster, oysters, shrimps.
+ 
+	Other animals
+	 
+	Amphibians, insects, rodents, reptiles, snails.
+	Miscellaneous
+	 
+	Blood
+	 
+	 
+	Abdominal fats from cattle, sheep and goat; fats surrounding digestive organs and kidneys;
+	 
+	 
+	Gelatin.
+	Supplementary Table S2.  Ritual slaughtering and meat preparation in Kashrut*
+Slaughtering
+	· Must be done according by a « shochet », a religious butcher, who is also in charge of examining the animal in order to rule out any disease.
+	 
+	· The procedure must be quick, across the throat in a single continuous cutting movement with a sharp knife.
+	Blood removing and meat preparation
+	· The blood must be drained from the flesh as quickly as possible and the animal is washed clean.
+	 
+	· After being cut, the meat is soaked in tepid water for 30 minutes and covered in coarse Kosher salt for another hour.
+	 
+	· Afterwards the meat must be rinsed three times to be ready for cooking and consumption. As much blood as possible must be removed through the process because the blood is perceived as synonymous to life.
+	 
+	· Meat rich in blood such as liver must be broiled.
+	 
+	· An egg containing a blood spot must be discarded.
+	Utensils
+	· Utensils that have come into contact with non-Kosher food may not be used with Kosher food.
+	 
+*Kashrut is a set of dietary laws dealing with the foods that Jews are permitted to eat and how those foods must be prepared according to Jewish law.
+Supplementary Table S3. Permitted (halal) and prohibited (haram) food in Islam
+ 
+Category
+	Halal
+	Haram
+	All animals
+	 
+	Animals that die of themselves, carrion.
+	Quadrupeds
+ 
+	Herbivorous animals
+	Donkey; Horse (controversial);
+	 
+	 
+	Rabbits and hares are forbidden among the Alevi people in Turkey;
+	 
+	 
+	Mammals not slaughtered according to the halal rules;
+	 
+	 
+	Pigs +++;
+	 
+	 
+	All carnivores with fangs.
+	 
+	 
+	Monkeys;
+	 
+	 
+	Rodents and pests;
+	Poultry, birds and eggs
+	All poultry and domestic birds
+	 All birds of prey.
+	 
+	Eggs of halal poultry or bird.
+	 
+	Fishes and Seafood
+	All
+	Some schools follow the Kashrut rules and others permit all fish but not shellfish;
+	 
+	 
+	Eel.
+	Other animals
+	Locust
+	Other insects, amphibians, reptiles.
+	Miscellaneous
+	 
+	Alcoholic beverages and alcohol products such as flavouring extracts.
+	 
+	 
+	Blood
+	 
+	 
+	Any products that may contain emulsifiers or jelly made from animal fats, but this remains a matter of debate. 
+	 
+
+
+
+
+
+
+
+
+Source #3: https://www.chapman.edu/campus-life/fish-interfaith-center/_files/religious-dietary-restrictions.pdf
+Supplementary Table S1: Kosher (Allowed) and Non-Kosher (Forbidden) Foods in Jewish Law
+Category
+	Kosher (Allowed)
+	Non-Kosher (Forbidden)
+	All Animals
+	
+
+	Sick or previously dead animals
+	Quadrupeds
+	Animals that both chew cud (ruminants) and have split hooves: beef, cow, veal, deer, goat, roe, sheep, ewe
+	All carnivores, camel, pigs, rabbits, hares
+	Poultry/Birds
+	Chicken, duck, goose, guinea fowl, ostrich, pheasant, turkey, partridge, pigeon, quail
+	All birds of prey or scavengers
+	Eggs
+	Eggs from kosher poultry and birds
+	Eggs containing blood
+	Milk
+	Milk from kosher animals
+	
+
+	Fish/Seafood
+	Only fish with fins and scales: anchovy, bass, bonito, carp, cod, haddock, halibut, herring, mackerel, mullet, perch, salmon, sardine, sole, trout, tuna, whiting
+	Eel, ray, shark, sturgeon, swordfish; no shellfish (clams, crab, crayfish, lobster, oysters, shrimps)
+	Other Animals
+	
+
+	Amphibians, insects, rodents, reptiles, snails
+	Miscellaneous
+	
+
+	Blood; abdominal fats from cattle, sheep, goat; fats surrounding digestive organs and kidneys; gelatin
+	________________
+
+
+Supplementary Table S2: Ritual Slaughter and Meat Preparation in Kashrut*
+* Slaughtering:
+   * Must be performed by a shochet (religious butcher) who ensures the animal is disease-free.
+   * The cut must be quick and continuous across the throat with a sharp knife.
+* Blood Removal & Meat Preparation:
+   * Blood must be drained from the animal as quickly as possible.
+   * Meat is soaked in tepid water for 30 minutes, covered in coarse Kosher salt for 1 hour, and rinsed 3 times to remove as much blood as possible.
+   * Blood-rich meats like liver must be broiled.
+   * Eggs containing a blood spot must be discarded.
+* Utensils:
+   * Utensils that have come into contact with non-Kosher food cannot be used with Kosher food.
+*Kashrut refers to Jewish dietary laws.
+________________
+Supplementary Table S3: Halal (Permitted) and Haram (Prohibited) Foods in Islam
+Category
+	Halal (Permitted)
+	Haram (Prohibited)
+	All Animals
+	
+
+	Animals that die of themselves (carrion)
+	Quadrupeds
+	Herbivorous animals
+	Donkey, horse (controversial), pigs, carnivores with fangs, monkeys, rodents, and pests
+	Poultry/Birds
+	All poultry and domestic birds
+	Birds of prey
+	Eggs
+	Eggs of halal poultry or birds
+	
+
+	Fish/Seafood
+	All
+	Some schools follow Kashrut rules, others permit all fish but not shellfish; eel
+	Other Animals
+	Locusts
+	Other insects, amphibians, reptiles
+	Miscellaneous
+	
+
+	Alcoholic beverages, alcohol products (e.g., flavoring extracts); blood; products with animal fats (controversial)
+	 Source #4:. https://thrivemeetings.com/2018/01/religious-dietary-restrictions-guide/
+Religious Dietary Restrictions Overview
+There are many religions with dietary restrictions and food traditions. While some rules are widely known, others are less prominent. Regardless, it is essential to respect and observe them when planning menus. Keep in mind the following best practices:
+1. Consult the individual about their dietary requirements before the event.
+2. Plan for strict adherence as if the individual is a devout observer.
+3. Consult professionals for guidance on meal planning to ensure both respect and quality.
+________________
+
+
+Buddhism
+* General Rule: Buddhists aim to follow the principle of "do no harm," which is often interpreted as vegetarianism.
+* Common Practice: Most Buddhists are lacto-vegetarians (consume dairy, avoid meat).
+* Exception (Theravada Buddhism): Some allow pork, chicken, and fish if the animal was not killed specifically for consumption.
+________________
+
+
+Christianity
+* Catholicism:
+   * Fasting Days: Meat is not allowed on Fridays during Lent. Fasting on Good Friday and Ash Wednesday.
+* Eastern Orthodox Christianity:
+   * Fasting: Weekly fasts include abstaining from alcohol, eggs, dairy, fish, meat, and olive oil. Some fasts are more restrictive.
+* Seventh-Day Adventists:
+   * Diet: Lacto-ovo-vegetarians (consume dairy and eggs, avoid alcohol, fish, poultry, and meat).
+________________
+
+
+Hinduism
+* Diet: Most Hindus are lacto-vegetarians (consume dairy, avoid eggs, fish, meat, and poultry).
+* Brahmins: Special rules for food preparation and storage.
+* Fasting: Weekly fasting, with additional fasts on New Moon days, holy days, and during festivals (e.g., Diwali).
+________________
+
+
+Islam
+* Halal: Permissible foods under Islamic law. Kosher foods are generally acceptable under Halal, with the exception of alcohol.
+* Holy Period: Ramadan includes fasting and specific food traditions.
+________________
+
+
+Jainism
+* Non-violence Principle: Strict rules for protecting all life, which includes:
+   * No eggs, fish, meat, poultry, root vegetables, or honey.
+* Fasting: Common, especially during Paryushan, an eight-day period when fasts may eliminate green and raw vegetables.
+________________
+
+
+Judaism
+* Kosher: Dietary laws specifying allowed foods and food preparation. Pork, shellfish, and mixing meat with dairy are forbidden.
+* Holy Days: Rosh Hashanah, Yom Kippur, and Passover have specific food restrictions and traditions.
+* Best Practice: Serve pre-packaged kosher meals to avoid contamination.
+________________
+
+
+Mormonism
+* Prohibited: Coffee, tea, alcohol, tobacco, and illegal drugs.
+* Fasting: Monthly fasts (two meals skipped on the first Sunday).
+* Other Restrictions: Mormons avoid overindulgence and waste, and Sundays are a time of rest.
+________________
+
+
+Rastafarianism
+* l-tal Diet: Clean and natural foods. Meals are lightly cooked, and fish is allowed if less than 12 inches long.
+* Prohibited: Pork, shellfish, scavengers, salt, alcohol, milk, and coffee.
+* Holy Days: Vegetarian or vegan meals are commonly observed during holy celebrations.
+________________
+
+
+Summary
+This is a summary of major religions and their dietary practices. Always confirm attendees' requirements and consult a professional for menu planning. This ensures both dietary respect and budget management for events.
+
+
+Source #5: https://www.candacelately.com/2012/06/religious-dietary-laws.html
+Religious Dietary Laws Overview
+Author: Candace Nelson | 8:00 AM
+Introduction
+This guide explores religious dietary laws from various world religions. These practices reflect the connection between food, spirituality, and culture. The information presented below outlines dietary restrictions for each religion, along with the rationale behind these practices.
+________________
+
+
+Hinduism
+* Diet: Vegetarianism is common, though not mandatory.
+   * Prohibited: Pork, fowl, ducks, snails, crabs, camels, and beef (due to the sacred nature of cows).
+   * Allowed: Dairy products like milk, yogurt, and butter are considered pure.
+   * Fasting: Major holidays and personal days such as birthdays, anniversaries, Sundays, and lunar days often require fasting.
+________________
+
+
+Buddhism
+* Diet: Vegetarianism is encouraged, though some include fish.
+   * Prohibited: Many avoid beef; some abstain from red meat entirely.
+   * Special Restrictions: Monks often fast on specific moon days and avoid solid food after noon. Ten types of meat are advised against (humans, elephants, horses, dogs, snakes, lions, tigers, boars, hyenas).
+   * Rationale: Fasting promotes self-restraint, and different meats are believed to cause spiritual obscurations.
+________________
+
+
+Christianity
+* General: Few dietary restrictions for most Christians, but fasting or abstaining from meat (especially during Lent) is common.
+________________
+
+
+Eastern Orthodox Christianity
+* Fasting: Regular fasting from meat, fish, and certain foods during Holy Days to promote spiritual progress.
+________________
+
+
+Roman Catholicism
+* Fasting: Restrictions on meat during specific holy days (e.g., Lent), often allow water and non-stimulant liquids.
+________________
+
+
+Judaism
+* Kosher: Rules governing food consumption based on the Torah.
+   * Prohibited: Pork, shellfish, and mixing meat with dairy.
+   * Preparation: Ritual slaughter (shochet) and blood removal are required. Grape products and wine must be prepared by Jews.
+   * Fasting: Practiced on religious holidays.
+________________
+
+
+Islam
+* Halal: Permissible foods under Islamic law.
+   * Prohibited: Pork, certain birds, and alcohol.
+   * Mashbooh: Foods that are questionable for consumption.
+   * Fasting: Regular fasting on Mondays, Thursdays, and during Ramadan (abstaining from food and drink during daylight hours).
+   * Rationale: Eating in moderation promotes good health and spiritual awareness.
+________________
+
+
+Mormonism
+* Diet: Restrictions on coffee, tea, alcohol, tobacco, and illegal drugs.
+   * Allowed: Foods from the land like grains, fruits, and vegetables are encouraged over meat, sugar, and spices.
+   * Fasting: Regular fasting for self-control and spiritual discipline.
+________________
+
+
+Rastafarianism
+* l-Tal: Emphasis on natural, slightly cooked foods.
+   * Prohibited: Pork, scavengers, shellfish, salt, alcohol, milk, coffee, canned goods.
+   * Allowed: Fish under 12 inches, herbal drinks.
+   * Rationale: Clean eating promotes spiritual purity, and marijuana is used for religious and medicinal purposes.
+________________
+
+
+Seventh-day Adventists
+* Diet: Lacto-ovo vegetarianism is promoted.
+   * Prohibited: Pork, alcohol, coffee, tea, and tobacco products.
+   * Rationale: Eating a wholesome diet honors God and promotes holistic health.
+________________
+
+
+Summary Table of Religious Dietary Practices
+Religion
+	Practice or Restriction
+	Rationale
+	Buddhism
+	- Vegetarianism preferred
+- Fasting required for monks
+	- Natural foods are considered pure
+- Monks fast to increase spiritual awareness
+	Eastern Orthodox Christianity
+	- Restrictions on meat and fish
+- Fasting on Holy Days
+	- Fasting promotes spiritual progress and self-discipline
+	Hinduism
+	- Beef prohibited
+- Alcohol avoided
+- Numerous fasting days
+	- Cows are sacred; fasting promotes spiritual growth
+	Islam
+	- Pork and certain birds prohibited
+- Fasting during Ramadan
+	- Correct eating promotes spiritual awareness
+- Fasting cleanses the body
+	Judaism
+	- Pork and shellfish prohibited
+- Meat and dairy separation
+	- Kosher laws follow the Torah; fasting promotes spiritual reflection
+	Mormonism
+	- Caffeine, alcohol prohibited
+- Fasting observed
+	- Avoidance of addictive substances; fasting promotes self-control and spiritual growth
+	Protestants
+	- Few restrictions
+- Moderation encouraged
+	- Gluttony and drunkenness are sins; all food is a gift from God
+	Rastafarianism
+	- Meat and fish restricted
+- Vegetarian diets preferred
+	- Clean, natural eating promotes purity; biblical texts support the use of herbs for health
+	Roman Catholicism
+	- Meat restricted on certain days
+- Fasting on holy days
+	- Fasting and restrictions align with church observances and spiritual discipline
+	Seventh-day Adventists
+	- Pork prohibited
+- Vegetarianism encouraged
+	- A wholesome diet honors God and promotes holistic health
+	
+
+
+
+Basics of Different Cuisines: Typical food consumed in various countries
+Source #1: https://my.clevelandclinic.org/health/articles/16037-mediterranean-diet
+Mediterranean Diet Overview
+The Mediterranean Diet emphasizes plant-based foods and healthy fats. It mainly includes vegetables, fruits, whole grains, and extra virgin olive oil (EVOO). It aims to lower the risk of cardiovascular disease and other chronic conditions. A dietitian can help tailor this diet to your individual needs.
+1. Overview
+Key Features:
+* Focus on plant-based foods and healthy fats.
+* High intake of vegetables, fruits, beans, lentils, nuts, and whole grains.
+* Use of extra virgin olive oil as the primary fat source.
+* Moderate consumption of fish, poultry, cheese, and yogurt.
+* Limited red meat, sweets, sugary drinks, and butter.
+* Optional moderate wine consumption with meals.
+Historical Context:
+* Originates from dietary patterns in Mediterranean countries during the mid-20th century.
+* Associated with a reduced risk of coronary artery disease (CAD).
+Customization:
+* A dietitian can help modify the diet based on personal medical history, conditions, allergies, and preferences.
+
+
+2. Benefits
+Health Benefits:
+* Reduces risk of cardiovascular disease (heart attack, stroke).
+* Supports healthy body weight, blood sugar, blood pressure, and cholesterol.
+* Lowers risk of metabolic syndrome and certain cancers.
+* Slows brain function decline and supports longevity.
+Dietary Impacts:
+* Limits saturated and trans fats, promotes unsaturated fats (including omega-3s).
+* Restricts sodium and refined carbohydrates.
+* Encourages high fiber and antioxidant intake.
+Nutritional Harmony:
+* The diet's benefits come from a combination of nutrients, not a single ingredient.
+
+
+3. Food List
+Foods to Emphasize:
+* Vegetables, fruits, whole grains, beans, lentils, nuts, and seeds.
+* Extra virgin olive oil (EVOO).
+* Fish (rich in omega-3s).
+* Poultry, cheese, and yogurt (in moderation).
+Foods to Limit:
+* Red meat, sweets, sugary drinks, and butter.
+* Highly processed foods, foods high in sodium and saturated fats.
+
+
+4. Serving Goals and Sizes
+Food
+	Serving Goal
+	Serving Size
+	Tips
+	Fresh fruits and vegetables
+	Fruit: 3 servings/day
+	Fruit: ½ cup to 1 cup
+	Include at least 1 serving of veggies per meal; use fruit as snacks.
+	Whole grains and starchy vegetables
+	3 to 6 servings/day
+	½ cup cooked or 1 slice
+	Choose whole grains; limit refined carbs.
+	Extra virgin olive oil (EVOO)
+	1 to 4 servings/day
+	1 tablespoon
+	Use in place of other oils and fats.
+	Legumes (beans and lentils)
+	3 servings/week
+	½ cup
+	Add to various dishes; try hummus or bean dips.
+	Fish
+	3 servings/week
+	3 to 4 ounces
+	Opt for omega-3 rich fish.
+	Nuts
+	At least 3 servings/week
+	¼ cup nuts or 2 tbsp nut butter
+	Choose raw, unsalted varieties; use in snacks and meals.
+	Poultry
+	No more than once daily
+	3 ounces
+	Prefer white meat; bake, broil, or grill.
+	Dairy
+	No more than once daily
+	1 cup milk or yogurt
+	Choose low-fat or fat-free options.
+	Eggs
+	Up to 1 yolk/day
+	1 egg (yolk + white)
+	Limit yolks if cholesterol is a concern.
+	Red meat
+	None, or ≤ 1 serving/week
+	3 ounces
+	Opt for lean cuts and limit frequency.
+	Wine (optional)
+	1 serving/day (female)
+	1 glass (3½ ounces)
+	Consult healthcare provider about alcohol consumption.
+	Baked goods and desserts
+	Limit to ≤ 3 servings/week
+	Varies by type
+	Opt for fruits and nonfat yogurt; avoid commercially prepared goods.
+	________________
+
+
+5. Meal Planning
+Breakfast Ideas:
+* Steel-cut oats with berries and flaxseed.
+* Whole-grain toast with nut butter and smoothie.
+* Greek yogurt with fruit and walnuts.
+* Egg white omelet with veggies.
+Lunch Ideas:
+* Bulgur salad (e.g., tabbouleh).
+* Whole-grain pasta salad with veggies.
+* Roasted portobello sandwich with veggie soup.
+* Quinoa and salmon salad.
+Dinner Ideas:
+* Salmon with mango salsa.
+* Cod with lentils.
+* Roasted chicken over cannellini beans.
+* Chickpea and spinach pancakes.
+* Black bean burger on whole-grain bun.
+Snack Ideas:
+* Nuts and seeds (low or no salt).
+* Fresh fruit.
+* Greek yogurt with dark chocolate.
+* Whole-grain crackers with hummus.
+* Raw veggies with yogurt dip.
+
+
+6. Foods to Limit
+Avoid or Limit:
+* Foods with added sugar (e.g., bakery goods, ice cream).
+* Sugary drinks (e.g., fruit juices, sodas).
+* Alcoholic beverages (beer, liquor).
+* Foods high in sodium or saturated fat.
+* Refined carbohydrates (e.g., white bread, white rice).
+* Highly processed foods and fatty meats.
+
+
+7. Additional Common Questions
+Mediterranean Diet Pyramid:
+* Visualizes recommended foods and their frequency.
+* Emphasizes vegetables, fruits, whole grains, and EVOO; limits red meat and sweets.
+Lifestyle Tips:
+* Exercise regularly.
+* Avoid smoking.
+* Cook and share meals with family/friends.
+* Eat locally sourced foods.
+Vegetarian Adaptation:
+* Can exclude meat and fish; focus on plant proteins (nuts, beans).
+Gluten-Free Adaptation:
+* Modify recipes to exclude gluten-based products.
+Olive Oil:
+* Prefer extra virgin olive oil (EVOO) for health benefits over regular olive oil.
+
+
+A Note from Cleveland Clinic
+* The Mediterranean Diet offers proven benefits, especially for heart disease.
+* Consult with a healthcare provider before starting.
+* Support from loved ones can aid in long-term adherence.
+Source #2: https://kathleenflinn.com/a-cheat-sheet-to-flavor-profiles/
+Common Cuisine in Each Gastronomical Area:
+Cajun/Creole
+dark roux, Blackening spice, onions, celery, green pepper, tomatoes, parsley, cayenne, Cajun spice blends, blackening seasonings, lemon, scallions, andouille sausage, crab, shrimp
+Caribbean
+allspice, scotch bonnet peppers, garlic, rum, jerk seasoning, corn, plantains, mace, pineapple, nutmeg, cloves, cinnamon, bay leaves, saffron, vanilla, coconut, citrus
+Chinese
+soy sauce, chili oil, sesame oil, garlic, ginger, water chestnuts, Sichuan peppercorns, star anise, hoisin sauce, five-spice blend, fish sauce, rice vinegar, red bean paste, pork, straw mushrooms, tea, pickled vegetables
+French
+butter, shallots, onions, celery, carrots, thyme, tarragon, herbs de Provence, Fine herbs, bay leaves, chives, chervil, capers, red and white wine, truffle, soft cheeses, Dijon mustard, mushrooms, cream
+Korean
+kimchi, sesame oil, gochujang, kochukaru, eggs, kochujang, bonito flakes, tofu, bulgogi spice, ginger, garlic, soy sauce, seaweed, rice wine, noodles, dried anchovies
+Indian
+tandoori spices, garam masala, curry, yogurt, coconut milk, basmati rice, tamarind, cardamom, cumin, coriander, cilantro, fennel, garlic, saffron, fenugreek, dried chilies
+Italian
+garlic, onions, celery, basil, pesto, Italian herb blend, prosciutto, Parmigiano-Reggiano cheese, mozzarella cheese, pine nuts, tomatoes, artichokes, olives, olive oil, oregano, lemon, fennel, flat-leaf parsley, red pepper flakes, rosemary, white beans, balsamic vinegar
+Japanese
+miso, sesame seed oil, sesame seeds, rice vinegar, sake, soy sauce, wasabi, ginger, seaweed (including kombu, Nori and wakame), Mirin (sweet sake), teriyaki sauce, bonito flakes, dashi, pickled vegetables, tofu
+Greek/Mediterranean
+oregano, lemon, olives, tuna, rosemary, bay leaves, thyme, olive oil, lamb, garlic, feta cheese, tomatoes, red onions, fish, shellfish (other countries along the Mediterranean have similar flavor profiles)
+Mexican/Tex-Mex
+cumin, chili powder, hot sauce, green peppers, oregano, lime, garlic, onions, celery, cilantro, tomatoes, scallions, black beans, fajita spices, Cheddar cheese, avocado
+Middle Eastern/West Asian or Levantine
+dates, honey, sesame seeds, mint, prunes, sumac, turmeric, cinnamon, olives, Baharat spice, parsley, pine nuts, pomegranates, pistachios, yogurt (note: this includes Arab, Iraqi, Iranian, Israeli, Lebanese and Turkish cuisine which for geographical and historical reasons, share similar ingredients and flavor profiles)
+North African/Moroccan
+mint, lemon, harissa, ras-al-hanout, saffron, turmeric, parsley, cilantro, honey, olives, almonds, dates, raisins, chickpeas, eggplant, green bell peppers, carrots, lentils, onion, ground ginger, paprika, cumin, cayenne, figs
+South Asian
+ginger, garlic, scallions, lemongrass, cilantro, fish sauce, shrimp paste, soy sauce, coconut milk, sesame oil, lime, oyster sauce, galangal, hot chili peppers, vinegar
+Spanish
+olive oil, saffron, paprika, chorizo, ham, sherry vinegar, garlic, olives, anchovies, peppers, olives, tomatoes, Manchego cheese, piquillo peppers, eggs, almonds, tuna
+West African
+okra, peanuts, yams, hot peppers, tomatoes, onions, rice, cassava, plantains, black-eye peas, palm nut oil, ginger, millet, coriander, thyme
+Central/South Asian
+ginger, garlic, scallions, shallots, lemongrass, Thai basil, cilantro, fish sauce, shrimp paste, soy sauce, coconut milk, sesame seeds, sesame oil, rice or sweet wine vinegar, cilantro, lime, oyster sauce, galangal, hot chili peppers.
+Source #3: https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/tips_eth_dine.htm
+Tipsheet: Eating Healthy Ethnic Food
+Exploring ethnic cuisines can be a delightful way to enjoy tasty meals while maintaining a focus on calories and fat. Many ethnic dishes offer nutritious, low-calorie options. Here’s a guide to help you choose healthier selections from various cuisines:
+Healthy Choices by Cuisine
+Chinese
+* Cooking Methods:
+   * Zheng: Steamed
+   * Jum: Poached
+   * Kao: Roasted
+   * Shao: Barbecued
+* Food Options:
+   * Steamed rice
+   * Dishes without added MSG
+Italian
+* Sauces:
+   * Red sauces (without cream)
+   * Primavera: Made with vegetables, no cream
+   * Piccata: Lemon-based sauce
+* Ingredients:
+   * Sun-dried tomatoes
+   * Crushed tomatoes
+   * Lightly sautéed dishes
+   * Grilled options
+Mexican
+* Dishes:
+   * Spicy chicken
+   * Rice and black beans
+   * Salsa or picante
+   * Soft corn tortillas
+Source 4: https://www.healthline.com/health/food-nutrition/travel-healthiest-cuisines#10.-Lebanese
+Embracing Global Cuisines for Health
+Exploring global cuisines reveals a treasure trove of flavors and health benefits that can enrich any diet.
+Greek Cuisine
+Greek cuisine is lauded for its emphasis on fresh, wholesome ingredients like fruits, vegetables, olive oil, and yogurt. The Mediterranean diet, which has its roots in Greece, particularly Crete, is linked to high life expectancy and lower rates of heart disease. Classic dishes such as grilled fish, souvlaki, and louvi (black-eyed bean salad) showcase this focus on health. However, it's essential to enjoy richer foods like spanakopita (spinach pie), baklava, and moussaka in moderation, as they can be higher in calories and fat.
+Japanese Cuisine
+Japanese dietary traditions emphasize seafood, which is rich in heart-healthy omega-3 fatty acids. Staples such as sashimi, miso soup, and veggie stir-fries highlight the nutritious elements of this cuisine. Fermented soy products like miso not only enhance flavor but also contribute to gut health through probiotics. While Japanese cuisine is healthy, it's advisable to consume fried dishes, such as tempura, in moderation to maintain balance.
+Mexican Cuisine
+Mexican food is a vibrant blend of flavors and nutrients, prominently featuring beans, avocados, corn, tomatoes, and chili peppers. Beans are an excellent source of micronutrients, including magnesium and iron. However, many popular Americanized versions of Mexican dishes, such as loaded nachos and cheesy enchiladas, can be less nutritious. To enjoy the benefits of traditional Mexican cuisine, it's best to choose authentic, vegetable-rich options that highlight fresh ingredients.
+Korean Cuisine
+Korean cuisine has gained popularity for its delicious and healthful dishes. One of the standout items is kimchi, a fermented vegetable dish that offers probiotics and health benefits. Many Korean meals include ingredients like ginger and garlic, which can help improve cholesterol levels. Nutrient-rich options abound in Korean cuisine, including steamed or stir-fried vegetables, soups, and rice bowls. However, due to the fermentation process, some dishes can be high in sodium, so it's wise to enjoy them mindfully.
+Thai Cuisine
+Thai food is known for its bold flavors and abundant vegetables. Key ingredients such as turmeric, ginger, coriander, and chili peppers contribute not only to taste but also to health benefits. Turmeric, in particular, contains curcumin, which has been extensively studied for its anti-inflammatory and antioxidant properties. To maintain a balanced diet, it’s advisable to choose dishes rich in vegetables and seafood while consuming noodle-based options and fried rice in moderation.
+Spanish Cuisine
+Spanish cuisine emphasizes fresh seafood and vegetables, with a unique approach to dining through tapas, or small plates. Tapas allow for portion control and variety, making it easier to sample a range of flavors while keeping meals balanced. When dining out, pairing heavier tapas, like patatas bravas (fried potatoes), with a large salad packed with vegetables can create a more nutritious meal without excess calories.
+Italian Cuisine
+Italian cuisine is often mistakenly associated with heavy, cheese-laden dishes. In reality, traditional Italian cooking prioritizes fresh ingredients, including olive oil, whole grains, seafood, and a variety of vegetables. This cuisine is characterized by its use of herbs and spices while minimizing heavily processed foods linked to health issues. Opting for salads, soups, and pasta dishes loaded with vegetables, along with an occasional glass of red wine, encapsulates the essence of a healthy Italian meal.
+Indian Cuisine
+Indian food is rich in flavor and often features a diverse array of powerful herbs and spices. Staples like cinnamon, turmeric, cardamom, and coriander are not only flavorful but have been associated with various health benefits, including anti-inflammatory properties. Many Indian dishes are vegetarian and loaded with nutrient-dense ingredients such as legumes, nuts, and vegetables. However, it's important to be mindful of dishes that use ghee or coconut milk, which can increase calorie content. Healthier alternatives include tandoori chicken, kebabs, or vegetable-based dishes like chana masala.
+French Cuisine
+French cuisine varies significantly by region, with some areas known for rich, indulgent dishes while others focus on fresh, wholesome ingredients. For instance, the Provence region is celebrated for its use of olive oil, seafood, and fresh herbs. Beyond the ingredients, French cuisine emphasizes quality and local sourcing, along with a mindfulness approach to eating that encourages diners to savor their meals. Flavorful recipes such as ratatouille, coq au vin, niçoise salad, and bouillabaisse exemplify the nutritious potential of French cooking.
+Lebanese Cuisine
+Lebanese cuisine shares similarities with Greek food, often highlighting healthy options such as hummus, tabbouleh, and grilled meats. The concept of ordering a meze, or a variety of small plates, allows for a diverse and balanced meal while promoting portion control. While some dishes may be higher in calories, particularly those based on lamb or butter, many options focus on fresh vegetables, legumes, and herbs, making Lebanese cuisine a healthy choice overall.
+Conclusion
+Eating healthily does not mean restricting oneself to bland foods or boring meals. By exploring a variety of global cuisines, individuals can discover flavorful, nutrient-rich dishes that can contribute significantly to a healthier lifestyle. Embracing these diverse culinary traditions not only enhances the palate but also promotes overall well-being, proving that food can be both delicious and nutritious.
+
+
+Personal Preferences: Taste profile, favorite foods, etc.
+Source #1: https://www.nutritionletter.tufts.edu/healthy-eating/personalized-nutrition/
+Personalized Nutrition: An Emerging Approach
+Recent research suggests that people react to foods and nutrients differently based on genetics and other factors, such as their gut microbiome. Traditional dietary guidelines, like the Dietary Guidelines for Americans, are aimed at public health, but nutrition science is moving toward individualized approaches.
+"Personalized nutrition provides targeted nutritional advice based on specific information about an individual," says Jos Ordovás, PhD, director of the Nutrition and Genomics Laboratory. Advances in science are making it more likely that a particular diet will work for a specific person.
+Factors Influencing Dietary Choices
+There are several variables that shape dietary decisions:
+Personal Preferences: Everyone has different tastes.
+Life Stage and Health Goals: Nutritional needs change based on age, health status, and objectives, such as weight loss or blood sugar control.
+Health Conditions: People with allergies or intolerances have different dietary needs.
+Socio-Economic Factors: Economic and environmental factors play a role in food choices.
+Nutrient Absorption: As people age, their ability to absorb nutrients like vitamin B12 or produce vitamin D decreases.
+"A healthy dietary pattern should provide all necessary nutrients without exceeding calorie needs," says Alice H. Lichtenstein, DSc, director of the Cardiovascular Nutrition Laboratory. This pattern can be customized to account for individual preferences, life stages, and health needs.
+Genetic Influence on Nutrition
+Genes impact how our bodies absorb, transport, and metabolize nutrients. "Two people can follow the same diet but experience different outcomes," explains Ordovás. Some people may lose more weight than others on the same diet due to genetic variations. For instance, a specific gene variant can increase the link between saturated fat intake and obesity, so people with this variant may benefit more from reducing saturated fat in their diet.
+Role of the Gut Microbiome
+Trillions of microbes live in the human gut, influencing how food is processed. "In the future, we may be able to recommend specific diets based on a person's microbiota fingerprint to reduce disease risk," says Ordovás. Changing the diet could also potentially alter the microbiome to improve health outcomes.
+Behavior and Personalized Nutrition
+Even with personalized data, behavior change is key to success. "Personalized nutrition might motivate people to adopt healthier habits," says Ordovás. A study published in the International Journal of Epidemiology showed that personalized dietary advice led to healthier lifestyle changes compared to conventional advice. However, the study found no additional benefit when genetic testing was included.
+Behavioral traits, such as emotional eating, may also be factored into personalized nutrition. This could provide more effective approaches to overcoming dietary challenges.
+Challenges and Promises of Personalized Nutrition
+The field of personalized nutrition is still developing. Some early companies over promised results, but the science is improving. "We are still far from fully understanding how individual biology interacts with food," says Ordovás. At this point, expensive genetic tests may not be necessary for most people.
+Future research will need to study individuals with specific genetic traits to determine whether personalized diets are more effective than standard dietary advice. Even if we reach that level of precision, challenges remain, such as integrating different dietary needs within a family or addressing the high cost of personalized testing and meals.
+Despite these hurdles, personalized nutrition holds promise for refining healthy eating patterns. "You don’t need a genetic test to tell you to eat more fruits and vegetables," says Ordovás, "but personalized guidance might help you make more effective changes."
+Conclusion
+Personalized nutrition offers the potential for better dietary outcomes by considering individual genetic and microbiome factors. However, success still relies on behavior change, and current tools may not be necessary for everyone. Personalized nutrition may motivate healthier habits, but the hard work of changing behaviors remains essential for achieving long-term health benefits.
+Source #2: https://www.mdpi.com/2071-1050/12/21/9093
+Introduction
+Sustainable Diets Definition (FAO, 2010):
+* Diets with low environmental impact that support food and nutrition security.
+* Contribute to a healthy life for present and future generations.
+* Respect biodiversity, ecosystems, cultural acceptability, economic fairness, and affordability.
+* Ensure diets are nutritionally adequate, safe, and healthy, while optimizing natural and human resources.
+Examples of Sustainable Diets:
+* Plant-Based Diets: Primarily plant foods, limit or avoid animal-based foods.
+   * Types of plant-based diets:
+      * Flexitarian: Includes eggs, dairy, and occasionally meat, poultry, fish, and seafood.
+      * Pescatarian: Includes eggs, dairy, fish, and seafood, but no meat or poultry.
+      * Lacto-ovo-vegetarian: Includes eggs and dairy, but no meat, poultry, fish, or seafood.
+      * Vegan: Excludes all animal-based foods.
+* These diets are seen as sustainable alternatives to western, animal-based diets and offer potential human and planetary health benefits.
+Prevalence of Plant-Based Diets Globally:
+* 19% of people in the Asia Pacific region identify as vegetarians.
+* Only 5% of Europeans and 6% of North Americans identify as vegetarians.
+Reasons for Adopting Plant-Based Diets:
+* Health concerns related to current dietary patterns.
+* Animal welfare considerations.
+* Environmental sustainability awareness.
+Barriers to Plant-Based Diets:
+* Lack of knowledge about plant-based diets.
+* Perceived palatability of meat.
+* Difficulty in changing eating habits.
+* Influence of personal identity shaped by socio-cultural factors (e.g., cultural traditions, religious beliefs).
+* Support from family, friends, and community.
+Influences on Plant-Based Diets:
+* Societal trends and media influence.
+* External factors like food environment:
+   * Availability of plant-based options in grocery stores and restaurants.
+   * Display and promotion of plant-based foods.
+* Food prices.
+Research Aim:
+* Study the reasons for adopting and maintaining plant-based diets in different socio-cultural contexts.
+* Evaluate the availability of plant-based foods and external factors influencing dietary behavior.
+* Insights will help nutrition educators and policymakers promote sustainable diets effectively.
+
+
+Methodology
+2.1 Study Population and Settings
+* Inclusion Criteria:
+   * Participants followed plant-based diets (flexitarian, pescatarian, vegetarian, or vegan).
+   * Participants recruited from two cities:
+      * Loma Linda (LL), California, USA: Small city (~24,000 inhabitants) with additional nearby areas (Redlands, San Bernardino, Riverside).
+      * Copenhagen (CPH), Denmark: Larger city (~793,000 inhabitants), including Frederiksberg municipality.
+   * No restrictions based on gender, age, race, or socioeconomic status.
+* Socio-Cultural Context:
+   * Loma Linda (LL):
+      * One of the five Blue Zones (known for longevity and healthy lifestyle).
+      * Predominantly a Seventh-Day Adventist (SDA) community.
+      * SDA church promotes plant-based diets but permits some animal-based products (eggs, dairy).
+   * Copenhagen (CPH):
+      * Won the European Green Cities award for green growth and sustainability.
+      * Likely participants followed plant-based diets for environmental reasons.
+2.2 Questionnaire
+* Structure:
+   * Self-administered, web-based, closed questionnaire (22 questions, multiple-choice, single answer).
+   * Four categories:
+      * Demographics
+      * Personal diet and motivation
+      * Society and culture
+      * External factors
+   * Two language versions:
+      * English (LL participants)
+      * Danish (CPH participants)
+* Questionnaire Model:
+   * Based on Stoll-Kleemann and Smith’s model, addressing factors influencing meat-eating behavior.
+   * Three sections:
+      * Personal/Internal Factors: Knowledge, emotions, habits, perceived control.
+      * Socio-Cultural Factors: Culture, religion, social norms, identity.
+      * External Factors: Political, economic factors, food environment, availability of plant-based foods.
+* Pilot Test:
+   * Conducted with two people from each city to ensure comprehension and content validity.
+   * Feedback was incorporated into the final questionnaire.
+2.3 Data Collection
+* LL (July-September 2018):
+   * Posters posted on public Facebook groups, supermarkets, cafés, and university campuses.
+   * Flyers distributed locally and an online newspaper ad posted.
+* CPH (October 2018):
+   * Posters posted in seven Facebook groups.
+   * No paper posters or flyers due to sufficient online recruitment.
+* Participation:
+   * Minimum of 8 respondents per diet category (flexitarian, pescatarian, vegetarian, vegan).
+   * At least 40 participants total per location.
+   * Voluntary completion implied informed consent (anonymity and research purpose explained).
+2.4 Statistical Analyses
+* Descriptive statistics (frequencies, percentages) used to define socio-demographic characteristics, personal diet and motivations, socio-cultural environment, and availability of plant-based products.
+* No comparisons between LL and CPH populations were performed.
+
+
+Findings
+3.1 Sample Demographics
+* Total of 229 participants: 43 from Loma Linda (LL) and 186 from Copenhagen (CPH).
+* Gender:
+   * More than 75% of participants in both locations were women.
+* Age:
+   * Over 50% of participants were between 20-29 years old.
+* Education:
+   * High levels of education in both locations.
+* Religion:
+   * Over 50% of LL participants followed Seventh-Day Adventist (SDA) religion.
+   * 70% of CPH participants did not follow any religion.
+3.2 Personal Diet and Motivations
+* Dietary Patterns:
+   * LL: Flexitarian (39.5%) and Pescatarian (25.6%) diets were the most common.
+   * CPH: Nearly 50% of participants identified as vegan.
+   * One-third of LL participants had followed their diet for 20+ years, while over 50% of CPH participants had followed a plant-based diet for 1-5 years.
+* Motivations for Starting a Plant-Based Diet:
+   * LL: Main motivation was health, followed by social norms and religion.
+   * CPH: 40% cited animal welfare; health and environmental concerns were each 22%.
+* Motivations for Maintaining the Diet:
+   * LL: Health (69.8%) was the primary reason for maintaining the diet.
+   * CPH: Animal welfare (40.9%) and environmental concerns (28.5%) were the top reasons.
+* Non-Vegan Consumption:
+   * CPH: 23.7% believed they already consumed enough plant-based products.
+   * LL: Only 11.4% felt the same.
+   * LL Participants: Desired more availability of plant-based foods in restaurants and cafés, and lower prices.
+   * CPH Participants: Support from family and friends, lower prices, and convenience could boost plant-based consumption.
+3.3 Socio-Cultural Environment
+* Dietary Patterns in Family/Friends:
+   * LL: 51.2% followed different diets than family; 72.1% had different diets than friends.
+   * CPH: 79% had different diets than family; 85.5% from friends.
+   * Omnivorous diets were the most common for relatives and friends in both locations.
+* Social Pressure and Dietary Compromise:
+   * Most participants rarely compromised their diets due to social pressure.
+   * CPH: More participants reported compromising their diet “very often.”
+* Diet and Religion:
+   * LL: 65.1% associated plant-based diets with religion or spiritual beliefs.
+   * CPH: 86.6% did not associate plant-based diets with religion.
+   * Diet Associations:
+      * LL: Lacto-ovo-vegetarianism associated with health-promoting lifestyles; veganism linked to health, religion, and animal rights.
+      * CPH: Plant-based diets linked to animal rights and climate change concerns.
+3.4 Availability of Plant-Based Foods
+* Shopping for Plant-Based Foods:
+   * Both groups reported availability of plant-based options, though LL had higher supermarket availability.
+   * Both groups found plant-based foods more expensive, especially in CPH.
+* Work/Study Availability:
+   * LL: 55.8% said both lacto-ovo-vegetarian and vegan options were available where they work/study.
+   * CPH: 48.3% reported vegan options were not available at their work/study place.
+* Restaurants:
+   * Both groups reported that most restaurants offered lacto-ovo-vegetarian meals, with fewer offering vegan options.
+Discussion
+* Influence of Socio-Cultural Background:
+   * Dietary decisions are influenced by environment and socio-cultural factors.
+   * Religion was a significant differentiator:
+      * LL: Religion (mainly Seventh-Day Adventist) played a major role in plant-based diet adoption and maintenance.
+      * CPH: Religion was not a motivating factor, and plant-based diets were unrelated to religious beliefs.
+* Demographic Insights:
+   * The majority of participants in both LL and CPH were young, educated women, consistent with prior studies linking plant-based diets to these demographics.
+* Dietary Motivations:
+   * LL: Health was the primary motivation for both adopting (53.5%) and maintaining (69.8%) a plant-based diet.
+   * CPH: Animal welfare was the top reason for adopting the diet, followed by environmental/climate change concerns.
+   * Differences between the two groups reflect their distinct social and cultural contexts.
+* Vegan vs. Flexitarian:
+   * LL: 65% of participants identified as flexitarian or pescatarian.
+   * CPH: 50% of participants were vegan, highlighting a stronger focus on animal welfare in CPH compared to LL.
+* Socio-Cultural Influences and Social Networks:
+   * Social networks influence dietary habits:
+      * Participants in both locations were more likely to follow plant-based diets if their peers did as well.
+      * CPH: Higher levels of dietary compromise due to social pressure, possibly due to fewer plant-based peers.
+      * LL: Less dietary compromise, likely due to stronger religious and community support for plant-based diets.
+* External Factors Influencing Dietary Patterns:
+   * Adequate infrastructure and availability of plant-based options are key to promoting plant-based diets.
+   * Participants expressed willingness to increase plant-based food consumption if there were more affordable and accessible options in restaurants and supermarkets.
+   * Both groups viewed plant-based foods as more expensive than meat-based products, which could be a barrier to adoption.
+* Availability of Plant-Based Foods:
+   * LL: Slightly better access to plant-based foods in supermarkets compared to CPH.
+   * CPH: Limited availability of vegan options at work/study places compared to LL.
+   * Despite this, both groups reported sufficient access to lacto-ovo-vegetarian options.
+* Price and Affordability:
+   * Plant-based alternatives (e.g., meat analogs, plant-based milk) were perceived as expensive.
+   * Nobody adopted plant-based diets due to cost savings, indicating price was not a major motivator.
+* Policy and Food Industry Support:
+   * Governments, health professionals, and the food industry must support the transition to plant-based diets through subsidies, affordable options, and restaurant offerings.
+* Study Limitations:
+   * Questionnaire Validation: The survey was not previously validated and may have selection bias due to recruitment differences in LL and CPH (LL recruitment included general Facebook groups).
+   * Sample Size: LL sample size was small, and recruitment methods differed between locations.
+   * Dietary Self-Declaration: Participants self-reported their dietary patterns, which may not have been validated with a food diary.
+   * Demographic Information: Additional socio-demographic data (e.g., race, socio-economic status) could have been collected.
+
+
+Source #3: https://thegirlonbloor.com/guide-to-flavor-profiles/
+
+
+Basic building blocks of flavor:
+   * Sweetness: Associated with sugars and some artificial sweeteners.
+   * Sourness: Caused by acids.
+   * Saltiness: Associated with salts.
+   * Bitterness: Often found in certain vegetables, coffee, and dark chocolate.
+   * Umami: A savory taste found in foods like meats, mushrooms, and soy sauce.
+   * Aroma: A significant portion of flavor comes from the sense of smell. Aromas are perceived through the nose and contribute to the overall flavor experience.
+   * Texture: The mouthfeel of food, including aspects like crunchiness, creaminess, or chewiness, contributes to the overall sensory perception.
+   * Temperature: The temperature of food and beverages can influence flavor perception. For example, some flavors are more pronounced when a substance is warm or cold.
+   * Mouthfeel: Refers to the tactile sensations in the mouth, such as the creaminess of dairy products, the fizziness of carbonated drinks, or the spiciness of certain foods.
+   * Consistency: The thickness or thinness of a liquid or the density of a solid can affect how flavors are perceived.
+   * Chemical Sensations: Certain substances in food, like capsaicin in chili peppers, can create sensations such as spiciness or tingling.
+Herbs and Spices
+Herbs and spices are the backbone of flavor in many cuisines. From the warmth of cinnamon to the zing of cilantro, each herb and spice brings its own distinctive character to a dish. Here is a short list of ingredients that you may want to experiment with.
+* Garlic
+* Ginger
+* Fresh herbs such as parsley, cilantro, basil, oregano, rosemary, thyme, dill, mint, and lemongrass
+* Dried herbs including chili powder, cumin, thyme, paprika, turmeric, and saffron 
+* Store bought or homemade spice blends
+* Hot sauces (including sriracha)and/or curry pastes
+Fats and Oils
+Fats contribute richness and mouthfeel to a dish. Whether it's olive oil, butter, or coconut oil, choosing the right fat can enhance the overall flavor profile. Additionally, some fats, like those found in nuts or avocados, bring a unique nuttiness or creaminess to the table. Here's a list of fats you can add to your dish:
+* A neutral tasting oil such as olive oil or avocado oil 
+* Sesame oil
+* Coconut oil
+* Butter
+* Coconut milk or dairy-based cream
+* Avocado
+* Nuts such as pistachios, peanuts, almonds and walnuts
+Acidity
+The addition of acidic elements, such as citrus fruits, vinegar, or tomatoes, can brighten up a dish and balance its flavors. Here are ingredients you can use to increase the acidity and sourness of your dish:
+* Lemons and/or lemon juice
+* Limes and/or lime juice
+* Tomatoes including cherry tomatoes and tomato paste)
+* Red wine or white wine vinegar
+* Apple cider vinegar 
+* Rice vinegar
+* Pickled vegetables such as pickled beets, pickled red onion, or pickled cabbage
+Sweetness
+Sweetness is not limited to desserts; it can enhance savory dishes as well. Certain ingredients can add depth and complexity to a range of recipes. Here are some ideas to bring sweetness to your meal:
+* Sugar 
+* Honey
+* Maple syrup
+* Caramelized onions
+* Vegetables such as carrots, butternut squash, sweet potatoes, and corn 
+* Fruits including pineapple, apple, pomegranates, and berries
+Bitterness
+Bitterness, when balanced well, can add sophistication to a dish. Dark chocolate, coffee, and bitter greens like arugula or radicchio contribute a pleasing bitterness that contrasts with other flavors. Here's a brief list of ingredients that can bring bitterness to your dish:
+* Dark chocolate
+* Coffee 
+* Vegetables such as arugula, kale, broccoli, and swiss chard
+Umami
+Ingredients like soy sauce, mushrooms, and aged cheeses are known for their umami characteristics, bringing a savory depth to dishes. Here are some ideas to add umami to your dishes:
+* Soy sauce
+* Mushrooms
+* Olives 
+* Parmesan cheese
+* Fish sauce 
+* Miso paste
+* Seaweed
+* Bacon
+* Some seasoning blends like a special umami sea salt
+Creating Your Own Flavor Profile
+Consider these factors for creating a balanced flavor profile next time you're expermenting in the kitchen:
+* Contrast and Complement: Play around with contrasting and complementary flavors. Sweet and salty, spicy and sweet, or tangy and rich—finding the right balance can take your dish to new heights.
+* Layering: Build layers of flavor by incorporating ingredients at different stages of the cooking process. This allows the flavors to meld and develop complexity.
+* Taste as You Go: Regularly taste your dish as you cook. Adjust seasonings and ingredients to ensure a well-balanced flavor profile.
+incorporating Flavor Profiles into Meal Prep
+Once you have a basic understanding of flavor profiles, you can truly get creative when meal prepping. Follow this formula to make a delicious meal prep recipe from scratch:
+* Choose your flavor profile. Either start with one of the options listed in my Ingredients Pairing cheat sheet or create your own. 
+* Create a marinade, spice blend or dressing. Use it to season the ingredients in your dish. Check out the Dressings, Sauces, Marinades & Spice Mixes category page on my site for some ideas. 
+* Choose a protein. You can pick a meat (like chicken, beef or pork) or a vegetarian protein source like chickpeas, tofu, beans or lentils.  
+* Add vegetables. Choose any you have on hand such as bell peppers, carrots or tomatoes.
+* Add a starch. Finish building out your dish with a starch like sweet potatoes, corn, rice, quinoa, pasta or bread.
+
+
+Ingredients Pairing Cheat Sheet:
+1. Lemon/oregano/garlic                 2. Olives/sundried tomatoes/artichokes 
+3. Chili powder/lime                 4. Chipotle/garlic 
+3. Soy sauce/garlic/ginger         4. Soy sauce/sesame oil/honey
+ 5. Thyme/Allspice/garlic                6. Coconut milk/turmeric/ginger
+ 7. Cilantro/lime/garlic                8. Chili peppers/peanut butter/curry 
+9. Bacon/cheese/sour cream         10. Garlic/parmesan 
+11. Italian seasoning/garlic/lemon 12. Diced tomatoes/garlic 
+13. Tomatoes/basil/balsamic         14. Salsa/taco seasoning 
+15. Pineapple/ham                         15. Orange juice/chili akes/garlic 
+16. Diced tomatoes/curry/coconut milk 
+17. Coriander/cumin/cinnamon/garlic/ pickled turnips (shawarma) 
+18. Pesto (basil/garlic/parmesan) 19. Chimichurri (parsley/cilantro/garlic) 
+20. Cucumber/dill/garlic/yogurt         21. Smoked paprika/lemon/garlic 
+22. Pickles/ketchup/mustard         23. Honey/dijon mustard 
+24. Rosemary/garlic/white wine         25. BBQ sauce 
+26. Sweet chili sauce/cilantro         27. Buffalo wing sauce/blue cheese 
+28. Paprika/garlic powder/onion powder 
+29. Beef broth/red wine/onions 30. Red wine vinegar/capers/parsley
+Source  # 4 https://www.heart.org/en/healthy-living/healthy-eating/cooking-skills/meal-planning/understanding-tastes-and-food-flavors
+Understanding Tastes and Food Flavors
+The enjoyment of food involves a symphony of sensory experiences that go far beyond mere taste. The intricate ways in which we perceive flavors are shaped by multiple factors: the basic tastes identified by our taste buds, the aromas we detect through our sense of smell, and the physical sensations created by food's temperature and texture. This holistic understanding of flavor can empower cooks to create more balanced and satisfying dishes.
+The Five Basic Tastes
+1. Sweet: Sweetness is often one of the first flavors we recognize, and it plays a crucial role in our diet. Foods like ripe fruits (e.g., bananas, berries), roasted vegetables (such as carrots and sweet potatoes), and whole grains (like quinoa and oats) provide natural sweetness. Sugars from honey, agave syrup, and maple syrup also contribute to this taste. However, it's vital to be mindful of added sugars; health recommendations suggest that women limit their intake to around 100 calories per day, while men should aim for no more than 150 calories. Excessive sugar consumption can lead to a range of health issues, including obesity, diabetes, and heart disease.
+2. Sour/Acidic: Sourness, often associated with acidic foods, stimulates the palate in a refreshing way. Ingredients such as citrus fruits (limes, lemons), fermented dairy products (like yogurt and buttermilk), and vinegar are quintessential sources of sour flavor. Fermented foods, including sauerkraut and kimchi, not only add acidity but also provide probiotics, which are beneficial for gut health. The sour taste can brighten dishes, balancing sweetness and enhancing overall flavor complexity.
+3. Salty: The salty taste is one of the most recognizable and widely utilized flavors in cooking. Salt enhances the natural flavors of food and acts as a preservative. Salty foods include snacks (like chips and pretzels), cured meats (such as ham and bacon), cheeses, and seafood (like anchovies and shellfish). Unfortunately, the typical American diet tends to be high in sodium, often exceeding the recommended limit of 1,500 mg per day. To reduce sodium intake, consider substituting salt with herbs and spices. Opting for low-sodium alternatives to common staples can also make a significant difference.
+4. Bitter: Bitter flavors are often associated with certain vegetables and beverages. Foods such as dark leafy greens (like kale and spinach), coffee, unsweetened cocoa, and tonic water provide this unique taste. While bitterness may not be universally loved, it can add depth and complexity to dishes. The presence of bitter ingredients can also be beneficial for health, as many contain antioxidants and other health-promoting compounds.
+5. Umami: Umami, the fifth taste, is often described as savory or meaty. This flavor is prevalent in foods such as beef, chicken, pork, ripe tomatoes, mushrooms, and fermented products like soy sauce. Umami-rich foods are often packed with glutamate, an amino acid that contributes to their rich flavor profile. When cooking with umami ingredients, it is advisable to look for lower-sodium options to maintain a balanced diet.
+Balancing Flavors
+Achieving a delicious balance of flavors is the hallmark of effective cooking. Here are some strategies to create well-rounded meals using pantry staples:
+* Bold Flavors: Foods like fish, fresh mint, and lime combine beautifully. A quick recipe might involve making a low-sodium canned tuna salad with chopped mint and a squeeze of lime juice. Alternatively, grilled zucchini topped with a dressing of mint, lime, and low-sodium anchovies can offer a refreshing dish.
+* Earthy Flavors: Ingredients like mushrooms and lentils bring an earthy depth to meals. A simple preparation could involve cooking lentils in low-sodium chicken broth with bay leaves for added flavor, creating a nourishing dish rich in fiber and protein.
+* Crunchy Textures: For a satisfying crunch, consider a salad made from chopped apples, celery, and unsalted nuts. Dress it with vanilla-flavored, low-fat yogurt for a delightful combination of sweetness and crunch.
+* Sweet Aromas: The sweet aroma of roasted beets can be enhanced with a dressing of freshly squeezed orange juice and grated orange rind. This pairing not only elevates the dish's flavor but also adds vibrant color.
+Counteracting Flavors
+Combining contrasting flavors can create intriguing and delicious dishes:
+* Bitter and Umami: Cooking collard greens in low-sodium chicken broth with chopped mushrooms can create a savory dish that balances the bitterness of the greens with the umami richness of the mushrooms.
+* Sweet and Bitter: A delightful topping for whole-wheat bread could consist of fresh or low-sodium canned tomatoes combined with arugula. A drizzle of balsamic vinegar and olive oil, followed by broiling, enhances the dish's flavors and textures.
+* Spicy and Soothing: To balance the heat of spicy hot peppers, consider topping a spicy bean casserole with low-fat, no-sugar-added yogurt. This cooling element tempers the dish while adding creaminess.
+* Sour and Sweet: Broiling half a fresh grapefruit until it caramelizes can release its natural sweetness, making it a delightful side or snack option.
+* Crunchy and Creamy: Topping broiled fish with a salsa made from canned pineapple, avocado, and chopped green peppers creates a bright, tropical flavor profile that is both crunchy and creamy.
+Conclusion
+An in-depth understanding of taste and flavor dynamics opens up a world of culinary possibilities. By recognizing the fundamental tastes and how they can interact, cooks can craft dishes that are not only pleasing to the palate but also promote health and wellness. Embracing this knowledge allows for creativity in the kitchen, transforming simple ingredients into extraordinary meals that highlight the diverse and delightful flavors our world has to offer.
+By exploring the myriad of tastes and understanding their roles in flavor profiles, anyone can elevate their cooking and enjoy the rich, multifaceted world of food.

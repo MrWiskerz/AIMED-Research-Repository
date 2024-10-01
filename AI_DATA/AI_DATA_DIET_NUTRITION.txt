@@ -1,0 +1,1280 @@
+﻿Weight Loss Diets: Diets for weight loss
+Source #1: https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2023.1192747/full
+Factors that predict weight loss success differ by diet intervention type
+1. Introduction
+Overweight and obesity are global public health concerns, affecting around 2 billion adults and nearly 400 million children and adolescents worldwide (1). A market survey conducted with 22,008 individuals from 30 countries revealed that 45–60% of people are actively trying to lose weight (2). These numbers highlight the critical need to identify key determinants for successful weight loss strategies (3). Although a variety of diets can achieve weight loss by creating a negative energy balance, a successful diet is defined as one that results in a loss of at least 5% of baseline body weight while also improving cardiometabolic health (4).
+Common weight loss strategies include manipulating macronutrient composition (e.g., low-carbohydrate or low-fat diets) and reducing total energy intake (low-calorie diets). Low-carbohydrate diets are promoted based on the idea that they increase satiety and stimulate fat burning through the carbohydrate-insulin model (5). Conversely, low-fat diets aim to prevent weight gain and reduce cardiovascular disease risk (6), while low-calorie diets focus on creating a calorie deficit. However, adaptive thermogenesis can make weight loss challenging and increase the likelihood of regaining lost weight (7).
+Research indicates that various diet types can lead to weight loss with similar outcomes. A meta-analysis of five randomized controlled trials found that low-carbohydrate diets resulted in slightly greater weight loss than low-fat diets at six months, but this difference was no longer significant at 12 months (8). A larger meta-analysis of 121 randomized controlled trials found minimal differences in weight loss between low-carbohydrate and low-fat diets at six months, with no significant differences at 12 months (9). Thus, any diet adhered to over time can result in weight loss (10).
+Despite the effectiveness of various diets, weight loss responses can vary significantly among individuals, even within the same dietary intervention. For instance, a 12-month trial of four popular diets showed weight changes ranging from a loss of 30 kg to a gain of 10 kg within each group (11). These variations suggest that individual biological, physiological, psychological, behavioral, and environmental factors influence diet efficacy. The current study aims to identify factors that impact weight loss success across diets with varying macronutrient and caloric compositions, providing insight into personalizing dietary approaches for better outcomes.
+2. Methods
+2.1. Recruitment and Eligibility
+Participants were recruited for dietary weight loss interventions conducted at Vanderbilt University Medical Center (VUMC) between 2016 and 2020 (Supplementary Figure S1). Recruitment strategies included flyers posted in various locations and email announcements via the VUMC research listserv. Eligible participants were aged 21–60 years, with a BMI of 30.0 to 49.9 kg/m² and weight stability in the three months prior to enrollment. Exclusion criteria included diagnoses of various diseases (e.g., diabetes, cancer, cardiovascular disease), recent surgeries, food allergies, alcohol abuse, smoking, and pregnancy. Participants gave written informed consent, and the study was approved by the VUMC Institutional Review Board.
+2.2. Diet Interventions
+Participants self-selected one of three diet interventions lasting 4–6 months. Each diet was designed with specific macronutrient goals:
+Low carbohydrate (LOW CHO): 30% carbohydrate, 50% fat, 20% protein
+Low fat (LOW FAT): 50% carbohydrate, 30% fat, 20% protein
+Low calorie (LOW KCAL): A calorie reduction of 500 kcal/day from baseline intake, with a macronutrient distribution identical to LOW FAT
+Resting energy expenditure was measured via metabolic cart to tailor calorie goals for weight loss.
+2.3. Diet Assessment
+Dietary intake was assessed using 24-hour diet recall interviews following the validated U.S. Department of Agriculture five-step multi-pass methodology. The Nutrition Data System for Research (NDS-R) software was used to analyze energy intake, macronutrient composition, and micronutrient levels. Food intake was categorized into 12 subgroups for analysis, including fruits, vegetables, grains, and proteins (Supplementary Table S1).
+2.4. Anthropometry, Body Composition, and Resting Energy Expenditure
+Body measurements, including height, weight, waist/hip circumference, and body composition, were taken at the Vanderbilt Clinical Research Center. Resting energy expenditure (REE) was measured using a metabolic cart, and body composition was assessed via dual-energy x-ray absorptiometry (DXA).
+2.5. Clinical Biomarkers
+Blood and urine samples were collected to assess biomarkers, including glucose, insulin, lipid profiles, and C-reactive protein (CRP). Plasma leptin levels were measured, and HOMA-IR was calculated to assess insulin resistance.
+2.6. Questionnaires
+Participants completed several questionnaires, including the Eating Attitudes Test (EAT-26) to assess eating disorder risk and the Center for Epidemiological Studies Depression (CES-D) scale to evaluate depression. Physical activity levels were assessed using the Physical Activity during Cancer Treatment Questionnaire (PACT-Q).
+2.7. Statistical Analysis
+Baseline differences between diet groups were analyzed using chi-square or ANOVA. Age, sex, and BMI were included as covariates. Multivariate regression models were developed to assess the impact of various factors on weight loss, with predictors removed via forward-backward stepwise regression. Logistic regression was used to assess weight loss success (≥5% baseline weight) and intervention completion. Statistical significance was set at p<0.05.
+3. Results
+Among 305 participants, 65% were white and 35% identified as Black or other. The LOW CHO group was 100% female, while the LOW KCAL group had older participants with higher glucose and insulin levels. A total of 48% of participants met the criteria for Class I obesity (BMI 30.0–34.9), 42% for Class II obesity (BMI 35.0–39.9), and 10% for Class III obesity (BMI ≥40.0).
+4. Discussion
+The current study adds to the body of evidence indicating that no single diet is superior for weight loss. Meta-analyses have shown that diet composition (e.g., low carbohydrate vs low fat) does not significantly impact energy expenditure or weight loss over time (24). Individuals can choose a diet based on personal preferences without compromising weight loss outcomes. However, specific factors, such as demographic characteristics, body composition, and clinical biomarkers, can influence weight loss success across different diet types.
+4.1 Demographic Predictors
+Age, race, and education level were significant predictors of weight loss success. Older individuals and those with higher education levels tended to lose more weight, possibly due to greater available time, resources, and social support. Racial differences in weight loss were observed, particularly for African-American women, which may be due to a combination of genetic, cultural, and environmental factors.
+4.2 Biological Predictors
+Baseline body fat percentage and serum leptin levels were significant predictors of weight loss in the LOW CHO and LOW FAT groups. Leptin resistance, often associated with higher body fat, may hinder weight loss. Higher LDL cholesterol and blood pressure were also associated with weight loss, particularly in the LOW FAT and LOW KCAL groups, likely because participants with cardiometabolic concerns were more motivated to lose weight.
+4.3 Intervention Completion
+The most significant predictor of weight loss success was intervention completion, accounting for 20–30% of the variance in outcomes. Weight loss progress itself was the strongest motivator for participants to complete the intervention. Older participants had higher adherence rates, while younger adults, who face more lifestyle challenges, had higher dropout rates.
+4.4 Cardiometabolic Improvements
+Weight loss success (≥5% of baseline weight) was associated with improvements in several cardiometabolic risk factors across all three diet types, including reductions in blood pressure, LDL cholesterol, triglycerides, glucose, and C-reactive protein. These findings support the idea that even modest weight loss can lead to significant health benefits.
+5. Conclusion
+The study underscores the importance of intervention completion for successful weight loss. While no single diet type is superior, aligning dietary interventions with an individual’s specific cardiometabolic risk profile may yield the most significant health improvements. Future research should investigate long-term maintenance strategies and the role of exercise in enhancing weight loss outcomes.
+Source #2: https://www.health.harvard.edu/blog/intermittent-fasting-surprising-update-2018062914156
+Intermittent Fasting: The Positive News Continues
+Date: February 28, 2021
+Author: Harvard Health Publishing Staff
+Overview
+Intermittent fasting (IF) has shown promising results in animal studies, including weight loss and improvements in blood pressure, cholesterol, and blood sugar levels. However, these studies were conducted on rats. Human studies indicate that while IF is safe and effective, it is not necessarily more effective than other diets. Additionally, many individuals find fasting challenging. Recent research suggests that the timing of fasting may enhance the effectiveness and sustainability of IF for weight loss and diabetes prevention.
+Background on Intermittent Fasting
+* Historical Popularization:
+   * 2012: Dr. Michael Mosley's TV documentary Eat Fast, Live Longer and book The Fast Diet.
+   * Subsequent Books:
+      * Kate Harrison's The 5:2 Diet.
+      * Dr. Jason Fung's The Obesity Code (2016).
+   * Fung’s book integrates research, clinical experience, and nutrition advice, emphasizing:
+      * Increased consumption of fruits, vegetables, fiber, healthy proteins, and fats.
+      * Avoidance of sugar, refined grains, processed foods, and snacking.
+Mechanism of Intermittent Fasting
+* Basic Concept:
+   * Food is broken down in the gut, with carbohydrates (especially sugars and refined grains) converted to sugar in the bloodstream.
+   * Excess sugar is stored as fat if not used for energy.
+   * Insulin, a hormone produced by the pancreas, helps sugar enter fat cells and remain there.
+Key Points
+* Effectiveness:
+   * Human studies suggest IF is safe and effective but not superior to other diets.
+   * Timing of fasting may improve its effectiveness and sustainability.
+* Challenges:
+   * Many people find fasting difficult.
+Conclusion
+Intermittent fasting remains a viable approach for weight loss and diabetes prevention, with its effectiveness potentially enhanced by careful timing.
+Source #3: https://health.ucdavis.edu/transplant/PDFs/Helpful%20Guidelines%20for%20Successful%20Weight%20Loss.pdf
+Helpful Guidelines for Successful Weight Loss
+Overview
+Weight loss occurs when you consume fewer calories than you burn. Combining calorie restriction with increased physical activity enhances weight loss and helps maintain weight after losing it. Consult a dietitian for personalized calorie levels and serving sizes.
+Key Guidelines
+1. Keep a Journal: Maintain a written record of your food intake and physical activity.
+2. Weekly Weigh-Ins: Weigh yourself weekly at the same time, wearing the same clothing, and using the same scale.
+3. Daily Breakfast: Eat breakfast every day and avoid skipping meals to prevent extreme hunger and overeating.
+4. Meal Planning: Plan meals and eat at consistent times each day.
+5. Designated Eating Area: Choose a specific area at home and/or work for meals.
+6. Minimize Distractions: Turn off TVs and computers during meals and snacks.
+7. Eat Slowly: Take 30 minutes for each meal. Wait 20 minutes after your first serving before having seconds.
+8. Protein First: Start with protein foods to feel full sooner.
+9. Read Food Labels: Use food labels to help control portion sizes.
+10. Limit Fat and Sugar: Reduce intake of fats and sugars; increase fiber from fruits, vegetables, and whole grains.
+11. Limit Eating Out: Reduce the frequency of restaurant and fast food meals.
+12. Avoid Problem Foods: Do not keep foods that lead to overeating at home or work.
+13. Stay Hydrated: Drink at least 8 cups (64 ounces) of liquids daily, focusing on calorie-free, caffeine-free beverages.
+14. Adequate Sleep: Aim for 7-9 hours of sleep each night.
+Food Preparation Tips
+* Low-Fat Cooking Methods: Use baking, grilling, boiling, steaming, or microwaving without added fat.
+* Avoid Frying: Limit or eliminate frying from your cooking methods.
+* Drain Fat: Place meat on a rack while cooking to allow fat to drain off.
+* Trim Fat: Remove skin from poultry and trim visible fat from meats before cooking.
+* Non-Stick Cookware: Use non-stick pans or cooking sprays.
+* Egg Alternatives: Use egg whites or egg substitutes instead of whole eggs.
+* Healthy Seasoning: Season foods with spices, lemon, or low-fat dressings instead of high-fat sauces.
+* Sugar Substitutes: Replace sugar with sugar substitutes in recipes.
+Dining Out Tips
+* Limit Appetizers: Skip high-calorie appetizers, buttered bread, and chips.
+* Start with a Salad or Soup: Choose a salad with light dressing on the side or broth-based soup as your first course.
+* Low-Fat Preparation: Opt for foods prepared using low-fat cooking methods.
+* Request Sauces on the Side: Ask for sauces, dressings, and gravies on the side.
+* Take Home Leftovers: Place part of your meal in a take-home container before eating.
+* Share Entrées: Consider sharing an entrée with a friend.
+* Calorie Awareness: Use a pocket-sized calorie counter book to help make healthier choices.
+Food Groups and Recommended Portion Sizes
+Meat/Protein (2-3 Servings per Day)
+* 1 Serving =
+   * 3 ounces of meat/poultry/fish
+   * 1½ cups cooked dry beans/lentils/split peas
+   * ½ cup tofu
+   * 2 eggs
+Choose More Often
+* Poultry without skin
+* Chili without meat
+* Egg whites or egg substitutes
+* Baked fish
+* Lean red meat (round, loin)
+* Low-fat lunchmeat (<10% fat)
+* Canned tuna in water
+* Cooked dry beans/legumes
+* Lentils
+* Split peas/black-eyed peas
+* Tofu
+* Tempeh
+* Soy-based meat substitutes
+Bread/Starch (4-8 Servings per Day)
+* 1 Serving =
+   * ½ cup rice/pasta/cereal
+   * 1 slice bread
+   * ½ small bagel
+Choose More Often
+* Barley
+* Whole-grain bread
+* Bulgur
+* Unsweetened cereal
+* Whole grain crackers
+* English muffins
+* Hominy
+* Whole-grain pasta
+* Brown rice
+* Rice cakes
+* Corn tortillas
+* Plain popcorn
+* Oatmeal
+* Baked chips
+* Fresh fruits
+* Fruit canned in water or juice
+* Frozen fruit without added sugar
+* Unsweetened applesauce
+Choose Less Often or Avoid
+* Bacon
+* Sausage
+* Hot dogs
+* Fried chicken
+* Poultry with skin
+* Chili with meat
+* Fried eggs
+* Fried fish
+* Fish sticks
+* Marbled red meat
+* Peanut butter
+* Lunch meat (bologna, salami)
+* Nuts and seeds
+* Canned tuna in oil
+* Oil-packed sardines
+* Biscuits
+* Chips
+* Sweetened cereal
+* Cornbread
+* High-fat crackers
+* French toast
+* Granola
+* Pasta with cream sauce
+* Macaroni and cheese
+* Macaroni salad
+* Muffins
+* Pancakes
+* Pizza
+* Buttered popcorn
+* Stuffing
+* Crisp taco shells
+* Waffles
+* Sweetened applesauce
+* Fruit juice
+* Fruit canned in syrup
+* Fruit roll-ups
+* Fruit sorbet
+* Avocado
+* Coconut
+Vegetable (3 or More Servings per Day)
+* 1 Serving = ½ cup of vegetables
+Choose More Often
+* Fresh, frozen, or canned vegetables (prepared without added fat)
+* Broth-based vegetable soups
+Dairy/Milk (2-3 Servings per Day)
+* 1 Serving =
+   * 8 ounces of milk or yogurt
+   * 1 ounce of cheese
+   * ¼ cup cottage cheese
+Choose More Often
+* Nonfat or low-fat (1%) milk
+* Nonfat or low-fat cheese
+* Nonfat or low-fat cottage cheese
+* Light nonfat fruit yogurt
+* Nonfat or low-fat plain yogurt
+Choose Less Often or Avoid
+* Creamed vegetable soups
+* French fries
+* Fried or tempura vegetables
+* Vegetables in cream sauce
+* Hash brown potatoes
+* Mashed potatoes made with butter
+* Potato salad
+* Cheese
+* Chocolate milk
+* Ice cream / ice milk
+* Whole or reduced-fat (2%) milk
+* Pudding
+* Regular fruit yogurt
+* Frozen yogurt
+Fats (Use Sparingly)
+* 1 Serving =
+   * 1 teaspoon butter or oil
+   * 1 tablespoon reduced-fat margarine/mayonnaise
+Choose Less Often or Avoid
+* Bacon grease
+* Butter
+* Cream
+* Lard
+* Margarine
+* Mayonnaise
+* Oil
+* Salad dressing
+* Shortening
+* Sour cream
+Empty Calorie Foods
+(High in fat and/or sugar, low in nutrients)
+* Beer
+* Candy
+* Cake
+* Chocolate
+* Coconut
+* Cookies
+* Cream
+* Cream cheese
+* Cream sauce
+* Croissants
+* Doughnuts
+* Frosting
+* Fruit-flavored drinks
+* Fried foods
+* Gravy
+* Half and half
+* Honey
+* Jam
+* Jell-O®
+* Jelly
+* Kool-Aid®/Tang®
+* Liquor
+* Marmalade
+* Olives
+* Pastries
+* Pies
+* Preserves
+* Popsicles
+* Salt pork
+* Shakes
+* Sherbet
+* Sodas
+* Sweet rolls
+* Sweet pickles
+* Syrup
+* Tartar sauce
+* Whipped cream
+* Wine
+________________
+
+
+Free Foods
+(Any food or drink that has 20 calories or less per serving)
+* Broth
+* Coffee/Tea (regular or decaffeinated)
+* Diet soda
+* Fat-free salad dressing
+* Fat-free mayonnaise
+* Garlic
+* Lemon
+* Lime
+* Mineral water
+* Salsa
+* Spices
+* Sugar-free gelatin
+* Sugar-free syrup
+* Sugar substitutes
+* Reduced-sugar or sugar-free jam or jelly
+* Vinegar
+________________
+
+
+Tips for Serving Sizes
+* 3 oz meat, poultry, or fish ≈ size of a deck of cards
+* 1 oz cheese ≈ 4 playing dice, 1 slice American cheese, or 1 mozzarella stick
+* 1 serving fresh fruit ≈ size of a tennis ball
+* 3 oz baked potato ≈ size of a small computer mouse
+* Use measuring cups for both dry and liquid foods to learn serving sizes.
+* Consider using smaller plates, bowls, and glasses to help control serving sizes.
+* Use a food scale for measuring cooked meats, nuts, and dry foods.
+________________
+
+
+Common Measurements
+* 3 tsp = 1 Tbsp
+* 4 oz = ½ cup
+* 4 Tbsp = ¼ cup
+* 8 oz = 1 cup
+* 5⅓ Tbsp = ⅓ cup
+* 1 cup = ½ pint
+________________
+
+
+How to Read Food Labels
+1. Limit calories, total fat, saturated fat, trans fat, cholesterol, and sodium.
+2. Serving size: Nutrition facts are for one serving.
+3. Servings per container: Pay attention to how many servings you are eating.
+4. % Daily Value: Based on a 2,000 calorie diet. Discuss appropriate calorie levels with your dietitian.
+   * 5% or less is low
+   * 20% or more is high
+5. Choose foods that are high in dietary fiber, vitamin A, vitamin C, calcium, and iron.
+Compare food labels for the lowest calories, fat, and sugar:
+* Limit TOTAL FAT to 3 grams or less per serving.
+* Limit SUGAR to 5 grams or less per serving.
+* In milk and yogurt products, limit SUGAR to 12 grams or less per serving.
+* Choose starches with DIETARY FIBER 3 grams or more per serving.
+Source #4: https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know
+Calorie Restriction and Fasting Diets: Overview
+Introduction
+Calorie restriction (CR) and fasting diets have gained attention for their potential health benefits, distinguishing them from traditional dieting aimed solely at weight loss.
+Definitions
+* Calorie Restriction (CR): Reducing daily caloric intake below typical levels without malnutrition.
+* Fasting Diet: Periods of no food intake or severely limited intake, which may lead to reduced overall calorie consumption.
+Research Context
+Research on CR and fasting is focused on their roles in promoting health and longevity, supported by decades of animal studies that suggest these eating patterns may delay age-related disorders.
+________________
+
+
+Forms of Calorie Restriction and Fasting
+* Calorie Restriction: A consistent reduction in daily caloric intake.
+* Fasting Regimens: Focus on the timing of food intake, including:
+   * Time-Restricted Feeding: Eating within a specific time frame each day (e.g., 6-8 hours).
+   * Alternate-Day Fasting: No caloric intake or minimal calories every other day.
+   * 5:2 Eating Pattern: Normal eating for 5 days, followed by 2 days of caloric restriction.
+   * Periodic Fasting: Restricting calories for several consecutive days at intervals.
+________________
+
+
+Evidence from Animal Studies
+* Many studies show that calorie restriction (10-40% fewer calories) in various animals can extend lifespan and reduce disease rates.
+* For example:
+   * C. elegans (worms) saw a 40% lifespan increase with fasting.
+   * Some rodent studies indicated that lifelong alternate-day fasting may delay cancer onset.
+* Research on rhesus monkeys has provided mixed results regarding longevity but suggests reduced incidence of age-related conditions.
+________________
+
+
+Evidence from Human Studies of Calorie Restriction
+* Limited long-term human data exist on CR and longevity.
+* A notable trial, CALERIE, involved 218 adults following a calorie-restricted diet for 2 years, resulting in reduced risk factors for age-related diseases and sustained weight loss.
+* Participants experienced no significant adverse effects on quality of life, though some mild declines in bone density and aerobic capacity were noted.
+________________
+
+
+Evidence from Human Studies of Fasting
+* Research primarily focuses on weight loss in obese individuals; fewer studies explore long-term benefits.
+* Observational studies suggest fasting may correlate with reduced coronary artery disease risk, but factors like diet quality were not controlled.
+________________
+
+
+Mechanisms Behind Calorie Restriction and Fasting
+* Research has not definitively explained how CR extends lifespan.
+* Proposed mechanisms include:
+   * Modulation of inflammation, metabolism, and oxidative stress.
+   * Intermittent fasting may utilize fat reserves, producing ketones that benefit brain function and reduce cancer risk.
+________________
+
+
+Research Challenges and Uncertainties
+* Most studies are animal-based, making it difficult to extrapolate findings to humans.
+* Human trials often focus on short-term weight loss, lacking insights into aging.
+* Variability in human responses based on genetics, lifestyle, and other factors complicates research.
+* Accurate tracking of human dietary intake poses additional challenges.
+Conclusion
+While calorie restriction and fasting diets show promise based on preliminary evidence, further research is needed to establish their long-term effects on health and aging in humans. Caution is advised before adopting these eating patterns.
+Weight Gain Diets: Diets for weight gain
+Source #1: https://www.maxinutrition.com/blogs/sports/4-week-bulking-transformation-diet
+Key Points on Bulking
+Overview
+* Bulk Phase: Focus on consuming more calories to promote muscle growth, followed by a cutting phase to reduce fat.
+* Training & Nutrition: Effective bulking requires disciplined training and a calorie-rich, nutrient-dense diet.
+* Not Just Eating More: Bulking is about strategically feeding your muscles, not simply overeating.
+Bulking Strategy
+1. Caloric Surplus: Calculate your maintenance calories (about 2500 for men, 2000 for women) and add approximately 500 calories (a 20% surplus) to support muscle growth.
+2. Hydration: Drink 1.5 – 2 liters (6-8 glasses) of water daily. Milk can provide extra protein; consider slow-release protein like Micellar Casein before bed.
+3. Carbohydrates: Focus on whole grains for sustained energy and include simple carbs post-workout for quick recovery.
+4. Protein Intake: Aim for 2g of protein per kg of bodyweight daily, incorporating protein in every meal.
+5. Healthy Fats: Include energy-dense healthy fats such as nuts, avocado, and oily fish while limiting saturated and trans fats.
+6. Supplements: Use mass gainers to increase calorie intake without excessive eating. Creatine supports high-intensity workouts and promotes muscle growth.
+Meal Frequency
+* Increase meal frequency to 6-8 smaller meals daily to make it easier to consume the required calories.
+Sample 4-Week Bulking Diet
+* Aim: Consume 6 nutrient-dense meals daily while avoiding a “dirty bulk” to prevent excessive fat gain.
+Breakfast Options (Choose One Daily)
+* 6 egg omelette with spinach (~564 kcal)
+* Large granola with whole milk and banana (~750 kcal)
+* Bagels with peanut butter (~380/760 kcal)
+* 2 poached eggs, salmon, and avocado (~550 kcal)
+Morning Snack Options (Combine for More Calories)
+* Progain flapjack (~324 kcal)
+* Progain extreme shake (~600 kcal)
+* Handful of almonds (~92 kcal)
+* Apple with peanut butter (~200 kcal)
+Lunch Options
+* Double chicken breast with broccoli and rice (~700 kcal)
+* Salmon with sweet potatoes and sesame seeds (~700 kcal)
+* Chicken breast with salsa, brown rice, and peppers (~720 kcal)
+* Vegetarian bean chili burritos (~900 kcal)
+Snack Options (Select 1-2 Daily)
+* Dark chocolate (153 kcal per ounce)
+* Mass gainer shake (~600 kcal)
+* Cup of mixed nuts (~640 kcal)
+* Beef jerky (~410 kcal)
+Dinner Options
+* Tuna steak with olive oil, sweet potatoes, and quinoa (~800 kcal)
+* Sirloin steak with rice and fried egg (~950 kcal)
+* Burger with fries (~1450 kcal)
+* Tuna pasta with Bolognese sauce (~600 kcal)
+Example Day Meal Plan
+* Breakfast: 6 egg omelette with spinach (~564 kcal)
+* Morning Snack: Progain Extreme shake (~600 kcal)
+* Lunch: Chicken breast with salsa, brown rice, and peppers (~720 kcal)
+* Post-Workout Snack: Protein shake with milk (~200 kcal)
+* Dinner: Tuna steak with olive oil, sweet potatoes, and quinoa (~800 kcal)
+Total: Approximately 2884 kcal
+Flexibility & Clean Eating
+* Be flexible with food choices but prioritize clean foods to enhance results. Incorporate fruits and veggies to meet daily nutrient needs.
+For additional tips and insights on bulking, check out related articles and resources.
+
+
+
+
+
+
+Source #2: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/underweight/faq-20058429
+Strategies for Gaining Weight if You're Underweight
+Overview
+Gaining weight, particularly for those classified as underweight (BMI under 18.5 or 15-20% below the typical weight for age), involves a focus on nutritious, high-calorie foods. Understanding the underlying reasons for being underweight is crucial.
+Key Considerations
+1. Identify Causes: Factors such as illness recovery, aging, or athletic goals can affect weight. Consulting a healthcare provider is advisable if weight loss is unexpected.
+2. Consult a Professional: A dietitian can help create a personalized weight gain plan based on individual needs.
+General Guidelines
+1. Eat More Frequently
+* Aim for 5-6 smaller meals throughout the day.
+* Listen to your body for hunger cues, but schedule meals even if you’re not hungry.
+2. Choose Nutrient-Dense Foods
+* Incorporate foods that are both high in nutrients and calories.
+* Discuss with a dietitian about daily calorie needs and appropriate servings from each food group.
+3. Add Caloric Extras
+* Enhance meals with high-calorie additions:
+   * Cheese in casseroles.
+   * Nut butter on whole-grain toast.
+   * Dry or liquid milk in mashed potatoes or soups.
+4. Incorporate Smoothies and Shakes
+* Avoid low-calorie beverages like diet soda.
+* Create high-calorie smoothies or shakes with nutritious ingredients for on-the-go consumption.
+* Consider meal replacement drinks as part of your weight gain strategy.
+5. Manage Fluid Intake
+* Be cautious with drinks around meal times, as they can reduce appetite.
+* Ensure adequate hydration throughout the day.
+6. Exercise Regularly
+* Engage in strength training to build muscle mass.
+* Regular exercise can also stimulate appetite.
+7. Appetite-Enhancing Medications
+* Some medications can help boost appetite; discuss options with your healthcare provider.
+Conclusion
+Gaining weight healthily requires a structured approach that includes frequent nutrient-dense meals, proper hydration, exercise, and professional guidance when needed. Prioritizing high-calorie foods and meals can lead to successful weight gain while ensuring overall well-being.
+
+
+
+
+Source #3: https://www.healthline.com/nutrition/18-foods-to-gain-weight
+18 Best Healthful Foods to Gain Weight Fast
+Gaining weight effectively often requires consuming more calories than you burn, focusing on nutrient-dense foods. Here are 18 excellent options to help you achieve your weight gain goals safely and healthfully.
+1. Homemade Protein Smoothies
+* Benefits: Customizable, nutrient-dense, and portable.
+* Example Recipes:
+   * Chocolate Banana Nut Shake: 1 banana, 1 scoop chocolate whey protein, 1 tbsp nut butter.
+   * Vanilla Berry Shake: 1 cup mixed berries, 1 cup Greek yogurt, 1 scoop vanilla whey protein.
+   * Super Green Shake: 1 cup spinach, 1 avocado, 1 banana, 1 cup pineapple, and 1 scoop protein.
+2. Dairy Milk
+* Benefits: A great source of protein, calcium, and calories.
+* Usage: Drink whole milk as a snack or with meals to enhance calorie intake (149 calories per cup).
+3. Rice
+* Benefits: Low-cost, calorie-dense source of carbohydrates.
+* Usage: Combine cooked rice with proteins and fats, or use flavored sauces to enhance meals.
+4. Nuts and Nut Butters
+* Benefits: High in calories and healthy fats.
+* Usage: Add to snacks, smoothies, or eat alone. A handful of almonds has about 170 calories.
+5. Red Meats
+* Benefits: Excellent source of protein and key amino acids like leucine for muscle growth.
+* Usage: Include in meals to support muscle gain.
+6. Potatoes and Complex Carbohydrates
+* Benefits: Cost-effective source of energy and nutrients.
+* Options: Include sweet potatoes, quinoa, oats, and legumes.
+7. Salmon and Oily Fish
+* Benefits: Rich in protein and omega-3 fatty acids.
+* Usage: Prepare in various ways; great for muscle gain.
+8. Protein Supplements
+* Benefits: Help increase protein intake easily.
+* Types: Whey, soy, and plant-based options. Useful for post-workout nutrition.
+9. Dried Fruit
+* Benefits: High in calories and nutrients.
+* Usage: Mix with nuts or yogurt for a high-calorie snack.
+10. Whole Grain Bread
+* Benefits: Provides carbohydrates and fiber.
+* Usage: Create high-calorie sandwiches with proteins and healthy spreads.
+11. Avocados
+* Benefits: Calorie-dense and nutrient-rich.
+* Usage: Add to salads, toast, or smoothies for a boost (365 calories per large avocado).
+12. Cereals
+* Benefits: Source of carbs and nutrients.
+* Usage: Combine with milk and toppings for a nutritious breakfast.
+13. Cereal Bars
+* Benefits: Convenient snack option with good calorie content.
+* Usage: Combine with protein sources for a balanced snack.
+14. Dark Chocolate
+* Benefits: High in antioxidants and healthy fats.
+* Usage: Snack on or incorporate into desserts (600 calories per 100g).
+15. Cheese
+* Benefits: High in protein and fats.
+* Usage: Add to dishes like macaroni and cheese for added calories.
+16. Whole Eggs
+* Benefits: Affordable source of protein and healthy fats.
+* Usage: Cook in various ways or incorporate into dishes.
+17. Yogurts Made with Whole Milk
+* Benefits: High in protein and versatile.
+* Usage: Top with fruits, nuts, or granola for a filling snack.
+18. Fats and Oils
+* Benefits: Calorie-dense foods that enhance meals.
+* Examples: Olive oil, coconut oil, and nut butters.
+Frequently Asked Questions
+How many pounds should I gain in a week?
+Consult a healthcare professional to set realistic and safe goals.
+Why can’t I put on weight?
+Individual factors affect weight gain; a healthcare provider can help assess your situation.
+Which fruit is best for weight gain?
+Fruits provide calories and nutrients; pair with nut butter for added calories.
+What foods are best for gaining weight?
+Focus on nutrient-dense foods rich in protein, fats, and carbohydrates that align with your preferences and health goals.
+Conclusion
+To gain weight successfully, consume more calories than you burn and incorporate these nutrient-dense foods into your meals. Consider consulting a healthcare professional for personalized advice, especially if you're starting a new weight gain plan.
+Source #4: https://www.med.umich.edu/1libr/Nutrition/HighCalorieHighProteinIdeas.pdf
+Patient Food and Nutrition Services: High Calorie, High Protein Diet
+Overview
+A high calorie, high protein diet can help you achieve and maintain your goal weight, support wound healing, preserve muscle mass, and boost immune function.
+________________
+
+
+General Guidelines
+* Frequency of Meals: Aim to eat 6 times a day (every 2-3 hours).
+* Scheduled Eating: Eat at consistent times (e.g., 9:00 AM, 12:00 PM, etc.), even if not hungry.
+* Caloric Beverages: Opt for calorie-rich drinks like fruit juice and milk instead of water.
+* Portion Sizes: Increase portion sizes of added fats and oils (e.g., butter, cream cheese).
+* Nutrition Drinks: Incorporate shakes like Ensure® or BOOST® between meals for added nutrition.
+________________
+
+
+Suggested Foods and Preparation Tips
+Cheese
+* Melt on sandwiches, vegetables, and eggs.
+* Grate into sauces, casseroles, or mashed potatoes.
+* Mix cottage cheese into pasta, gelatins, and egg dishes.
+Powdered Milk
+* Blend 1 cup into 1 quart of whole milk for extra calories and protein.
+* Add to casseroles, sauces, and shakes.
+Whole Milk and Cream
+* Use in place of water for cooking.
+* Serve cream sauces on vegetables or pastas.
+* Top desserts and beverages with whipped cream.
+Ice Cream, Yogurt, and Greek Yogurt (Full-Fat)
+* Spread between cookies or mix into shakes.
+* Create smoothies with protein powders and fruits.
+Eggs
+* Top salads or casseroles with sliced hard-boiled eggs.
+* Mix pasteurized egg substitute into mashed potatoes or shakes.
+Nuts and Nut Butters (Peanut, Almond, etc.)
+* Spread on toast, pancakes, or use as dips.
+* Add to baked goods, salads, or blend with milk drinks.
+Meat and Fish
+* Incorporate into omelets, salads, or casseroles.
+* Use in soups or as sandwich fillings.
+Beans, Peas, and Plant-Based Foods
+* Add to soups, pastas, or salads.
+* Blend into dips or mash with cheese and milk.
+________________
+
+
+Snack Ideas
+250 Calorie Snacks
+* 8 buttery crackers with 1 oz cheddar cheese.
+* ½ sandwich: 1 slice bread with 2 oz cheese or meat.
+* Quesadilla: 1 tortilla with 2 oz cheese and salsa.
+* Whole apple with 2 tbsp peanut butter.
+* 1 cup pudding or fruit yogurt.
+350 Calorie Snacks
+* 10 buttery crackers with 2 oz cheddar cheese.
+* ½ sandwich with 1 slice bread, 2 oz meat or cheese, and 1 slice avocado.
+* Shake made with 1 cup whole milk and ½ cup ice cream.
+* Regular yogurt with 1/3 cup granola or trail mix.
+________________
+
+
+Disclaimer
+This document contains information developed by University of Michigan (U-M) Health for typical patients. It does not replace medical advice from your healthcare provider. Consult your provider for personalized guidance.
+
+
+Food Alternatives: Healthy versions of existing foods
+Source #1: https://news.llu.edu/health-wellness/14-health-boosting-alternatives-commonly-used-foods
+14 Health-Boosting Alternatives to Commonly Used Foods
+Author: Lindsey Crumley
+Date: January 30, 2023
+Registered dietitian Sarah Sorensen from Loma Linda University International Heart Institute shares practical substitutes to help incorporate more plant-based options into your diet, promoting better health and nutrition.
+Why Choose Plant-Based Alternatives?
+* Focus on nutrient-dense, wholesome calories found in plant foods.
+* Plant-based eating may enhance health and longevity by providing higher vitamin and mineral content compared to processed foods.
+Recommended Food Substitutes
+1. Black Beans for Beef Burgers
+   * Benefits: Lower saturated fat; high in fiber to promote gut health.
+2. Walnut or Cashew Cream for Heavy Cream
+   * Benefits: Replaces saturated fat with unsaturated fat, helping to lower bad cholesterol.
+3. Cauliflower Rice for White Rice
+   * Benefits: More nutrient-dense; adds antioxidants. Enhance flavor with spices and herbs.
+4. Chia Seed Jam for Jam and Jelly
+   * Benefits: Reduces refined sugar intake; use warmed berries thickened with chia seeds as a healthier spread.
+5. Chilled Herbal Tea for Iced Sweet Tea
+   * Benefits: Lower in sugar and calories; fruity herbal teas may help lower blood pressure.
+6. Coconut Aminos for Soy Sauce
+   * Benefits: Lower in salt; great alternative for flavor enhancement.
+7. Crispy Chickpeas for Croutons
+   * Benefits: Adds healthy carbs, protein, and fiber for a guilt-free crunch in salads.
+8. Crumbled Tofu for Ricotta Cheese
+   * Benefits: Lower in calories; anti-inflammatory. Season for various cuisines.
+9. Flax Eggs for Eggs
+   * Benefits: A cholesterol-free binder for baking; made by mixing ground flaxseeds with water.
+10. Jicama Wraps for Corn Tortillas
+   * Benefits: Higher in fiber and antioxidants, promoting better digestion and weight loss.
+11. Nutritional Yeast for Parmesan Cheese
+   * Benefits: Contains all nine essential amino acids; lower in calories and unhealthy fats.
+12. Seasoned Shredded Jackfruit for Shredded Meats
+   * Benefits: Meaty texture and rich in vitamin A; ideal for vegetarian dishes.
+13. Spaghetti Squash or Zucchini Noodles for Pasta Noodles
+   * Benefits: High in fiber and low in carbs compared to traditional pasta.
+14. Wheat Bread for White Bread
+   * Benefits: Provides nutrient-rich whole grains over refined grains.
+Source #2: https://www.healthline.com/nutrition/healthy-swaps
+8 Healthy Swaps for Everyday Food and Drinks
+Many everyday foods and beverages are high in sugar, unhealthy fats, and refined carbohydrates, which can lead to chronic health issues. Fortunately, there are easy and delicious alternatives. Here are eight healthy swaps to consider:
+1. Homemade Low Sugar Creamer
+* Why: Store-bought creamers often contain added sugars and high-fructose corn syrup, which can lead to weight gain and other health issues.
+* Alternative:
+   * Recipe:
+      * 1 can (13.5 oz) of coconut milk
+      * 1 tbsp maple syrup
+      * 1 tsp vanilla extract
+   * Instructions: Shake well and refrigerate for up to a week. Customize with spices like cinnamon.
+2. Sparkling Water, Green Tea, or Kombucha Instead of Soda
+* Why: Soda is linked to diabetes, obesity, and metabolic syndrome.
+* Alternative: Choose infused sparkling water, sparkling green tea, or kombucha. For hydration, plain water is best.
+3. Oatmeal, Chia Pudding, or Yogurt Parfait Instead of Sugary Cereal
+* Why: Many cereals are high in sugar and low in fiber and protein.
+* Alternative: Try oatmeal with berries, chia pudding, or plain Greek yogurt topped with nuts and fruit.
+4. Healthy or Homemade Granola Bars Instead of Store-Bought
+* Why: Many granola bars contain added sugars and unhealthy ingredients.
+* Alternative: Look for brands like RX or KIND, or make your own using oats, nuts, seeds, and dried fruit.
+5. Teas and Coffee Instead of Energy Drinks
+* Why: Energy drinks can cause heart issues, anxiety, and are often high in sugars.
+* Alternative: Opt for green tea, black tea, oolong tea, or coffee. These options provide benefits without added sugars.
+6. Homemade Chips or Roasted Chickpeas Instead of Store-Bought Chips
+* Why: Processed chips are often unhealthy and high in calories.
+* Alternative: Make baked potato chips, kale chips, beet chips, or roasted chickpeas for a crunchy, nutritious snack.
+7. Whole Grain, Sprouted Bread Instead of White Bread
+* Why: White bread is low in nutrients and fiber.
+* Alternative: Choose whole grain or sprouted options like Ezekiel bread. Consider sweet potato toast or lettuce wraps as alternatives.
+8. Dried Fruit or Dark Chocolate Instead of Candy
+* Why: Sugary candies can increase the risk of obesity and heart disease.
+* Alternative: Swap candy for unsweetened dried fruits, homemade energy balls, or dark chocolate-covered fruit.
+Conclusion
+Making simple and delicious healthy swaps can significantly enhance your diet. Reducing calorie-dense, nutrient-poor foods and replacing them with whole food alternatives promotes better overall health. For more personalized recommendations, consult a healthcare professional.
+Source #3: https://www.healthdirect.gov.au/healthy-food-swaps
+Healthy Food Swaps
+Overview Healthy food swaps are simple changes to your diet that replace less nutritious foods with healthier options. These swaps can support your health goals and lead to long-term improvements. Following the Australian Dietary Guidelines and planning your meals can help you make better choices.
+________________
+
+
+Benefits of Healthy Food Swaps
+* Long-Term Health Impact: Small changes can significantly improve your overall health.
+* Support Health Goals: Ideal for weight loss, reducing blood pressure, and cholesterol.
+* Nutritional Variety: Eating a wide range of foods ensures you receive diverse nutrients.
+* Limit Discretionary Foods: Helps maintain focus on nutrient-rich choices.
+________________
+
+
+Healthy Food Swap Ideas
+Swap
+	Benefit
+	Soft drink or cola
+	Fizzy water with mint and cucumber or water with fruit ice cubes reduces sugar and kilojoule intake, lowering diabetes risk.
+	Fruit juice
+	One piece of whole fruit adds dietary fiber that juice lacks.
+	Muesli with added sugar
+	Plain porridge oats with berries are whole grains that help lower LDL cholesterol.
+	White bread
+	Wholegrain or multigrain bread is higher in fiber, keeping you fuller longer and reducing bad cholesterol.
+	Fruit-flavored yoghurts
+	Plain or Greek yoghurt with fresh fruit has less sugar and more protein, boosting fiber and antioxidants.
+	Coffee shop muffin
+	Swap for a hard-boiled egg or a handful of unsalted nuts for a protein-rich snack instead of refined carbs.
+	Potato crisps
+	Raw vegetable sticks with hummus or yogurt dip increase vegetable intake and reduce saturated fat and salt.
+	Store-bought salad dressings
+	Homemade dressing with extra virgin olive oil and vinegar is lower in sodium and sugar, promoting heart health.
+	Supermarket pasta sauce
+	Homemade sauce with fresh ingredients reduces sugar and salt while increasing vitamins and antioxidants.
+	Ice cream
+	Frozen mango or banana dipped in dark chocolate offers fiber, vitamin C, and antioxidants, while being lower in calories.
+	________________
+
+
+How to Start Making Healthy Food Swaps
+1. Plan Your Shopping: Choose a wide variety of nutritious foods based on the Australian Dietary Guidelines.
+2. Follow the Five Food Groups:
+   * Grains (cereals)
+   * Vegetables and legumes/beans
+   * Lean meats, poultry, fish, eggs, tofu, nuts, seeds, and legumes
+   * Milk, yogurt, cheese, or alternatives
+   * Fruits
+3. Aim for Variety: Include different foods from each group to gain a range of nutritional benefits.
+4. Focus on Whole Foods: Prioritize whole foods over individual nutrients.
+5. Read Nutrition Labels: Compare brands for salt, sugar, and kilojoule content to find healthier options.
+
+
+Source #4: https://www.heart.org/en/healthy-living/healthy-eating/cooking-skills/cooking/smart-substitutions-to-eat-healthy
+Smart Substitutions to Improve Nutrition Without Sacrificing Taste
+Overview
+Making minor changes to your meals—whether dining out or cooking at home—can significantly enhance your nutrition. These smart substitutions help reduce sodium, added sugars, saturated fats, trans fats, and dietary cholesterol, allowing you to maintain a healthy eating pattern.
+________________
+
+
+Cooking Swaps
+Here are common healthier swaps for cooking:
+Instead of
+	Use
+	Whole milk (1 cup)
+	1 cup fat-free or low-fat milk + 1 tbsp liquid nontropical vegetable oil (canola, corn, olive)
+	Heavy cream (1 cup)
+	1 cup evaporated fat-free milk or 1/2 cup fat-free yogurt + 1/2 cup plain low-fat cottage cheese
+	Sour cream
+	Low-fat cottage cheese + low-fat or fat-free yogurt or fat-free sour cream
+	Cream cheese (1 cup)
+	4 tbsp soft tub margarine + 1 cup dry, unsalted low-fat cottage cheese; add fat-free milk if needed
+	Butter (1 tbsp)
+	1 tbsp soft tub margarine or 3/4 tbsp liquid nontropical vegetable oil
+	Unsweetened baking chocolate (1 ounce)
+	3 tbsp unsweetened cocoa powder or carob powder + 1 tbsp liquid nontropical vegetable oil or soft tub margarine; reduce sugar in the recipe
+	________________
+
+
+Snack and Dessert Alternatives
+Consider these healthier versions of popular snacks and desserts:
+Instead of
+	Enjoy
+	Fried tortilla chips
+	Baked corn tortilla chips (lowest sodium available)
+	Regular potato or corn chips
+	No-salt or low-salt pretzels, popped sorghum, or baked potato chips (reduced sodium)
+	High-fat cookies and crackers
+	High-fiber cookies and whole-grain crackers, fruit bars with no added sugar, and nuts
+	Regular baked goods
+	Lower fat baked goods with unsaturated oil or soft margarine, egg whites, or fat-free milk
+	Ice cream and frozen treats
+	No-sugar-added frozen fudge bars, frozen fruit pops, or fat-free frozen yogurt bars
+	________________
+
+
+Dining Out Options
+Choose these healthier alternatives when eating out:
+Instead of
+	Try
+	Cream-based soups
+	Low-sodium broth-based soups with lots of vegetables
+	Quiche
+	Vegetable omelet using liquid nontropical vegetable oil or soft tub margarine
+	Buffalo chicken wings
+	Skinless chicken wings with salt-free dry rub or steamed/grilled shrimp
+	Bread, muffins, or croissants
+	Melba toast, pita bread, or whole-wheat rolls
+	Fried chicken sandwich or chicken-fried steak
+	Grilled or roasted skinless chicken sandwich or breast
+	French fries or mashed potatoes
+	Baked potato, brown rice, or steamed vegetables
+	Creamy coleslaw
+	Sautéed vegetables, steamed vegetables, or a green salad
+	Danish
+	Whole-wheat English muffin or toast with low-sugar jelly and low-sodium nut butter
+	Jumbo cheeseburger
+	Grilled or roasted skinless chicken sandwich or regular-size hamburger with veggies
+	________________
+
+
+Additional Dining Out Tips
+* Portion Control: Opt for smaller portions when available. Consider asking for the kids' or senior menu.
+* Dressings and Sauces: Choose low- or fat-free vinaigrettes or ask for sauces on the side to control your intake.
+* Share Meals: Consider sharing an entrée with a dining partner or taking half home for later.
+By implementing these smart substitutions, you can improve your nutrition while still enjoying delicious meals.
+Basic Nutrients: Macronutrients (protein, fat, carbohydrates), micronutrients (vitamins, minerals)
+Source #1: https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates
+**WHO Updates Guidelines on Fats and Carbohydrates (July 2023)**  
+[WHO News: Updated Guidelines on Fats and Carbohydrates]
+### Key Takeaways:
+1. **Saturated Fats**  
+   - **Recommendation**: Limit saturated fats to less than 10% of total daily energy intake.  
+   - **Reason**: High intake of saturated fats can raise cholesterol levels, increasing the risk of heart disease and stroke.
+2. **Trans Fats**  
+   - **Recommendation**: Eliminate trans fats entirely from the diet.  
+   - **Reason**: Industrial trans fats (found in processed foods) significantly raise the risk of heart disease and offer no known health benefits.
+3. **Polyunsaturated and Monounsaturated Fats**  
+   - **Recommendation**: Replace saturated and trans fats with unsaturated fats, particularly polyunsaturated fats (PUFAs) and monounsaturated fats (MUFAs).  
+   - **Sources**: Nuts, seeds, fish, and plant oils (e.g., olive, sunflower, and soybean oils).  
+   - **Health Benefits**: Help reduce the risk of cardiovascular diseases.
+4. **Carbohydrate Intake**  
+   - **Recommendation**: A balance between quality and quantity of carbohydrate intake. Carbohydrates should make up 50-60% of daily energy intake, but the emphasis should be on whole grains, fruits, and vegetables.  
+   - **Reason**: Refined carbohydrates, such as sugar and white flour, can contribute to weight gain and increased risk of diabetes and heart disease.
+5. **Free Sugars**  
+   - **Recommendation**: Reduce the intake of free sugars (added sugars) to less than 10% of total energy intake, and ideally, less than 5% for additional health benefits.  
+   - **Reason**: High consumption of added sugars contributes to obesity, dental cavities, and chronic diseases like diabetes.
+6. **Fiber**  
+   - **Recommendation**: Increase dietary fiber intake through consumption of fruits, vegetables, legumes, and whole grains.  
+   - **Reason**: High-fiber diets are associated with a lower risk of cardiovascular disease, obesity, and type 2 diabetes.
+7. **General Healthy Eating Guidelines**  
+   - **Emphasis**: Promote balanced diets rich in plant-based foods, limit consumption of processed foods high in trans fats and sugars, and focus on overall nutritional quality rather than simply macronutrient composition.  
+   - **Global Context**: These guidelines apply to all populations, but specific recommendations may vary based on local dietary habits and health priorities.
+By implementing these updated guidelines, WHO aims to help individuals and communities reduce the risk of chronic diseases and promote healthier, balanced diets globally.
+                        
+Source #2: https://www.merckmanuals.com/professional/nutritional-disorders/nutrition-general-considerations/overview-of-nutrition
+Overview of Nutrition
+Authors:
+Shilpa N Bhupathiraju, PhD, Harvard Medical School and Brigham and Women's Hospital
+Frank Hu, MD, MPH, PhD, Harvard T.H. Chan School of Public Health
+Reviewed/Revised: February 2023
+________________
+
+
+Nutrition Basics
+Nutrition is the science of food and its relationship to health. Nutrients are chemicals in foods used by the body for growth, maintenance, and energy.
+Essential vs. Nonessential Nutrients
+* Essential Nutrients: Cannot be synthesized by the body and must be obtained from the diet. Includes:
+   * Vitamins
+   * Minerals
+   * Some amino acids
+   * Some fatty acids
+* Nonessential Nutrients: Can be synthesized by the body but may become essential under certain conditions (e.g., illness, stress).
+Macronutrients vs. Micronutrients
+* Macronutrients: Required in larger amounts, includes carbohydrates, proteins, and fats.
+* Micronutrients: Needed in minute amounts, includes vitamins and trace minerals.
+Nutritional Imbalances
+* Undernutrition: Can lead to deficiency syndromes (e.g., kwashiorkor, pellagra).
+* Overnutrition: Excess intake can result in obesity and toxicity (for micronutrients).
+________________
+
+
+Macronutrients
+Carbohydrates
+* Types: Simple (monosaccharides, disaccharides) and complex (starches, fiber).
+* Energy Source: Carbohydrates provide energy, with fats yielding 9 kcal/g and proteins/carbs yielding 4 kcal/g.
+* Glycemic Index: Classifies foods based on their effect on blood glucose levels.
+Fiber
+* Types: Soluble and insoluble.
+* Health Benefits: Aids in gastrointestinal health, reduces cholesterol, and may lower the risk of certain cancers.
+Proteins
+* Composition: Complex molecules containing carbon, hydrogen, oxygen, and nitrogen.
+* Functions: Tissue maintenance, enzyme activity, hormone production.
+* Amino Acids: 20 total; 9 are essential and must be obtained from the diet.
+Fats
+* Types: Saturated (solid at room temperature) and unsaturated (liquid at room temperature).
+* Trans Fats: Produced through hydrogenation; associated with increased health risks.
+________________
+
+
+Micronutrients
+Vitamins
+* Water-Soluble: Includes vitamin C and B complex (e.g., niacin, riboflavin).
+* Fat-Soluble: Includes vitamins A, D, E, and K.
+Minerals
+* Essential Trace Minerals: Include chromium, copper, iron, manganese, selenium, and zinc.
+* Non-Essential Minerals: Some (e.g., aluminum, arsenic) are not proven essential for humans.
+________________
+
+
+Other Dietary Substances
+The daily human diet contains a variety of chemicals, including nutrients and non-nutrients that may benefit health (e.g., antioxidants, preservatives).
+________________
+
+
+Processed Foods, Organic Foods, and GMOs
+Processed Foods
+Defined by the USDA as any food altered from its natural state through various methods (e.g., milling, cooking). Ultra-processed foods often provide little nutritional value and can promote overeating.
+Organic Foods
+Must meet federal guidelines regarding cultivation and processing. The absence of antibiotics can help prevent antibiotic resistance.
+Bioengineered Foods
+Contain genetically modified organisms (GMOs). The safety of GMOs is overseen by U.S. regulatory agencies. Labeling requirements were established in January 2022 to indicate bioengineered status.
+Source #3: https://www.ncbi.nlm.nih.gov/books/NBK554545/
+Biochemistry of Nutrients
+Authors: Alyssa L. Morris; Shamim S. Mohiuddin
+Last Update: May 1, 2023
+________________
+
+
+Introduction
+Nutrients are essential chemical substances required by the body to sustain basic functions and are optimally obtained through a balanced diet. The six major classes of nutrients vital for human health include:
+* Macronutrients: Carbohydrates, lipids, proteins
+* Micronutrients: Vitamins, minerals
+* Water: Required in large amounts but does not yield energy
+Macronutrients
+* Carbohydrates: Primary energy source (4 kcal/g)
+* Lipids: Main stored energy source (9 kcal/g)
+* Proteins: Structural and functional roles (4 kcal/g)
+Micronutrients
+* Vitamins: Organic compounds, categorized as water-soluble (e.g., B vitamins, C) or fat-soluble (e.g., A, D, E, K)
+* Minerals: Inorganic compounds, categorized as macrominerals (required >100 mg/day) and microminerals (required <100 mg/day)
+________________
+
+
+Fundamentals
+Carbohydrates
+* Source of Energy: 4 kcal/g
+* Types:
+   * Simple Carbohydrates: Monosaccharides (e.g., glucose, fructose) and disaccharides (e.g., sucrose, lactose)
+   * Complex Carbohydrates: Oligosaccharides (3-10 sugar units) and polysaccharides (>10 sugar units)
+* Recommended Intake: 45-65% of energy intake; fiber >38 g/day for men and >25 g/day for women.
+Proteins
+* Role: Structural, regulatory, and energy source if necessary
+* Source: Meats, dairy, legumes, grains
+* Recommended Intake: 0.8-1 g/kg body weight/day; 5-35% of daily energy intake based on age and health.
+Lipids
+* Function: Energy storage, cellular structure, temperature regulation
+* Source: Fats, oils, meats, dairy
+* Recommended Intake: 20-40% of daily energy intake; specific guidelines for polyunsaturated fatty acids.
+________________
+
+
+Vitamins
+Water-Soluble Vitamins
+* Vitamin B1 (Thiamin): Coenzyme in carbohydrate metabolism; RDA: 1.1 mg/day (women), 1.2 mg/day (men)
+* Vitamin B2 (Riboflavin): Coenzyme in redox reactions; RDA: 1.1 mg/day (women), 1.3 mg/day (men)
+* Vitamin B3 (Niacin): Coenzyme in electron transport; RDA: 14 mg/day (women), 16 mg/day (men)
+* Vitamin B5 (Pantothenic Acid): Component of coenzyme A; AI: 5 mg/day
+* Vitamin B6 (Pyridoxine): Coenzyme in amino acid metabolism; RDA: 1.3 mg/day
+* Vitamin B7 (Biotin): Coenzyme in carboxylation; AI: 30 mcg/day
+* Vitamin B9 (Folate): Coenzyme in nucleic acid metabolism; RDA: 400 mcg/day; additional for women of childbearing age
+* Vitamin B12 (Cobalamin): Coenzyme for methyl transfer; RDA: 2.4 mcg/day
+* Vitamin C (Ascorbic Acid): Antioxidant; RDA: 75 mg/day (women), 90 mg/day (men); additional for smokers
+Fat-Soluble Vitamins
+* Vitamin A (Retinol): Vision and immune function; RDA: 900 mcg/day (men), 700 mcg/day (women)
+* Vitamin D (Cholecalciferol): Calcium metabolism; RDA: 10-15 mcg/day
+* Vitamin E (Tocopherol): Antioxidant; RDA: 15 mg/day
+* Vitamin K: Coenzyme in blood coagulation; RDA: 120 mcg/day (men), 90 mcg/day (women)
+________________
+
+
+Minerals
+Macrominerals
+* Calcium: Structural component of bones; RDA: 1,000 mg/day
+* Magnesium: Involved in various physiological processes; RDA: 400 mg/day
+Microminerals
+* Iron, Copper, Zinc, Selenium, Iodine: Required in smaller amounts (<100 mg/day), each with specific physiological roles.
+Minerals and Their Roles in Human Health
+Phosphorus
+Phosphorus is an essential macromineral that serves as a structural component of bones and teeth, DNA, RNA, and cellular membranes. It is vital for energy production and storage, participating in ATP synthesis. Major dietary sources of phosphorus include milk, dairy products, meat, and poultry, as well as processed foods where it often acts as a preservative. The Recommended Dietary Allowance (RDA) for adults is 700 mg/day, ensuring adequate physiological functions and bone health.
+Sodium
+Sodium is an essential macromineral and electrolyte, critical for cellular membrane transport, maintaining water balance, nerve function, and muscle contraction. Common sources include table salt, processed foods, meat, milk, eggs, and vegetables. While the Adequate Intake (AI) for sodium in adults is set at 1,500 mg/day, typical consumption in industrialized nations often exceeds 3,000 to 4,500 mg/day, raising concerns about health risks associated with high sodium intake, such as hypertension.
+Potassium
+Potassium is another essential macromineral and electrolyte, crucial for muscle contraction, nerve function, blood pH balance, and fluid balance, acting as the most abundant intracellular cation. Rich sources of potassium include fruits and vegetables. The AI for potassium for adults is 4,700 mg/day, reflecting its importance in countering sodium’s effects and supporting cardiovascular health.
+Chloride
+Chloride is an essential macromineral and the primary extracellular anion, playing a significant role in digestion, muscular activity, water balance, and maintaining acid-base balance. Dietary chloride is typically consumed as sodium chloride (table salt) and is found in processed foods, meat, milk, eggs, and vegetables. The AI for chloride for adults is 1,500 mg/day, essential for maintaining electrolyte balance and stomach acidity.
+Iron
+Iron is an essential trace mineral crucial for oxygen transport and energy metabolism. It exists in two forms: heme iron from animal sources (meat and fish) and non-heme iron from plant sources (fortified grains and vegetables). The bioavailability of heme iron is higher, making it easier for the body to absorb. The RDA for iron varies by gender, set at 8 mg/day for men and 18 mg/day for women, highlighting its importance in preventing anemia and supporting metabolic processes.
+Zinc
+Zinc is an essential trace mineral that serves structural and catalytic roles in over 300 enzymes. It is vital for immune function, wound healing, and DNA synthesis. Rich sources of zinc include shellfish, red meat, legumes, seeds, and nuts. The RDA for zinc for adults is 10 mg/day, emphasizing its role in cellular metabolism and overall health.
+Copper
+Copper is an essential trace mineral important for iron metabolism, the formation of connective tissue, and the functioning of several enzymes. It is found in organ meats, nuts, seeds, chocolate, and shellfish. The RDA for copper for adults is 1 mg/day, which is necessary for the synthesis of enzymes involved in antioxidant defense and energy production.
+Iodine
+Iodine is a trace mineral essential for the synthesis of thyroid hormones, which regulate metabolism. Iodine levels in foods vary based on soil content, with iodized salt serving as a significant source in areas where soil iodine is low. The adult RDA for iodine is 150 mcg/day, critical for thyroid function and overall metabolic health.
+Selenium
+Selenium is an essential trace mineral that forms part of selenoproteins, which play important roles in antioxidant defense and thyroid function. Selenium content in food varies with soil concentrations, with Brazil nuts being particularly rich in this mineral. The RDA for selenium for adults is 55 mcg/day, underlining its significance in protecting against oxidative stress and supporting metabolic processes.
+________________
+
+
+Cellular Level Digestion and Metabolism
+Carbohydrates
+Carbohydrate digestion initiates in the mouth with salivary amylase and continues in the small intestine. Enzymes like pancreatic amylase and brush border enzymes facilitate the breakdown of polysaccharides into monosaccharides. Notably, fiber, though indigestible by human enzymes, can be partially fermented by gut bacteria. Absorbed monosaccharides enter the bloodstream and are metabolized primarily in the liver, with glucose playing a central role in energy production and storage.
+Proteins
+Protein digestion starts in the stomach with pepsin and continues in the small intestine, where pancreatic enzymes like trypsin and chymotrypsin further break down proteins into amino acids. Absorption occurs via specialized transport mechanisms, with amino acids then utilized for protein synthesis, energy production, or converted into intermediates for metabolic pathways.
+Lipids
+Lipids undergo limited digestion in the mouth and stomach but are primarily emulsified by bile and digested by pancreatic lipase in the small intestine. Absorption of fatty acids and monoglycerides occurs through micelles, with subsequent transport as chylomicrons via the lymphatic system. Lipids are crucial for energy storage, cellular structure, and various metabolic processes.
+Vitamins and Their Absorption
+Vitamins, both water-soluble and fat-soluble, are absorbed through different mechanisms. Water-soluble vitamins are generally absorbed in the small intestine and transported freely in the blood, while fat-soluble vitamins require micelle formation for absorption and are incorporated into chylomicrons. Each vitamin plays unique roles in metabolic pathways and overall health.
+In summary, essential minerals, vitamins, and macronutrients work synergistically to support various physiological functions, from energy metabolism to cellular repair. Adequate intake of these nutrients is vital for maintaining optimal health and preventing deficiencies.
+Vitamin K (Phylloquinone; Menaquinone)
+Absorption and Transport:
+Vitamin K1 and K2 are absorbed in the small intestine, requiring the formation of micelles for effective uptake. After absorption, they are incorporated into chylomicrons and transported through the lymphatic system to the thoracic duct, eventually reaching the bloodstream. In the liver, they are incorporated into VLDLs for distribution to peripheral tissues. Cellular uptake occurs via receptor-mediated endocytosis, and the liver primarily stores vitamin K in the form of menaquinone.
+Calcium
+Absorption and Regulation:
+Calcium is absorbed mainly through paracellular diffusion in the small intestine, with TRPV6 channels facilitating absorption when dietary intake is low. The blood transport involves free ionized calcium, protein-bound calcium, and complexed forms. The parathyroid gland regulates calcium homeostasis by releasing PTH, which increases calcium reabsorption in the kidneys, stimulates bone resorption, and enhances intestinal absorption via calcitriol. In contrast, calcitonin is released during high calcium levels to lower blood calcium by inhibiting bone resorption.
+Magnesium
+Absorption and Regulation:
+Magnesium absorption occurs via both paracellular diffusion and active transport mechanisms in the small intestine. The kidneys play a critical role in maintaining magnesium homeostasis, with a significant proportion of filtered magnesium being reabsorbed. Magnesium is predominantly stored in bones and muscle tissues, with minimal amounts found in extracellular fluid.
+Phosphorus
+Absorption and Homeostasis:
+Phosphorus is absorbed in the small intestine through both active transport and paracellular diffusion. The kidneys are crucial for phosphorus homeostasis, with a high percentage reabsorbed from the glomerular filtrate. Bone resorption can also regulate phosphorus levels, particularly under the influence of PTH and calcitriol.
+Sodium
+Absorption and Regulation:
+Sodium absorption occurs in the small intestine via the sodium-glucose cotransporter. After absorption, sodium is transported into the bloodstream through the sodium-potassium pump. The kidneys maintain sodium balance, with significant amounts found in extracellular fluid and skeletal tissue.
+Potassium
+Absorption and Homeostasis:
+Potassium is absorbed primarily in the small intestine via passive transport mechanisms. The kidneys are responsible for regulating potassium levels, with most dietary potassium excreted in urine.
+Chloride
+Absorption and Regulation:
+Chloride absorption occurs through passive transport and specific ion exchangers in the small intestine. The kidneys play a key role in chloride balance, reabsorbing the majority of chloride from filtered blood.
+Iron
+Absorption and Utilization:
+Iron exists in heme and nonheme forms, with nonheme being less bioavailable. The absorption of iron occurs mainly in the duodenum, requiring reduction from ferric to ferrous form for uptake via DMT1. Iron is transported in circulation bound to transferrin and stored in the liver as ferritin. The body lacks a dedicated excretory system for iron, resulting in losses primarily through sloughed epithelial cells and bleeding.
+Zinc
+Absorption and Transport:
+Zinc is absorbed through the small intestine via specific transporters, with ZIP4 mediating uptake and ZNT1 facilitating release into circulation. Zinc is primarily bound to albumin in the bloodstream and is excreted mainly through feces.
+Copper
+Absorption and Distribution:
+Copper absorption occurs in the small intestine, with uptake mediated by CTR1. Once in circulation, copper binds to ceruloplasmin and is taken up by the liver. Copper transport throughout the body is facilitated by metallochaperones, and excess is excreted in bile.
+Iodine
+Absorption and Storage:
+Iodine is absorbed efficiently in the stomach and small intestine, primarily as iodide. The thyroid gland is the main site for iodine uptake, where it is utilized for hormone synthesis, with excretion occurring mainly via urine.
+Selenium
+Absorption and Transport:
+Selenium absorption varies based on its form, with inorganic selenium absorbed through active transport or passive diffusion. It circulates in various forms, including selenoprotein P, and is stored mainly as selenomethionine in tissues. Excretion occurs primarily through urine.
+Carbohydrates
+Structure and Types:
+Carbohydrates are classified based on their structure into sugars, oligosaccharides, and polysaccharides. They serve as a primary energy source, with digestible forms such as starches and non-digestible forms like cellulose playing key roles in metabolism and gut health.
+Proteins
+Composition and Structure:
+Proteins are composed of amino acids linked by peptide bonds. Essential amino acids must be obtained from diet, while non-essential amino acids can be synthesized by the body. Proteins exhibit multiple structural levels, influencing their function and biological activities, essential for growth, repair, and metabolic processes.
+Lipids
+Lipids are a diverse group of hydrophobic organic molecules essential for various biological functions. They primarily exist as triglycerides, phospholipids, cholesterol, and fatty acids. Fatty acids are categorized into two main types: saturated (no carbon-carbon double bonds) and unsaturated (one or more double bonds). Saturated fatty acids have higher melting points, making them solid at room temperature, while unsaturated fatty acids are typically liquid.
+Triglycerides consist of a glycerol backbone bonded to three fatty acids and serve as a major energy storage form. Phospholipids contain a phosphate group attached to a glycerol and two fatty acids, forming a bilayer in cell membranes. Cholesterol, a sterol with a hydrocarbon ring structure, plays critical roles in membrane fluidity and serves as a precursor for steroid hormones.
+Vitamins and Their Functions
+Vitamin B1 (Thiamin)
+Thiamin contains pyrimidine and thiazole rings linked by a methylene bridge, primarily existing as thiamin pyrophosphate (TPP). TPP is crucial for decarboxylation reactions in carbohydrate metabolism and branched-chain amino acid metabolism.
+Vitamin B2 (Riboflavin)
+Riboflavin's structure features a flavin group and a ribitol sugar. It serves as a component of FMN and FAD, essential coenzymes in redox reactions, facilitating electron transfer in metabolic processes.
+Vitamin B3 (Niacin)
+Niacin encompasses nicotinamide and nicotinic acid, featuring a pyridine ring. Its coenzymes, NAD and NADP, are vital in redox reactions, acting as electron acceptors and donors.
+Vitamin B5 (Pantothenic Acid)
+This water-soluble vitamin is synthesized from pantoic acid and β-alanine. It is essential for synthesizing coenzyme A, a key player in acyl group transfer.
+Vitamin B6 (Pyridoxine)
+Vitamin B6 includes several compounds, with PLP being the active form. It acts as a coenzyme in over 100 enzymatic reactions, primarily related to amino acid metabolism.
+Vitamin B7 (Biotin)
+Biotin has a unique structure with a bicyclic ring and a valeric acid side chain. It functions as a coenzyme for carboxylases involved in gluconeogenesis and fatty acid synthesis.
+Vitamin B9 (Folate)
+Folate is crucial for nucleic and amino acid metabolism, acting as a coenzyme in single-carbon transfers necessary for DNA synthesis and amino acid interconversions.
+Vitamin B12 (Cobalamin)
+Cobalamin is vital for two key enzymes in metabolism: methionine synthase and L-methylmalonyl-CoA mutase. It plays critical roles in methylation and energy metabolism.
+Vitamin C (Ascorbic Acid)
+Ascorbic acid functions as both an enzymatic and nonenzymatic antioxidant, essential for collagen synthesis and reducing oxidative stress in the body.
+Vitamin A (Retinol)
+Vitamin A is integral to vision, immune function, and gene expression. Its active forms, such as retinoic acid, are involved in cell differentiation and growth.
+Vitamin D (Cholecalciferol)
+Vitamin D3 regulates calcium homeostasis and gene expression, acting as a hormone that influences calcium absorption and bone health.
+Vitamin E (Tocopherol)
+As a powerful antioxidant, vitamin E protects cell membranes from oxidative damage, particularly during lipid peroxidation.
+Vitamin K (Phylloquinone; Menaquinone)
+Vitamin K is essential for blood coagulation and bone health, enabling the carboxylation of specific proteins to interact with calcium.
+Essential Minerals and Their Functions
+Calcium
+Calcium plays structural roles in bones and teeth and is crucial for muscle contraction, nerve function, and blood coagulation.
+Magnesium
+Magnesium is involved in numerous metabolic reactions, stabilizing cellular membranes and participating in energy production and protein synthesis.
+Phosphorus
+This mineral is vital for bone structure, energy storage in ATP, and maintaining acid-base balance in the body.
+Sodium
+Sodium regulates blood volume and pressure, facilitates nutrient transport, and is essential for nerve and muscle function.
+Potassium
+Potassium is critical for maintaining cellular function, regulating heart activity, and balancing osmotic pressure with sodium.
+Chloride
+Chloride helps maintain fluid and acid-base balance, playing a vital role in digestive processes and nerve transmission.
+Iron
+Iron is essential for oxygen transport in hemoglobin and myoglobin and plays a critical role in various enzymatic reactions within the body.
+Zinc
+Zinc is a structural and catalytic component of numerous enzymes, vital for immune function, wound healing, and DNA synthesis.
+Copper
+Copper functions as a cofactor for enzymes involved in iron metabolism, neurotransmitter synthesis, and antioxidant defense.
+Iodine
+Iodine is crucial for synthesizing thyroid hormones, which regulate metabolism, growth, and development.
+Selenium
+Selenium is an essential component of selenoproteins, involved in antioxidant defense and thyroid hormone metabolism, contributing to overall cellular health.
+
+
+
+
+
+
+Source #4: https://newsinhealth.nih.gov/2023/08/breaking-down-food
+Breaking Down Food: A Closer Look at What You Eat
+Food provides essential energy and nutrients for your health, including macronutrients (proteins, carbohydrates, and fats) and micronutrients (vitamins and minerals). A balanced diet ensures you receive all the necessary nutrients.
+Dietary Guidelines for Americans
+The Dietary Guidelines for Americans provide evidence-based recommendations for a balanced diet, updated every five years to reflect new scientific findings. These guidelines help personalize nutritional advice to optimize health.
+Finding Nutritious Foods
+Macronutrients
+Macronutrients supply the majority of your daily calories and are vital for energy and cellular functions, including disease resistance.
+* Proteins: Critical for building muscles, skin, and organs. They provide a sensation of fullness and can be used for energy, though they are not the body's preferred energy source.
+* Carbohydrates: The main fuel source, converted into glucose. There are three types:
+   * Simple Carbohydrates: Quick-digesting sugars.
+   * Complex Carbohydrates: Larger sugar chains that take longer to digest.
+   * Fiber: Important for gut health and can help manage weight.
+Micronutrients
+Micronutrients are required in smaller amounts but are crucial for development and disease prevention.
+Meeting Your Body’s Needs
+While your body may function without sufficient macronutrients, optimal health requires them.
+* Protein: Broken down into amino acids for various bodily functions.
+* Carbohydrates: Provide immediate energy, primarily in the form of glucose.
+Fiber and Health
+Most Americans fall short of the recommended 14 grams of fiber per 1,000 calories. High-fiber diets can improve gut health and lower blood fat and cholesterol, reducing risks for heart disease and diabetes.
+Fats
+Fats, broken down into fatty acids, are necessary for energy, cellular structure, vitamin absorption, and organ protection. However, limit saturated fats to less than 10% of daily calories, focusing instead on healthy fats from nuts, seeds, and fish.
+Conclusion
+Maintaining a balanced diet involves mindful choices about macronutrients and micronutrients, ensuring your body receives the energy and nutrients it needs while preventing health issues related to excess intake or nutrient deficiencies.
+
+
+Medication Considerations: Effect of medications on diet and weight
+Source #1: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544176/
+Effect of Obesogenic Medications on Weight-Loss Outcomes in a Behavioral Weight-Management Program
+________________
+
+
+Objective:
+The goal of this study is to evaluate whether the use of obesogenic medications affects weight loss outcomes in patients participating in the MOVE! behavioral weight loss program offered by the Veterans Health Administration (VHA). The study investigates if the presence of these medications reduces the likelihood of patients achieving clinically meaningful weight loss (≥5% of total body weight) during the program.
+________________
+
+
+Study Design:
+This is a retrospective, case-control study conducted at a single center within the VHA system, involving 666 adult patients. The patients were divided into two groups based on their response to the weight-loss program:
+* Responders: Patients who achieved at least a 5% reduction in total body weight by the end of the MOVE! program (n = 150).
+* Non-Responders: Patients who lost less than 5% of their total body weight by the end of the program (n = 516).
+________________
+
+
+Methods:
+The cohort consisted of veterans who participated in the MOVE! program from 2011 to 2015. Patients were referred by their primary care providers or other healthcare providers if they had a body mass index (BMI) ≥30 and were recommended for weight loss. The MOVE! program consisted of weekly 90-minute group sessions focused on behavioral modification techniques, exercise, and nutrition education.
+Data on the patients’ use of obesogenic medications were collected from VHA electronic medical records. These medications were categorized based on the potential for weight gain as identified in Endocrine Society Guidelines and prior literature. The study assessed whether taking one or more obesogenic medications affected the likelihood of patients achieving a 5% total weight loss during the program.
+________________
+
+
+MOVE! Program Overview:
+The MOVE! program is a comprehensive, evidence-based behavioral weight management program designed to help veterans lose weight through lifestyle changes. The program focuses on diet, exercise, and behavioral therapy, using group classes led by licensed professionals. The sessions include education on the benefits of weight loss, goal setting, self-monitoring, mindful eating, portion control, and overcoming barriers to physical activity. Participants are encouraged to maintain food logs, which are reviewed by the program providers, and use pedometers to track their daily activity.
+________________
+
+
+Study Population and Measurements:
+The study population was divided based on weight loss outcomes:
+* Responders: Achieved ≥5% total weight loss.
+* Non-Responders: Achieved <5% total weight loss.
+This 5% threshold was selected because it has been associated with clinically meaningful health improvements such as better blood pressure, glycemic control, and lipid profiles. Secondary outcomes included the number of obesogenic medications prescribed and the effects of specific medication classes (e.g., antidiabetics, beta-blockers, antidepressants) on achieving 5% total weight loss.
+Data on obesogenic medications, comorbidities, and demographics were manually abstracted from electronic health records. Medications were categorized as either obesogenic (known to cause a weight gain of ≥2 kg or ≥5% of baseline weight) or leptogenic (known to cause weight loss). Obesity pharmacotherapy drugs approved for treating obesity were also documented. Outpatient prescriptions of at least one month in duration, filled through VHA pharmacies, were considered as medication use. Prescriptions not filled by the VA were identified through primary care notes.
+________________
+
+
+Obesogenic Medications:
+The study identified various classes of obesogenic medications commonly prescribed to veterans. These medications can contribute to weight gain through different mechanisms, including stimulating appetite, reducing energy expenditure, and promoting water retention. The primary obesogenic medications observed in the cohort are listed below:
+Medication Class
+	Obesogenic Medications
+	Mechanism of Weight Gain
+	Anticonvulsants (n=89)
+	Gabapentin (72), Pregabalin (12), Carbamazepine (3), Valproic Acid (2)
+	Increase appetite, decrease energy expenditure
+	Antidepressants/Antianxiety (n=85)
+	Fluoxetine (33), Mirtazapine (18), Amitriptyline (19), Paroxetine (10), Nortriptyline (5)
+	Stimulate appetite via serotonergic pathways
+	Antihistamines (n=125)
+	Loratadine (47), Cetirizine (29), Hydroxyzine (29), Diphenhydramine (18), Fexofenadine (2)
+	Increase appetite, alter body weight regulation
+	Antipsychotics (n=36)
+	Quetiapine (17), Risperidone (11), Olanzapine (5), Ziprasidone (3)
+	Alter neuropeptide expression, stimulate orexigenic signals
+	Beta-Blockers (n=205)
+	Atenolol (80), Metoprolol (79), Carvedilol (24), Propanolol (22)
+	Reduce energy expenditure, inhibit lipolysis
+	Corticosteroids/Hormones (n=15)
+	Prednisone (11), Medroxyprogesterone (2), Oral Contraceptives (2)
+	Alter energy balance, increase appetite
+	Diabetes Medications (n=156)
+	Insulin (70), Sulfonylureas (58), Thiazolidinediones (28)
+	Promote fat storage, increase water retention
+	The study observed that patients who were prescribed three or more obesogenic medications had the greatest difficulty achieving 5% weight loss.
+________________
+
+
+Results:
+* Approximately 62% of the participants (n = 411) were taking at least one obesogenic medication.
+* Patients on obesogenic medications were 37% less likely to achieve 5% weight loss compared to those not taking such medications (Odds Ratio 0.633; 95% CI, 0.427–0.937; adjusted P = 0.022).
+* The effect was more pronounced in patients prescribed three or more obesogenic medications, who were 73% less likely to achieve 5% weight loss (Odds Ratio 0.265; 95% CI, 0.108–0.646; adjusted P = 0.003).
+________________
+
+
+Conclusions:
+The study concluded that the use of provider-prescribed obesogenic medications is associated with worse weight loss outcomes in the MOVE! behavioral weight loss program. This suggests that closer scrutiny of medications that may cause weight gain is necessary to improve the success of weight management interventions. Healthcare providers should consider adjusting or replacing obesogenic medications to enhance the effectiveness of weight-loss treatments in patients undergoing behavioral therapy.
+________________
+
+
+Introduction:
+Obesity is a growing public health crisis, with projections indicating that 51% of the U.S. population will be obese by 2030. Veterans are disproportionately affected by obesity, with nearly 78% of veterans classified as overweight or obese. Obesity leads to increased healthcare costs, with an estimated additional annual cost of $1429 per person with obesity.
+The MOVE! program, established by the VHA in 2005, is a comprehensive weight management program designed to address obesity in veterans. Despite the program’s structured approach, outcomes vary, with only 18-20% of participants achieving clinically meaningful weight loss. Understanding the factors that influence these outcomes, including the potential impact of obesogenic medications, is critical for improving the success rates of weight-loss programs.
+Medications known to cause weight gain are prescribed for a variety of conditions, including hypertension, diabetes, depression, and chronic pain. These medications may contribute to weight gain through mechanisms such as increased appetite, reduced physical activity, or metabolic changes. The Endocrine Society Clinical Practice Guidelines recommend avoiding obesogenic medications in patients with overweight or obesity when possible.
+________________
+
+
+Significance:
+This study highlights the importance of considering the impact of medications on weight loss outcomes. With the growing prevalence of obesity, especially among veterans, understanding how obesogenic medications affect weight loss can guide more effective treatment strategies. By addressing medication-related barriers, healthcare providers can help improve the success rates of behavioral weight-loss programs like MOVE!.
+________________
+
+
+Challenges:
+* Medication-induced weight gain: Many commonly prescribed medications have side effects that counteract the effects of behavioral interventions aimed at weight loss.
+* Heterogeneous patient populations: Veterans may have multiple comorbidities requiring complex medication regimens, making it challenging to alter or eliminate obesogenic drugs.
+* Adherence to the program: Some patients may struggle to adhere to the program’s requirements, including attending sessions and following dietary or physical activity recommendations.
+________________
+
+
+Recommendations:
+* Medication Review: Healthcare providers should regularly assess the medications prescribed to patients enrolled in weight-loss programs and consider alternative treatments that do not promote weight gain.
+* Tailored Interventions: Weight management plans should be individualized, taking into account the patient’s medication profile, comorbidities, and specific challenges.
+* Multi-disciplinary Approach: Collaboration between primary care providers, pharmacists, and weight management specialists is essential to optimize treatment and enhance weight-loss outcomes.
+Statistical Analysis
+We performed statistical comparisons between responders (achieved ≥5% total weight loss [TWL]) and non-responders using two-sample t-tests for continuous variables and Fisher’s exact test for categorical variables. Multivariable logistic regressions controlled for potential confounders like age, gender, body mass index (BMI), obesogenic medications (prescribed for at least one month during the 8-week intervention), leptogenic medications, and obesity pharmacotherapy.
+________________
+
+
+Results
+Patient Characteristics
+Our cohort consisted of 666 participants, of which 150 (22.5%) achieved 5%TWL by the end of the MOVE! program, classifying them as responders. The remaining 516 participants (77.5%) did not reach this threshold and were considered non-responders.
+Responders were significantly older (63.0 ± 0.8 vs. 59.4 ± 0.5 years, P < 0.001) and more likely to be male (P = 0.025) compared to non-responders. Responders had higher excess weight loss (27.1 ± 2.0% vs. 3.0 ± 0.5%, P < 0.001) and total weight loss (TWL) (7.9 ± 0.5% vs. 0.8 ± 0.1%, P < 0.001).
+Weight Loss and Obesogenic Medications
+A notable finding was that 61.7% of participants were prescribed obesogenic medications. These medications were prescribed less frequently among responders compared to non-responders (54% vs. 64%, P = 0.029), suggesting an association between these medications and lower likelihood of achieving meaningful weight loss. Patients taking obesogenic medications were 37% less likely to achieve ≥5%TWL (adjusted odds ratio [OR] 0.633, 95% confidence interval [CI] 0.427–0.937, P = 0.022).
+Effect of Multiple Obesogenic Medications
+We further analyzed the effect of the number of obesogenic medications prescribed. Patients taking three or more obesogenic medications were the least likely to achieve 5%TWL (adjusted OR 0.265, 95% CI 0.108–0.646, P = 0.003). These patients also had the lowest absolute weight loss by the end of the program (2.90 ± 1.32 pounds), compared to those taking no obesogenic medications (7.30 ± 0.66 pounds).
+Obesogenic Medication Classes
+Different classes of obesogenic drugs, especially antidiabetic medications, were associated with lower odds of achieving 5%TWL (adjusted OR 0.387, 95% CI 0.207–0.723, P = 0.003). This suggests that the specific class of medication influences weight loss outcomes.
+Comorbidities and Weight Loss
+We evaluated the influence of comorbidities on weight loss outcomes. No significant differences were found between responders and non-responders in comorbid conditions such as hypertension, dyslipidemia, depression, and type 2 diabetes. However, for patients taking obesogenic medications, weight loss outcomes were inferior, regardless of comorbidity presence.
+________________
+
+
+Discussion
+Our analysis reveals that patients prescribed obesogenic medications during the 8-week MOVE! behavioral weight loss program were 37% less likely to achieve ≥5%TWL. This finding aligns with prior studies indicating that obesogenic medications negatively affect weight loss outcomes, even after surgical interventions like laparoscopic sleeve gastrectomy. Specifically, patients on obesogenic medications had significantly less excess weight loss post-surgery (53.8% vs. 65%, P = 0.002).
+The negative impact of obesogenic medications was more pronounced with an increasing number of medications, especially for those taking three or more obesogenic drugs. This suggests a dose-response relationship between the number of obesogenic medications and poor weight loss outcomes.
+Despite concerns about comorbidities influencing weight loss, our results show no significant association between comorbid conditions and weight loss outcomes among patients using obesogenic medications. The poorer outcomes for those on obesogenic medications persisted even when controlling for baseline characteristics, indicating that medication usage is an independent predictor of weight loss failure.
+The variability in weight loss outcomes across different treatment modalities, whether behavioral or surgical, underscores the importance of addressing obesogenic medications in weight management strategies. For healthcare providers, reducing or substituting obesogenic medications may significantly improve weight loss outcomes in patients undergoing behavioral interventions like the MOVE! program.
+Our findings align with the 2015 clinical practice guidelines by the Endocrine Society, European Society of Endocrinology, and the Obesity Society, recommending leptogenic and weight-neutral medications for managing obesity in patients with Type II diabetes mellitus. Identifying obesogenic medications during each clinical encounter is vital. We observed that patients on antihistamines, antidiabetic, and antipsychotic medications had significantly lower odds of achieving a 5% total weight loss (TWL).
+The obesogenic mechanism's role in the obesity epidemic requires further exploration, and developing alternative medications could significantly enhance weight loss efforts. Antidiabetic drugs, for instance, accounted for 11.8% of total U.S. prescriptions in 2012, highlighting the challenge in minimizing their use. In fact, guidelines suggest favoring weight-neutral options, such as metformin or glucagon-like peptide-1 (GLP-1) agonists, over obesogenic medications like insulin. A notable study demonstrated that patients on metformin experienced significantly more weight loss than those on a placebo (2.1 kg vs 0.1 kg, P < 0.001).
+Addressing the use of obesogenic medications requires a multidisciplinary approach to avoid exacerbating the controlled disease or creating additional costs. For example, while newer alternatives like pramlintide may cost up to $250 monthly compared to $20-$30 for glipizide, the long-term health benefits of weight loss may justify the expense. Similar to past efforts in antibiotic prescription reform, safe obesogenic prescription practices could be established through education, policy updates, and feedback from healthcare providers.
+While published effects of obesogenic medications on weight may seem modest, their cumulative impact is significant and may obstruct weight loss efforts. Therefore, minimizing such obstacles is crucial.
+Limitations
+Our retrospective study design comes with several limitations, including potential unknown confounders, adherence issues, and a cohort restricted to VHA patients. Additionally, we could not assess over-the-counter drug use, which could have affected weight loss. Moreover, the exclusion of patients who dropped out of the MOVE! program could have skewed results toward those more successful in weight loss efforts. However, this does not diminish the significant relationship between obesogenic medication use and poor weight loss outcomes in our cohort, which was predominantly older Caucasian men. Future research should include a more diverse population and a prospective study design, potentially randomizing patients to continue or discontinue obesogenic medications during a weight loss program.
+Conclusions
+Despite increased awareness of medication-induced weight gain, obesogenic medications remain commonly prescribed to patients attempting to lose weight. Our retrospective study demonstrates that the use of these medications significantly reduces the likelihood of achieving meaningful weight loss, particularly in patients using antidiabetic drugs. As the number of obesogenic medications prescribed increases, weight loss outcomes worsen. Enhancing prescription practices by prioritizing weight-neutral or leptogenic medications may help improve the weight loss outcomes for patients in behavioral weight loss programs.

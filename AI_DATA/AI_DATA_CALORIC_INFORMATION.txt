@@ -1,0 +1,823 @@
+﻿Caloric Deficit
+Source #1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017325/#:~:text=Diets%20with%20higher%20protein%20intake,benefits%20to%20prevent%20weight%20regain.&text=A%20satiating%20effect%20is%20most,and%20maintain%20successful%20weight%20loss.
+Weight Loss, Gain, or Maintenance
+* Complex Factors:
+   * Weight management is influenced by various factors, with key components being the amount and type of food consumed, and meal timing.
+* Low-Calorie Diet vs. Very-Low-Calorie Diet:
+   * Low-Calorie Diet:
+      * Involves 1,000–1,500 calories per day.
+      * Typically creates a deficit of 500–750 calories per day.
+      * Studies (e.g., DIETFITS) show no significant difference in weight loss between low-fat and low-carbohydrate diets.
+      * Metabolic adaptations may lead to plateaus, which can be misinterpreted as “failure.”
+   * Very-Low-Calorie Diet (VLCD):
+      * Provides <800 kcal/day.
+      * Not recommended for routine weight management; should be used with medical monitoring.
+      * Recent reviews suggest VLCDs can provide greater long-term weight loss when combined with behavioral programs.
+      * Very-Low-Calorie Ketogenic Diet (VLCKD):
+         * Includes <700–800 kcal/day and <30–50 g/day of carbohydrates.
+         * Recommended for severe obesity, sarcopenic obesity, T2DM, hypertriglyceridemia, and hypertension.
+         * Contraindicated for pregnant women, those with T1DM, kidney failure, cardiac arrhythmia, and older patients with frailty.
+* Meal Replacements:
+   * Includes soups, shakes, bars, and portion-controlled meals.
+   * Useful for calorie control; typically not successful for long-term weight maintenance.
+* Summary:
+   * Energy deficit is crucial for weight loss.
+   * Long-term strategies are needed due to metabolic adaptations that decrease energy expenditure.
+   * VLCDs and meal replacements can be useful if traditional low-calorie diets are ineffective or for significant weight loss.
+Types of Food Eaten
+* Low-Fat Diet:
+   * Reduces total fat intake (≤30% of calories).
+   * No significant long-term weight-loss benefit over other diets.
+   * Low-fat diets can reduce LDL-C but may increase triglycerides and decrease HDL-C.
+   * Low in saturated fatty acids is recommended; diets supplemented with good-quality fat and fibers are healthier.
+* Low-Carbohydrate Diet:
+   * Defined as carbohydrate intake <50–130 g/day or 10%–45% of total energy.
+   * Ketogenic Diet:
+      * Extremely low in carbohydrates (<50 g/day), with a relative increase in protein and fat.
+      * May have mixed effects on LDL-C; suppresses hunger and can improve T2DM, polycystic ovary syndrome, and cardiovascular diseases.
+      * Contraindicated for pregnant women, those with T1DM, kidney failure, cardiac arrhythmia, and older patients with frailty.
+* High-Protein Diet:
+   * Increases protein intake to 30% of total daily calories or 1–1.2 g/kg of ideal body weight per day.
+   * Improves satiety, decreases fat mass, and helps preserve lean body mass.
+   * May increase risk of T2DM and kidney issues; proteins from red meat are more problematic compared to fish or plant-based sources.
+* Mediterranean Diet:
+   * Emphasizes fruits, vegetables, poultry, fish, and dairy, with minimal red meat.
+   * Evidence supports its effectiveness in weight loss, cardiovascular disease prevention, and possibly reducing cancer risk.
+   * Shows strong benefits for weight loss and cardiometabolic improvements.
+* Other Dietary Strategies:
+   * Paleolithic Diet:
+      * Emphasizes unprocessed foods, avoiding grains, dairy, processed foods, and added sugar/salt.
+      * Potential favorable effects on lipid profile and blood pressure but evidence is inconclusive.
+   * Low Glycemic Index/Glycemic Load Diet:
+      * Focuses on exchanging high-GI foods for low-GI alternatives.
+      * Benefits in managing T2DM and body weight but does not provide a complete nutritional picture.
+   * Nordic Diet:
+      * Based on unprocessed whole grains, high-fiber vegetables, fish, low-fat dairy, and lean meat.
+      * Improves body weight significantly; however, may be difficult to maintain due to accessibility and cost.
+   * Vegetarian Diet:
+      * Can lower risks of ischemic heart disease, T2DM, and cancer.
+      * Reduces blood pressure, lipid profiles, and inflammatory biomarkers.
+      * Variants include lactovegetarians and lacto-ovo-vegetarians. May lack omega-3 fats.
+   * Dietary Approaches to Stop Hypertension (DASH) Diet:
+      * Focuses on vegetables, fruits, whole grains, low-fat dairy, nuts, seeds, and lean meats.
+      * Limits sodium intake and is effective in reducing blood pressure, cancer risk, and cardiovascular risk factors.
+   * Portfolio Diet:
+      * A vegan diet emphasizing foods that lower cholesterol (plant sterols, nuts, soluble fibers, soy protein).
+      * Effective in reducing LDL-C but has small effects on weight loss.
+Timing of Meal Consumption
+* Intermittent Fasting:
+   * Involves periods of no or limited calorie intake.
+   * Includes alternate-day fasting, 5:2 fasting, and daily time-restricted feeding.
+   * Can benefit weight loss, insulin resistance, immune function, and cognitive functions.
+   * Long-term effects and sustainability are still unknown.
+* Meal Timing:
+   * Importance of aligning eating patterns with circadian rhythms.
+   * Skipping breakfast and late-night eating are associated with increased risk of overweight, obesity, and metabolic syndrome.
+   * Recommendations include distributing calorie intake throughout the day and maintaining consistent overnight fasting periods.
+Source #2 https://www.nejm.org/doi/full/10.1056/NEJMoa0804748
+Statistical Analysis
+* Primary Outcome: Change in body weight over 2 years.
+* Secondary Outcome: Change in waist circumference.
+* Diet Comparisons:
+   * Low fat vs. high fat.
+   * Average protein vs. high protein.
+   * Lowest carbohydrate vs. highest carbohydrate.
+* Analysis Method:
+   * Two-sample t-tests at a two-sided significance level of 0.05.
+   * Post hoc analyses with Bonferroni's adjustment for multiple comparisons.
+   * Intention-to-treat analysis, with imputation for withdrawal (0.3 kg/month weight regain, 0.3 cm/month waist circumference regain).
+   * Risk factors analyzed according to intention-to-treat principle.
+Results
+Participants
+* Screened: 1638
+* Assigned to Diet: 811 (50%)
+* Completed Study: 645 (80%)
+Weight Loss
+* Protein Intake:
+   * 25% protein: 3.6 kg weight loss.
+   * 15% protein: 3.0 kg weight loss.
+   * P=0.22 (not statistically significant).
+* Fat Intake:
+   * 40% fat: 3.3 kg weight loss.
+   * 20% fat: 3.3 kg weight loss.
+   * P=0.94 (not statistically significant).
+* Carbohydrate Intake:
+   * No significant effect on weight loss.
+* Waist Circumference: No significant differences among diet groups.
+* Weight Loss Patterns:
+   * Most loss in the first 6 months.
+   * Regain after 12 months.
+   * 23% continued to lose weight from 6 months to 2 years.
+   * Weight loss percentages at 2 years: 31-37% lost at least 5%, 14-15% lost at least 10%, 2-4% lost 20 kg or more.
+Risk Factors
+* Lipid and Cholesterol Levels:
+   * Low-fat diets reduced LDL more than high-fat diets (5% vs. 1%, P=0.001).
+   * Highest-carbohydrate diet increased HDL more than lowest-carbohydrate diet (9% vs. 6%, P=0.02).
+* Triglycerides: Reduced similarly across diets (12-17%).
+* Fasting Serum Insulin: Decreased more with high-protein diet (10%) than average-protein diet (4%).
+* Blood Pressure: Decreased by 1-2 mm Hg (no significant differences).
+* Metabolic Syndrome: Present in 32% at baseline; reduced to 19-22% at 2 years (P=0.81).
+Adherence and Diet Satisfaction
+* Macronutrient Intake Deviations:
+   * Fat: -8.0 percentage points at 6 months, -6.7 at 2 years.
+   * Protein: -4.2 percentage points at 6 months, -1.4 at 2 years.
+   * Carbohydrate: -14.4 percentage points at 6 months, -10.2 at 2 years.
+* Energy Intake Reduction: ~225 kcal/day for participants who lost weight.
+* Biomarkers:
+   * HDL cholesterol increase greater in lowest-carbohydrate group.
+   * Urinary nitrogen excretion decrease greater in average-protein group.
+Attendance and Adherence
+* Group Sessions:
+   * Attendance associated with weight loss (0.2 kg per session).
+   * Adherence to dietary goals impacted weight loss in specific diet groups (protein and fat intakes).
+Adverse Effects
+* Serious Adverse Events: Reported by 7% of participants; no significant differences among diets.
+* Urinary Microalbumin Levels: Elevated in some participants in average-protein and high-protein groups.
+Discussion
+* Findings:
+   * All diets equally effective in weight loss and maintenance.
+   * Improvements in lipid and insulin levels according to diet macronutrient content.
+   * Adherence to macronutrient goals was a challenge, but continued weight loss possible with behavioral support.
+* Implications:
+   * Effective diets can have varied macronutrient compositions.
+   * Tailoring diets to individual preferences can enhance long-term success.
+Source #3: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3014770/
+Caloric Restriction in Humans: Impact on Physiological, Psychological, and Behavioral Outcomes
+Authors: Leanne M. Redman, Eric Ravussin
+Abstract:
+* Societal Environment: Abundance of food and reduced physical activity are linked to conditions like central obesity, insulin resistance, dyslipidemia, and hypertension (metabolic syndrome).
+* Caloric Restriction (CR): Shown to extend both median and maximal lifespans in lower species (yeast, worms, fish, rats, mice). Mechanisms involve changes in energy metabolism, oxidative damage, insulin sensitivity, inflammation, and neuroendocrine system functions.
+* Study Focus: Review of physiological, psychological, and behavioral changes after 6 months of CR in overweight but otherwise healthy individuals.
+* Clinical Studies: Emphasis on controlled, energy-restricted diets that affect biomarkers of longevity and reduce age-related chronic diseases in humans.
+Introduction:
+* Aging Research: Scientists seek to understand aging mechanisms to enhance quality of life (QOL) and alleviate age-associated illnesses.
+* Obesity Epidemic: Over 30% of Americans are obese, leading to chronic diseases like diabetes, heart disease, and stroke. Obesity is associated with 300,000 deaths annually in the U.S.
+* Metabolic Syndrome: Includes central obesity, insulin resistance, dyslipidemia, and hypertension, increasing risks for heart disease and diabetes. A healthier lifestyle is the first treatment step, but individual variability in diet and exercise responses complicates treatment.
+Etiology of Obesity:
+* Energy Imbalance: Weight gain results from an imbalance between energy intake and expenditure. Predictive factors include low metabolic rate, impaired fat oxidation, insulin sensitivity, low sympathetic nervous activity, and plasma leptin levels.
+* Metabolic Normalization: Weight gain tends to normalize these factors, complicating the identification of metabolic risk factors in cross-sectional studies.
+Aging and Obesity:
+* Aging Effects: Increased fat mass, decreased muscle mass, and ectopic fat storage in organs (liver, heart, skeletal muscle) contribute to metabolic disorders in older individuals.
+* Visceral Fat: Accumulation of fat in the abdominal region is a major risk factor for metabolic abnormalities like insulin resistance and glucose intolerance. This link between aging, obesity, and chronic diseases highlights the need for interventions to mitigate age-related metabolic disturbances.
+Caloric Restriction (CR):
+* Lifespan Extension: CR is the only known intervention to consistently slow biological aging and extend lifespan across species, from yeast to rodents. In primates, CR reduces age-related diseases, but its effects on human lifespan remain unclear due to the lack of long-term studies.
+* Human Data: Some cross-sectional and epidemiological studies suggest CR may improve insulin sensitivity and reduce fasting glucose and insulin levels, potentially slowing the aging process and reducing diabetes risk.
+CR Effects on Lifespan and Healthspan:
+* Mechanisms of Action: CR decreases metabolic rate and oxidative damage while improving insulin sensitivity. In animals, CR alters neuroendocrine activities and reduces age-associated changes, including cognitive decline and resting energy expenditure.
+* Human Trials: Research on CR in humans is focused on assessing its safety, feasibility, and long-term effects on healthspan, aiming to prevent chronic diseases and extend lifespan.
+1. Centenarians from Okinawa
+* Okinawa, Japan, has 4-5 times the average number of centenarians compared to most industrialized countries, with an estimated 50 centenarians per 100,000 people.
+* Life expectancy for Okinawans aged 65:
+   * Women: 24.1 years vs. 19.3 years (U.S.)
+   * Men: 18.5 years vs. 16.2 years (U.S.)
+* A 20% caloric restriction (CR) was reported among Okinawan adults compared to mainland Japan, with evidence of a 10%-15% energy deficit due to laborious lifestyles and nutrient-rich, low-energy diets.
+________________
+
+
+2. The Vallejo Study
+* A study on alternate-day feeding in 120 men:
+   * CR group: 1500 kcal/day for 3 years (35% CR).
+   * Control group: Ad libitum diet.
+   * Results: Lower death rate and 50% reduction in hospital admissions in the CR group (123 days vs. 219 days for the Control group).
+________________
+
+
+3. Biosphere 2 Experiment
+* A 2-year experiment with 8 individuals in a 3.15-acre enclosed ecosystem (Biosphere 2).
+* Due to food shortages, caloric intake was reduced by 750 kcal/day, leading to a 15% weight loss.
+* Results included reductions in insulin, core temperature, and metabolic rate, similar to caloric-restricted rodents and primates.
+________________
+
+
+4. Randomized Controlled Trials of Caloric Restriction
+* CALERIE Study: The first randomized trial of CR in non-obese humans, sponsored by the National Institute on Aging.
+   * 150 participants aged 25–45 years were tested under 25% CR for 2 years across three clinical sites.
+   * Phase 1 results showed favorable physiological changes after 6 months, including:
+      * 10% body weight reduction.
+      * Decrease in fat mass (-24%) and fat-free mass (-4%).
+      * No change in abdominal fat distribution.
+________________
+
+
+5. Physiological Effects of CR (CALERIE Study)
+* Body Composition: A 27% decrease in visceral and subcutaneous fat, with no alteration in fat distribution patterns.
+* Biomarkers of Longevity: Significant reductions in fasting insulin (-29%) and core body temperature (-0.20°C), though DHEA-S levels were unchanged.
+* Cardiovascular and Diabetes Risk Factors: CR reduced triacylglycerol (-18%), Factor VIIc (-11%), and improved insulin sensitivity by 40%.
+* Metabolic Adaptation & Oxidative Stress: CR reduced energy expenditure by 6% beyond expected levels for body mass loss. CR also lowered oxidative stress markers, including DNA damage.
+________________
+
+
+6. Endocrine Adaptations
+* Thyroid Function: CR reduced plasma T3 and T4 concentrations, which correlated with metabolic adaptation.
+* Growth Hormone (GH) & IGF-1: No significant changes in GH concentrations or IGF-1 levels after 6 months of CR.
+* Dehydroepiandrosterone-sulfate (DHEA-S): No changes observed in DHEA-S levels after 6 months of CR, aligning with findings from Biosphere 2.
+Subjective Feelings of Hunger During Caloric Restriction (CR)
+Hunger and Appetite:
+* Appetite Ratings: Assessed using the Eating Inventory perceived hunger scale and Visual Analogue Scales (VAS), which measure hunger, fullness, desire to eat, satisfaction, and prospective food consumption.
+* CR Effects on Appetite: No significant changes in hunger, fullness, or prospective food consumption were reported during CR. However, participants experienced an increased desire to eat and reduced satisfaction after 6 months of CR, though these ratings were not different from the control group.
+Quality of Life (QOL) and Mood:
+* Historical Insight: The Minnesota Semi Starvation study suggested that CR can negatively affect mood, making it a key factor in the feasibility of CR.
+* Mood Assessment: In the CALERIE Phase I trial, the Beck Depression Inventory II (BDI-II) and the MAEDS depression scale measured mood. CR did not worsen mood, and depression symptoms (measured by the MAEDS) even decreased at 3 and 6 months compared to baseline.
+* QOL Measures: The Medical Outcomes Study Short-Form 36 Health Survey assessed two QOL components—physical functioning and vitality. Physical functioning improved for all dieting groups, including the CR group, but there was no significant effect on vitality.
+Cognitive Function and Performance:
+* Cognitive Concerns: CR has been associated with cognitive deficits (e.g., memory and concentration) in self-reported dieting studies, possibly due to preoccupation with food and weight.
+* Cognitive Performance: In the trial, cognitive function (memory, attention) was tested using several neuropsychological tests (e.g., Rey Auditory and Verbal Learning Test, Benton Visual Retention Test). No significant cognitive impairment was observed during CR, and cognitive performance was not linked to the degree of energy deficit.
+Summary of Psychological and Behavioral Findings:
+* No Negative Psychological Impact: CR did not cause eating disorder symptoms, decreased QOL, depressed mood, or cognitive impairment. In fact, some mood-related outcomes improved, and appetite changes in the CR group were similar to those in the control group.
+* Feasibility and Safety: Results suggest CR could be feasible and safe, at least among overweight individuals. More research is needed to explore its feasibility in different populations.
+________________
+
+
+Could CR Increase Longevity in Humans?
+Rodent Data:
+* CR in Animals: Analysis of rodent studies shows that higher and sustained levels of CR (up to 55%) are associated with longer lifespans. More extreme CR, maintained over long periods, produced greater benefits.
+* Extrapolation to Humans: Predictions based on rodent data suggest a 20% CR started at age 25 could extend human life by 5 years, whereas a 30% CR initiated at age 55 would extend life by only 2 months.
+Human Studies:
+* CRONIES Study: A group of individuals practicing long-term CR (50% energy reduction) showed a reduced risk of coronary heart disease and age-related comorbidities. The long-term impact on lifespan is still unknown.
+Concluding Remarks:
+* CR Longevity in Humans: Rodent and primate data support the potential for lifespan extension via CR, but the intensity and timing required may be impractical for most people.
+* Practical Challenges: While short-term human trials show improvements in age-related biomarkers and reduced disease risk, maintaining CR in a food-abundant environment is difficult. Only a small number of individuals may be able to sustain CR long-term.
+* CR Mimetics: There is growing interest in compounds (e.g., resveratrol) that mimic the biological effects of CR, offering a potential alternative to strict caloric restriction for achieving anti-aging benefits.
+
+
+Source #4: https://www.webmd.com/diet/calorie-deficit
+Calorie Deficit: Key Information for AI Interpretation
+1. Definition of Calorie Deficit
+   * Calories measure the energy in food, which your body uses for various functions (e.g., breathing, moving, thinking).
+   * Energy Storage: When calorie intake exceeds the energy burned, excess calories are stored as fat or carbohydrates.
+   * Weight Gain: Occurs when fewer calories are burned than consumed.
+   * Weight Loss: A calorie deficit occurs when more calories are burned than consumed, forcing the body to use stored fat for energy, leading to weight loss.
+2. Recommended Calorie Deficit for Weight Loss
+   * A 500-calorie deficit per day is typically recommended for losing about 1 pound per week.
+   * Calorie Intake Guidelines:
+      * Women: Minimum 1,200–1,500 calories/day.
+      * Men: Minimum 1,500–1,800 calories/day.
+   * Health Consideration: Reducing calorie intake below these levels can be unhealthy. Always consult a doctor before starting any weight loss plan.
+3. Importance of Consultation
+   * A calorie deficit is only necessary if weight loss is the goal, typically for health reasons.
+   * Always consult a healthcare professional before starting a calorie-restricted diet, especially if you have pre-existing health conditions.
+
+
+
+
+
+
+
+
+Caloric Surplus
+Source #1: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786199/
+The Effects of Overfeeding on Body Composition: The Role of Macronutrient Composition – A Narrative Review
+Authors
+Alex Leaf, Jose Antonio
+Abstract
+* Overview: Research on chronic overfeeding is limited compared to hypocaloric diets. It is believed that excessive caloric intake leads to weight gain and fat mass increases, regardless of macronutrient composition.
+* Key Insight: Recent findings indicate significant differences between protein and carbohydrate/fat overfeeding regarding body composition. High protein intake may not lead to increased weight or fat mass, even with excess calories.
+* Objective: This review summarizes current literature on macronutrient overfeeding and its effects on body composition.
+Keywords
+Diet, protein, body composition, energy surplus, bulking, fat gain.
+Introduction
+* Context: Athletes, particularly bodybuilders, intentionally overfeed to increase muscle mass during “bulking” phases while minimizing fat gain.
+* Research Gap: Limited studies assess body composition changes due to overfeeding; only 25 studies differentiate changes in fat mass (FM) and fat-free mass (FFM) from overall weight gain.
+Study Summary
+* Study Design:
+   * 13 studies: single group overfeeding with controlled energy intake.
+   * 12 studies: comparison of multiple overfeeding treatments with varying macronutrient compositions.
+   * Most studies involved sedentary populations.
+Effects of Overfeeding with a Western Diet
+* Study Findings:
+   * Ten studies analyzed diets high in carbohydrates and fats but low in protein.
+   * All studies involved sedentary adults, lasting between 9 days and 3 months.
+* Notable Studies:
+   * Poehlman et al. (1986): 1,000 kcal overfeed led to an average weight gain of 2.2 kg (50% FM), revealing variability among individuals, suggesting genetic influences on body composition changes.
+   * Bouchard et al. (1990): Similar design over 100 days with 8.1 kg average weight gain (67% FM); demonstrated significant genetic correlations in fat gain.
+   * Roberts et al. (1990): 1,000 kcal overfeed showed average weight gain of 2.5 kg (68% FM), emphasizing the relationship between FM and body weight gain.
+Conclusions
+* General Outcomes:
+   * Overfeeding with a diet high in carbohydrates and fats (35–50% energy) and low in protein (11–15%) primarily leads to an increase in FM (60–70% of weight gain).
+   * Increases in FFM may largely be attributed to water retention rather than actual muscle mass gains.
+   * Variability in body composition changes could be linked to individual differences, food types, and genetic predispositions.
+Future Directions
+* Identify knowledge gaps and recommend further research to optimize dietary strategies for athletes aiming to increase lean body mass.
+Effects of Overfeeding on Carbohydrates vs. Fats
+Overview:
+Three studies examined body composition changes in sedentary individuals overfed on diets high in either carbohydrates or fats. All studies utilized unrealistic energy surpluses and lasted two to three weeks.
+Study 1: Horton et al. (2017)
+* Participants: 9 normal-weight and 7 obese men.
+* Design: Randomized crossover; diets providing 150% of energy needs for two weeks, either high in carbohydrates (64% carbs, 25% fat) or fats (31% carbs, 58% fat).
+* Findings:
+   * Both diets led to significant increases in body weight, fat mass (FM), and fat-free mass (FFM) without significant differences between groups.
+   * FM accounted for 52% of weight gain in the carbohydrate group and 58% in the fat group.
+Study 2: Lammert et al. (2023)
+* Participants: 20 normal-weight males.
+* Design: Parallel-group; overfed by 1200 kcal for three weeks, with high carbohydrate (78% carbs, 11% fat) and high fat (31% carbs, 58% fat) diets.
+* Findings:
+   * Both groups significantly increased body weight and FM with no between-group differences.
+   * FM represented 57% of weight gain in carbohydrates and 69% in fats.
+Study 3: Claesson et al. (2014)
+* Participants: 25 normal-weight men and women.
+* Design: Parallel-group; participants added 20 kcal/kg/day of candy or peanuts to their regular diet for two weeks.
+* Findings:
+   * Candy group gained 0.8 kg (38% FM); peanut group gained 0.3 kg (all FFM).
+   * Lack of control over diet and physical activity limited conclusions.
+Conclusion of Studies 1-3:
+Horton and Lammert’s studies provide strong evidence that overfeeding on high-carb or high-fat diets leads to similar body composition changes. However, overfeeding on saturated fat may promote greater FM gain than unsaturated fat. The impact of whole-food carbohydrate sources remains unclear.
+________________
+
+
+Effects of the Type of Carbohydrate or Fat
+Overview:
+Two studies focused on body composition changes from different sources of macronutrients in sedentary, free-living populations.
+Study 4: Stanhope et al. (2015)
+* Participants: 32 overweight, sedentary adults.
+* Design: Double-blind; participants consumed a sugar-sweetened beverage (25% energy as glucose or fructose) for eight weeks.
+* Findings:
+   * Significant weight gain (1.3-1.6 kg) and FM increase in both groups, with no significant differences in total fat.
+   * Fructose group showed a trend towards greater visceral fat increase.
+Study 5: Rosqvist et al. (2014)
+* Participants: 37 sedentary, free-living adults.
+* Design: Double-blind; participants consumed muffins made with sunflower oil (high in polyunsaturated fat) or palm oil (high in saturated fat) for seven weeks.
+* Findings:
+   * Both groups gained weight, but the sunflower oil group had lower FM increases and higher FFM increases.
+   * Palm oil group showed greater increases in liver and visceral fat.
+Conclusion of Studies 4-5:
+The studies indicate that the type of carbohydrate (glucose vs. fructose) and fat (saturated vs. polyunsaturated) can influence body composition and fat distribution. Further research is needed to understand the differential effects of various fatty acids and the role of whole fruit in overfeeding.
+Effects of the Magnitude of the Caloric Surplus
+Study Overview: Siervo et al. conducted a 17-week study with six sedentary males undergoing progressive overfeeding (20%, 40%, and 60% energy surplus) over three weeks each, interspersed with washout periods. Body composition was assessed using the four-compartment model.
+Findings:
+* Weight and Composition Changes: Body weight increased during overfeeding, with significant increases noted at 40% and 60% surpluses. Fat mass (FM) and fat-free mass (FFM) also increased, particularly after the 60% phase.
+* FM Contribution: FM accounted for 57%, 52%, and 63% of the body weight gain during the 20%, 40%, and 60% phases, respectively. Increases in FFM were largely attributed to total body water.
+* Conclusions: Larger caloric surpluses led to greater increases in water weight, while proportional gains in FM remained relatively unchanged. The study highlighted the need for future research to directly compare overfeeding phases.
+________________
+
+
+Effects of Overfeeding with a High-Protein Diet
+Study Overview: Seven studies examined the effects of protein overfeeding on body composition, split between sedentary individuals and athletes undergoing resistance training.
+1. Webb and Annis: Overfed nine sedentary adults with different macronutrient compositions. The high-protein group gained less weight and FM compared to average and high-carbohydrate diets.
+2. Bray et al.: Involved 25 sedentary adults overfed for eight weeks with varying protein intakes. The low-protein group gained less weight and had no significant increase in FFM.
+3. Implications: Higher protein diets promote favorable body composition changes, requiring around 1.05 g/kg of protein to maintain FFM during overfeeding.
+Athletic Population Studies: Five studies involved resistance-trained individuals, focusing on the impact of protein intake:
+* Spillane et al.: No significant differences in weight, FM, or FFM between high-protein and carbohydrate-only groups, but the high-protein group had increased total body water.
+* Antonio et al.: Several studies found that high-protein diets reduced FM while maintaining FFM, suggesting an upper limit on protein intake's impact on FFM gains.
+
+
+Summary of Findings:
+* Overfeeding primarily increases FM, with less clear impacts on FFM, often linked to total body water changes.
+* High protein intake (>1.2 g/kg) is crucial for lean mass gains, while the effect on FM remains inconclusive.
+* Protein's role in diet is vital for athletes aiming to increase body mass without excessive fat gain, with an ideal intake of >2.2 g/kg recommended.
+Future Research Directions:
+* Investigate effects of varying carbohydrate and fat types on body composition.
+* Explore meal timing and distribution effects on body composition during overfeeding.
+* Assess how different dietary approaches affect fat gain and overall body composition in both sedentary and athletic populations.
+Source #2: https://www.ncbi.nlm.nih.gov/books/NBK499909/
+
+
+Calories: Definition and Importance
+1. Definition of Calories
+* Small Calories (cal): The energy needed to raise the temperature of 1 gram of water by 1°C at 1 atmospheric pressure.
+* Big Calories (Cal or kilocalories): Commonly used to refer to the calories in food, equivalent to 1,000 small calories.
+2. Importance of Caloric Intake
+* Energy Supply: Calories from food provide energy necessary for bodily functions, including cellular metabolism and various physiological processes.
+* Health Impact: Both excessive and insufficient caloric intake can lead to significant health issues.
+________________
+
+
+3. Issues of Concern
+3.1 Obesity Epidemic
+* Rapid increase in obesity rates, particularly in Western countries.
+* Childhood Obesity: 41 million children under 5 are classified as overweight or obese, with a high likelihood of continuing into adolescence and adulthood.
+* Parental Influence: Children of obese parents have an increased risk of obesity (80% chance if both parents are obese).
+* Environmental Factors: Nutrient-deficient, calorie-rich diets and sedentary lifestyles contribute to obesity.
+3.2 Health Consequences of Obesity
+* Physical Health: Increased risk of heart disease, diabetes, high blood pressure, and certain cancers.
+* Mental Health: Links to depression, anxiety, low self-esteem, and social stigma.
+________________
+
+
+4. Clinical Significance of Caloric Intake
+4.1 Excess Caloric Intake
+* Leads to obesity and related health complications.
+* Importance of clinicians encouraging healthy eating and activity to reduce obesity risks.
+4.2 Insufficient Caloric Intake
+* Associated with eating disorders (e.g., anorexia, bulimia).
+* Can lead to malnutrition, organ damage, and increased cortisol production, causing weight gain.
+* Severe Consequences: Starvation can result in electrolyte imbalances and cardiac arrest.
+________________
+
+
+5. Quality vs. Quantity of Calories
+* Nutritional Quality: The body responds differently to calories based on their source.
+   * Example: Calories from fruits and vegetables provide benefits that calories from refined sugars do not.
+* Daily Caloric Needs:
+   * Influenced by gender, age, weight, and activity level.
+   * Typical caloric requirements:
+      * Women: 2,000 calories/day to maintain weight; 1,500 for weight loss (1 lb/week).
+      * Men: 2,500 calories/day to maintain weight; 2,000 for weight loss (1 lb/week).
+________________
+
+
+6. The Role of Different Nutrients
+* Macronutrients:
+   * Carbohydrates & Proteins: 4 calories/gram.
+   * Fats: 9 calories/gram.
+* Alcohol: Considered "empty calories" with no nutritional benefit.
+6.1 Importance of a Balanced Diet
+* The American diet often contains high processed sugars and saturated fats, leading to health issues.
+* Key Nutrients: Essential for brain function and overall health.
+* Preventable Diseases: Malnutrition contributes to diabetes, heart disease, and cancer.
+Source #3: https://www.medicinenet.com/is_a_caloric_surplus_necessary_to_build_muscle/article.htm
+Caloric Surplus: Overview and Importance
+1. Definition
+* Caloric Surplus: Occurs when daily calorie intake exceeds the number of calories burned. Essential for muscle gain.
+2. Importance of Caloric Surplus
+* Muscle Gain: Critical for individuals aiming to increase muscle mass, particularly those who engage in regular weight training.
+* Weight Management: Gaining weight occurs when total calorie intake exceeds calorie expenditure.
+3. Long-Term Goals
+* Focus on long-term weight changes rather than day-to-day fluctuations.
+________________
+
+
+4. Dirty Bulking vs. Clean Bulking
+4.1 Clean Bulking
+* Definition: Involves a controlled caloric surplus with specific food choices to promote muscle gain while minimizing fat gain.
+* Nutritional Focus: High-protein, nutrient-dense foods combined with high-intensity workouts.
+4.2 Dirty Bulking
+* Definition: Aims for rapid weight gain by consuming high-calorie foods without regard for quality.
+* Risks: May lead to excessive fat gain, high cholesterol, and elevated blood sugar levels.
+4.3 Recommended Caloric Surplus
+* For Beginners: Target a surplus of 10% to 20% to increase body weight by 0.25% to 0.5% weekly.
+* For Advanced Bodybuilders: Exercise caution with caloric intake and weight gain.
+________________
+
+
+5. Nutritional Guidelines for Clean Bulking
+5.1 Recommended Daily Nutrients
+* Proteins: 1.6 to 2.2 grams per kg of body weight.
+* Fats: 0.5 to 1.5 grams per kg of body weight.
+* Carbohydrates: 3 to 5 grams per kg of body weight.
+5.2 Foods to Include
+* Proteins:
+   * Roasted poultry, pork, and red meat
+   * Eggs, salmon, and other fish
+   * Dairy (milk, yogurt)
+   * Beans and cheese
+* Fats:
+   * Nuts and nut butter
+   * Olives, avocados, salad dressings
+   * Butter, mayonnaise, high-fat cheeses
+* Carbohydrates:
+   * Brown rice, whole-grain pasta, and bread
+   * Potatoes
+5.3 Foods to Avoid
+* Junk foods (chips, sodas, candy) to prevent unhealthy weight gain.
+________________
+
+
+6. Benefits of Clean Bulking
+6.1 Avoid Negative Effects
+* Reduces risks associated with high cholesterol and blood sugar levels, mitigating the chance of chronic diseases.
+6.2 Improved Nutrition
+* Focus on nutrient-rich foods enhances intake of macronutrients and micronutrients, including phytonutrients that promote health.
+6.3 Controlled Fat Gain
+* Awareness of caloric intake helps limit excessive fat gain during muscle-building.
+________________
+
+
+7. Strategies for Gaining Weight Healthily
+7.1 Clean Bulking as a Method
+* Popular among athletes for building muscle without excessive weight gain.
+* May be restrictive for those wanting to gain weight quickly.
+7.2 Factors Influencing Caloric Surplus
+* Individual factors (age, weight, exercise routine) impact caloric needs and muscle-building ability.
+7.3 Professional Guidance
+* Consult with a nutritionist or dietitian to tailor dietary strategies to personal goals.
+Source #4: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6680710/
+Nutrition Recommendations for Bodybuilders in the Off-Season: A Narrative Review
+Authors:
+Juma Iraki¹, Peter Fitschen², Sergio Espinar¹, Eric Helms³
+Abstract
+Many nutrition practices among bodybuilders lack scientific support and may harm health. Although guidelines for dieting phases exist, the off-season phase has been overlooked. This review evaluates scientific literature and offers nutrition and supplement recommendations for natural bodybuilders in the off-season, where the goal is to increase muscle mass without excessive fat gain. A hyper-energetic diet (10-20% above maintenance) is recommended, targeting weight gains of 0.25-0.5% of body weight per week for novice and intermediate bodybuilders. Advanced bodybuilders should adopt a more conservative caloric surplus. Sufficient protein (1.6-2.2 g/kg/day) should be consumed, divided evenly across 3-6 meals. Fat intake should be moderate (0.5-1.5 g/kg/day), with carbohydrates making up the remainder to support energy needs (≥3-5 g/kg/day). Creatine (3-5 g/day), caffeine (5-6 mg/kg), beta-alanine (3-5 g/day), and citrulline malate (8 g/day) may provide beneficial ergogenic effects.
+Keywords: Bodybuilding, Nutrition, Muscle Hypertrophy
+________________
+
+
+1. Introduction
+Bodybuilding transcends sport; it embodies art and culture, with athletes judged on appearance rather than performance. Bodybuilders cycle through three phases: muscle gain (off-season), contest preparation (dieting), and competition. Most research focuses on the dieting phase, creating a significant gap in knowledge about the off-season. This phase is crucial for increasing muscle mass while limiting fat gain. Bodybuilders often adopt rigid food selection and supplementation practices, many of which lack scientific backing and could pose health risks. Therefore, evidence-based recommendations for nutrition and dietary supplements during the off-season are essential.
+________________
+
+
+2. Energy
+2.1 Positive Energy Balance
+The primary goal during the off-season is to increase muscle mass while minimizing fat gain through resistance training and a positive energy balance. Training volume, frequency, and intensity are critical for assessing energy requirements. Typically, bodybuilders train 5-6 times per week, focusing on high-volume routines. Average calorie intake in the off-season can be around 3800 kcal/day compared to 2400 kcal/day during dieting.
+To ensure optimal muscle gain and limit fat accumulation, a caloric surplus is needed, with recommendations for novice bodybuilders being slightly hyper-energetic diets (~10-20% above maintenance). For advanced bodybuilders, a more conservative surplus is advisable. Target weight gain should be approximately 0.25-0.5% of body weight weekly, adjusting caloric intake based on changes in body composition.
+________________
+
+
+3. Protein
+3.1 Daily Intake
+Skeletal muscle hypertrophy hinges on protein turnover, requiring a net gain in muscle protein synthesis (MPS) over breakdown. While the RDA for protein is 0.8 g/kg, studies suggest higher intakes (1.6-2.2 g/kg) optimize resistance training-induced hypertrophy. Bodybuilders should aim for a minimum of 1.6 g/kg, with closer to 2.2 g/kg for optimal results.
+Excessive protein intake (up to 4.3 g/kg) has been reported but is unnecessary. High protein diets can help manage hunger and may prevent excessive fat gain during the off-season.
+3.2 Protein Quality
+Essential amino acids (EAA) are crucial for MPS, particularly leucine, which is vital for triggering MPS. While animal-based proteins generally offer higher EAA and leucine content, high-quality plant-based alternatives exist. For bodybuilders, protein quality matters less when sufficient total daily intake is achieved. If protein intake is on the lower end (1.6 g/kg) or predominantly plant-based, supplementation with EAA-rich sources may be beneficial.
+________________
+
+
+4. Fats
+Fats are essential for overall health, but their role in muscle hypertrophy is less understood. Dietary fat intake among bodybuilders ranges from 8-33% of total calories. Recommendations suggest that dietary fat should account for 20-35% of total caloric intake, equating to about 0.5-1.5 g/kg/day. Quality fats, such as omega-3 and omega-6, are important, and while supplementation is often unnecessary with a balanced diet, it may be challenging for some individuals to meet optimal intake levels.
+Carbohydrates in Bodybuilding
+1. Non-Essential Nutrient:
+   * Carbohydrates are considered non-essential since the body can produce glucose via gluconeogenesis. However, they play a significant role in a bodybuilder's diet.
+2. Importance for Muscle Performance:
+   * Carbs help regulate thyroid hormones and meet micronutrient needs.
+   * A very low carbohydrate intake can impede ATP regeneration, reducing muscle contraction strength.
+   * Muscle glycogen is crucial during high-intensity exercises, contributing to approximately 80% of ATP demand during a set of elbow flexions to failure.
+3. Impact of Exercise on Glycogen Stores:
+   * Resistance training can deplete muscle glycogen by 24-40%.
+   * The extent of glycogen depletion varies based on the duration and intensity of training, with higher repetitions and moderate loads causing the most significant reduction.
+   * Low glycogen levels (~70 mmol/kg) may inhibit calcium release and increase muscle fatigue.
+4. Carbohydrate Recommendations:
+   * Studies indicate that consuming 7.7 g/kg/day of carbohydrates before training has no greater performance effect than 0.37 g/kg/day for lower-body exercises.
+   * A carbohydrate diet of 70% versus 50% showed no performance difference, while a 25% carbohydrate diet significantly impaired performance.
+   * Average carbohydrate intake for male bodybuilders in the off-season is reported as 5.3 g/kg/day, but optimal amounts are still undetermined.
+   * Recommendations for strength sports (including bodybuilding) suggest intakes of 4-7 g/kg/day.
+5. General Guidelines:
+   * After allocating calories for protein (1.6-2.2 g/kg/day) and fats (0.5-1.5 g/kg/day), remaining calories should come from carbohydrates.
+   * A daily carbohydrate intake in the range of ≥3-5 g/kg/day is advisable.
+   * Further research is needed to explore the benefits of varying carbohydrate intake levels among bodybuilders.
+6. Dietary Recommendations Summary (Table 1):
+   * Weekly Weight Gain: ~0.25–0.5% for novices/intermediates; ~0.25% for advanced.
+   * Calories: +10–20% above maintenance for novices/intermediates; +5–10% for advanced.
+   * Protein: 1.6–2.2 g/kg for both levels.
+   * Fats: 0.5–1.5 g/kg for both levels.
+   * Carbohydrates: Remaining calories (≥3–5 g/kg) for both levels.
+7.1. Creatine Monohydrate
+Creatine phosphate serves as an energy source in skeletal and cardiac muscles. Dietary sources include meat, though cooking reduces creatine levels. Loading phases (20 g/day for one week) followed by maintenance (2-3 g/day) typically increase muscle mass and strength, though a loading phase may not be necessary. Most individuals do not consume sufficient creatine through diet alone, making supplementation advisable. Creatine monohydrate is the most studied form, while newer alternatives have not shown superior benefits. A daily intake of 3 g is recommended, with no significant timing effect on muscle saturation.
+7.2. Caffeine
+Caffeine is a popular stimulant among bodybuilders, known to enhance arousal, reduce perceived exertion, and potentially improve strength. Effective dosages are generally around 5-6 mg/kg, but tolerance can develop with regular use. It’s best consumed about one hour before exercise to maximize its acute effects, keeping in mind its half-life of 3-9 hours. While more research is needed, current evidence suggests that caffeine can enhance resistance exercise performance when consumed pre-workout.
+7.3. Beta-Alanine
+Supplementation of 4-6 g of beta-alanine increases muscle carnosine levels, which helps buffer pH and delay fatigue during high-intensity exercise. While meta-analyses suggest benefits primarily for endurance exercises, beta-alanine may also aid muscular endurance for resistance-trained athletes, especially during high-rep training phases. Daily intake of 3-5 g is recommended, as the effects take about four weeks to manifest.
+7.4. Citrulline Malate
+Citrulline malate has gained traction for its potential to boost ATP production and act as a buffering agent. Studies show that 8 g can increase repetitions to failure, reduce muscle soreness, and enhance strength. However, not all research supports these benefits. A recent meta-analysis found a small but possibly relevant effect size, particularly for competitive athletes. Pre-exercise consumption is recommended for optimal absorption.
+7.5. Multivitamin/Mineral
+Restrictive diets in bodybuilders can lead to vitamin and mineral deficiencies. Recent studies show that flexible dieting approaches yield fewer deficiencies. A low-dose multivitamin/mineral supplement (≤100% RDA) is recommended as a safeguard against deficiencies, along with a varied diet to ensure adequate micronutrient intake.
+7.6. Omega-3
+Omega-3 fatty acids (EPA and DHA) are essential for overall health, though their direct effects on muscle growth are still under investigation. Evidence on the anabolic benefits of omega-3 supplementation is mixed. Nonetheless, the health advantages are notable, including improvements in depression symptoms, cardiac health, and reduced blood pressure. A daily intake of 2-3 g of EPA/DHA is suggested for general health benefits.
+Table 2: Recommendations for Dietary Supplements
+Dietary Supplement
+	Recommended Dosage
+	Creatine monohydrate
+	3 g/day
+	Beta-alanine
+	3–5 g/day
+	Citrulline malate
+	8 g/day
+	Caffeine
+	5–6 mg/kg
+	Multivitamin/mineral
+	Low dose (≤100% RDA)
+	Omega-3
+	2–3 g EPA/DHA
+	8. Summary
+Bodybuilders in the off-season should aim for a caloric surplus of 10-20% above maintenance to gain weight gradually. Protein intake should be between 1.6-2.2 g/kg/day, with an even distribution across meals. Fat intake should be moderate, while carbohydrates should fulfill the remaining caloric needs. Supplements like creatine, beta-alanine, citrulline malate, and caffeine can enhance performance, particularly in high-repetition training. Those lacking micronutrients should consider supplementation. More research is needed to optimize nutritional strategies for bodybuilders in the off-season.
+
+
+
+
+
+
+Formula to calculate maintenance calories
+Source #1: https://www.health.harvard.edu/staying-healthy/calorie-counting-made-easy#:~:text=To%20do%20so%2C%20you%20need,if%20you%20are%20moderately%20active.
+Title: Calorie Counting Made Easy
+Date: April 3, 2024
+Reviewed by: Howard E. LeWine, MD, Chief Medical Editor, Harvard Health Publishing
+________________
+
+
+1. Introduction
+* Calorie counting is still useful for some people to manage weight, even though it has fallen out of favor.
+* The basic principle is: Eat less, exercise more.
+________________
+
+
+2. Step 1: Calculate Maintenance Calories
+* Formula:
+   * Maintenance calories = Current weight × 15 (for moderately active individuals).
+   * Moderately active means 30 minutes of exercise or physical activity (e.g., brisk walking, climbing stairs, gardening).
+* Example:
+   * A 155-pound person needs:
+      * 155 × 15 = 2,325 calories/day to maintain current weight.
+________________
+
+
+3. Step 2: Determine Calorie Deficit for Weight Loss
+* To lose 1–2 pounds per week (safe rate), reduce daily intake by 500–1,000 calories.
+* Example:
+   * For someone who needs 2,325 calories/day to maintain weight:
+      * Weight loss calories = 2,325 - 500 = 1,825 calories/day (for a 1-pound/week loss)
+      * Weight loss calories = 2,325 - 1,000 = 1,325 calories/day (for a 2-pound/week loss)
+* Note:
+   * Minimum calorie intake:
+      * Women: 1,200 calories/day
+      * Men: 1,500 calories/day
+      * Should not fall below these limits without professional supervision.
+________________
+
+
+4. Step 3: Increase Physical Activity
+* To support weight loss, aim for 30 minutes of exercise most days.
+* This helps burn extra calories and accelerates weight loss.
+________________
+
+
+5. Meeting Your Calorie Target
+* Approach 1:
+   * Count calories by summing the number of calories per serving of the foods you consume.
+   * Use nutrition labels on packaged foods or recipes from cookbooks, websites, etc.
+* Approach 2:
+   * Limit portions and focus on meals that are low in calories.
+   * Use common sense rather than focusing strictly on calorie numbers.
+________________
+
+
+6. Creating an Eating Schedule
+* A regular eating schedule with meals and snacks at planned times increases success.
+* Following a consistent eating pattern helps in both weight loss and weight maintenance.
+________________
+
+
+7. Focus on Fat and Calories
+* Fat contains 9 calories/gram, while carbohydrates and proteins contain 4 calories/gram.
+* Cutting fat doesn’t always cut calories—some fat-free foods have more calories due to added sugar.
+* Portion control is important; consuming large quantities of even low-fat or non-fat foods can add up.
+Source #2: https://mohap.gov.ae/en/more/awareness-center/calories-calculation#:~:text=If%20you%20are%20sedentary%20(little,Calorie%2DCalculation%20%3D%20BMR%20x%201.55
+Calories
+The Basal Metabolic Rate (BMR)=
+10 * weight (kg) + 6.25 * height(cm) - 5 * age(y) + 5 for (man)
+10 * weight(kg) + 6.25 * height(cm) - 5 * age(y) - 161 for ​(woman)
+To determin​e your total daily calorie needs, multiply your BMR by the appropriate activity factor, as follows:
+* If you are sedentary (little or no exercise) : Calorie-Calculation = BMR x 1.2
+* If you are lightly active (light exercise/sports 1-3 days​/week) : Calorie-Calculation = BMR x 1.375
+* If you are moderately active (moderate exercise/sports 3-5 days/week) : Calorie-Calculation = BMR x 1.55
+* If you are very active (hard exercise/sports 6-7 days a week) : Calorie-Calculation = BMR x 1.725
+* If you are extra active (very hard exercise/sports & physical job or 2x training) : Calorie-Calculation = BMR x 1.9
+For example If you are sedentary, and your BMR equal 1745 so the total number of calories you need in order to maintain your current weight = 1745*1.2 = 2094.
+Source #3: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017325/
+Title: Optimal Diet Strategies for Weight Loss and Weight Loss Maintenance
+Author: Ju Young Kim
+Reviewed by: PMC Disclaimer
+Date: N/A
+________________
+
+
+1. Introduction
+* Obesity is a major public health issue linked to conditions like type 2 diabetes, cardiovascular diseases, sleep apnea, and cancer.
+* Weight management is complex and depends on the amount of food, type of food, and meal timing.
+* There is no single best diet strategy, and individualized approaches based on preferences are most effective.
+________________
+
+
+2. Key Components of Weight Management
+a. Energy Deficit
+* Calorie reduction is the primary driver of weight loss.
+* Popular diets like low-fat, low-carbohydrate, and ketogenic diets can help, but long-term effectiveness is unclear.
+* Meal timing, like higher-calorie breakfasts and overnight fasting, can also aid in preventing obesity.
+b. Low-Calorie Diet vs. Very-Low-Calorie Diet (VLCD)
+* A low-calorie diet typically restricts intake to 1,000–1,500 calories/day.
+* A VLCD (<800 calories/day) can be used for short-term, rapid weight loss but requires medical supervision.
+* VLCDs combined with meal replacement and behavioral programs can help sustain weight loss.
+c. Macronutrient Composition
+* The type of food consumed (fats, carbs, proteins) plays a role, but calorie deficit remains the most critical factor.
+* Low-fat diets are widely used but may not provide better long-term weight-loss results compared to other diets.
+* High-fat and high-saturated fat diets may harm the gut microbiota and promote metabolic issues.
+d. Meal Replacements
+* Products like shakes, bars, and portion-controlled meals are useful for calorie control.
+* While effective for short-term weight loss, long-term success with meal replacements is limited.
+________________
+
+
+3. Types of Diets
+a. Low-Fat Diet
+* Reducing fat intake helps with weight loss since fat contains more calories per gram than carbs or protein.
+* Long-term effectiveness for weight-loss maintenance is not well-supported by studies.
+b. Very-Low-Calorie Ketogenic Diet (VLCKD)
+* Involves very-low-calorie and low-carbohydrate intake combined with adequate protein.
+* Effective for short-term, significant weight loss and in conditions like type 2 diabetes, but should be monitored for safety.
+________________
+
+
+4. Conclusion
+* An energy deficit is the most important factor for weight loss, though metabolic adaptations can reduce energy expenditure over time.
+* Long-term strategies combining low-calorie diets, VLCDs, or meal replacements may be necessary for weight loss and maintenance.
+Optimal Diet Strategies for Weight Loss and Weight Loss Maintenance
+Low-Carbohydrate Diets
+Low-carbohydrate (low-carb) diets are used for weight reduction and managing type 2 diabetes (T2DM). These diets are characterized by a carbohydrate intake lower than the recommended range for healthy adults (45-65% of daily energy). Carbohydrate intake typically ranges from 50-130g/day, representing 10-45% of total daily energy intake.
+* Ketogenic Diet: A more extreme form of a low-carb diet, limiting carbohydrates to <50g/day. This reduction can lead to ketosis, where the body burns fat for energy. Protein intake is maintained at 0.8–1.5g/kg of ideal body weight to preserve muscle mass. While ketogenic diets may reduce appetite and increase fat metabolism, evidence for their long-term safety and effectiveness is limited.
+   * Potential Benefits: Suppresses hunger, possibly therapeutic for T2DM, polycystic ovary syndrome, cardiovascular, and neurological conditions.
+   * Risks: Mixed effects on cholesterol levels; contraindicated in pregnancy, type 1 diabetes, kidney failure, and frailty.
+High-Protein Diets
+High-protein diets are characterized by increased protein intake, usually 1-1.2g/kg of body weight or 30% of daily calories. These diets are popular for their satiating effects, making them useful in weight loss and maintenance.
+* Mechanism: Protein increases diet-induced thermogenesis and gut peptides like glucagon-like peptide-1, which reduce appetite. These diets also help maintain lean body mass during calorie restriction.
+   * Risks: High protein intake, particularly from animal sources, may strain the kidneys and contribute to chronic kidney disease. However, proteins from dairy, fish, and vegetables are generally safer.
+Mediterranean Diet
+The Mediterranean diet emphasizes fruits, vegetables, poultry, fish, and dairy, while minimizing red meat. It is highly regarded for its effectiveness in weight loss and improving cardiovascular risk factors.
+* Benefits: Significant improvements in cardiovascular health, potential cancer risk reduction, and modest cognitive benefits.
+   * Evidence: The Mediterranean diet offers the most consistent benefits in weight loss, cardiometabolic improvements, and long-term health.
+Other Dietary Strategies:
+1. Paleolithic Diet (Paleo): Based on the diet of early humans, focusing on lean meat, fish, vegetables, fruits, and nuts. The diet shows some cardiovascular benefits but is high in saturated fats, which may increase cardiovascular risks.
+2. Low Glycemic Index (GI) Diet: Replaces high-GI foods with low-GI alternatives. Helps manage blood sugar and T2DM, but evidence for weight loss is inconclusive.
+3. Nordic Diet: Focuses on whole grains, fish, and plant-based foods. It has been shown to improve body weight but can be difficult to maintain due to food accessibility.
+4. Vegetarian Diet: Excludes meat, fish, and poultry. Vegetarian diets are associated with reduced risks of heart disease, diabetes, and certain cancers. They may aid weight loss, but their exclusion of omega-3 fats (from fish) is a limitation.
+5. DASH Diet (Dietary Approaches to Stop Hypertension): Developed to reduce blood pressure, this diet is rich in vegetables, fruits, and whole grains, with low-fat dairy and lean meats. It has been linked to reduced risks of cancer, cardiovascular diseases, and overall mortality, along with modest weight loss.
+Portfolio Diet
+The Portfolio diet is a vegan plan focusing on specific cholesterol-lowering foods. It emphasizes the daily consumption of 2 grams of plant sterols, 50 grams of nuts, 10–25 grams of soluble fiber, and 50 grams of soy protein. It excludes meat, poultry, seafood, dairy, and eggs. Studies suggest that while the diet effectively reduces LDL cholesterol levels, its impact on weight loss is minimal, with an average reduction of 0.8 to 1.2 kilograms .
+Intermittent Fasting
+Intermittent fasting involves alternating periods of eating and fasting. The most common methods include alternate-day fasting, the 5:2 approach (fasting or consuming fewer calories two days a week), and daily time-restricted feeding (eating within 6–8 hours and fasting for the rest of the day). Intermittent fasting can help manage weight and improve metabolic functions, showing effects similar to traditional calorie restriction. However, the long-term sustainability of this eating pattern is still under study .
+Meal Timing
+Meal timing and alignment with the circadian rhythm are increasingly being recognized as crucial in weight management. Research shows that skipping breakfast and eating late at night can increase the risk of obesity and related metabolic disorders. In contrast, consuming more calories earlier in the day and maintaining consistent overnight fasting are beneficial strategies. These practices can support weight management and improve cardiovascular health .
+Source #4: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4061651/
+Weight Loss Maintenance: A Review on Dietary-Related Strategies
+Fatemeh Azizi Soeliman and Leila Azadbakht
+Abstract
+Background: Weight regain is a common issue for those who have recently lost weight. Solutions include diet therapy, behavioral therapy, exercise, or combinations of these. This review aims to identify the most effective diet or eating pattern for maintaining weight loss.
+Materials and Methods: We searched PubMed and SCOPUS using key terms such as "overweight," "obesity," "weight maintenance," "weight regain," and "diet therapy." A total of 26 articles were evaluated in this review.
+Results: Positive effects on weight maintenance were observed with meal replacement, low-carbohydrate, low-glycemic index (GI) diets, high protein intake, and moderate fat consumption. However, the results were controversial. A DASH-type diet may be beneficial, but further research is required. Specific behaviors, such as avoiding late-night activity and limiting sugar-sweetened beverages, were linked to better weight maintenance. While certain foods were recommended, their specific roles in preventing weight regain are unclear.
+Conclusion: Healthy diets that are low in carbohydrates, low GI, and moderate in fats may help with weight maintenance, but their long-term effectiveness is uncertain. Consuming fewer calories appears to be the most critical factor in preventing weight regain.
+________________
+
+
+Introduction
+Obesity and overweight rank as the fifth leading cause of death worldwide. In 2008, 1.5 billion adults were overweight, including 200 million obese men and 300 million obese women . Most individuals regain about half of the lost weight within one year, and many return to their previous weight within three to five years . Maintaining even 5–10% of initial weight loss is considered a success .
+After weight loss, metabolic factors such as reduced thermogenesis, decreased leptin, and lower thyroid hormone levels can increase energy intake and promote fat storage . Key factors influencing weight maintenance include genetics, behavior, and the environment .
+________________
+
+
+Materials and Methods
+To identify relevant studies, a comprehensive search was conducted on PubMed and SCOPUS. The search included studies published from 1974 to 2013 using terms such as "overweight," "obesity," "weight maintenance," and "diet therapy." A total of 75 articles were identified, and 26 were selected for review after excluding abstracts and studies that focused solely on behavioral therapy or exercise.
+________________
+
+
+Results
+1. Meal Replacement
+Meal replacement is a commonly used strategy for preventing weight regain. It is safe, effective, cost-efficient, and has a low dropout rate. This method provides controlled calorie intake with balanced nutrient density. Studies have shown meal replacement can lead to successful weight maintenance .
+Limitations:
+* Studies often include volunteers, who may be more motivated than the general population.
+* Meal replacement programs can be costly and repetitive, leading to dietary fatigue .
+________________
+
+
+2. Macronutrient Composition
+Research into different macronutrient compositions (e.g., low-carb, low-fat, high-protein) has yielded mixed results:
+* Low-Carbohydrate Diets: Effective for short-term weight loss but have no major advantages for long-term maintenance compared to low-fat diets .
+* Low-GI Diets: Some studies show that low-GI diets can help reduce calorie intake, but their impact on long-term weight maintenance is unclear .
+* High-Protein Diets: High-protein, low-GI diets may prevent weight regain, especially in individuals with high levels of leptin, IL-6, and CRP . However, further studies with larger sample sizes are needed.
+* Moderate-Fat Diets: Diets with moderate fat intake, particularly those high in monounsaturated fatty acids (MUFA), may be more effective for long-term weight maintenance compared to low-fat diets .
+* Appetite Control: After weight loss, appetite regulation becomes critical. Studies suggest that moderate-fat diets may influence satiety signals but do not consistently show improved appetite control .
+________________
+
+
+3. Behavioral Factors
+Several behavioral factors are linked to successful weight maintenance:
+* Dietary Restraint: Higher levels of dietary restraint are associated with lower weight regain .
+* Eating Habits: Reducing the intake of fast food and sugary drinks contributes to better weight maintenance .
+________________
+
+
+Conclusion
+Successful weight maintenance requires a balanced approach, integrating both dietary and behavioral strategies. While low-carb, low-GI, and high-protein diets show promise, their long-term efficacy remains uncertain. Consuming fewer calories appears to be the most effective strategy for preventing weight regain, but additional research is needed to determine the best approach for long-term obesity management.
+Dietary Behaviors for Weight Maintenance
+* Weight Loss Maintenance vs. Weight Regainers:
+   * Successful weight maintainers tend to:
+      * Stay up late less frequently.
+      * Engage in increased physical activity.
+      * Drink fewer sugar-sweetened beverages.
+      * Consume fewer calories from protein.
+      * Have more emotional support.
+      * Lose more weight during the initial phase of weight loss.
+      * Monitor their weight more consistently.
+      * Choose healthier foods, such as those lower in fat and refined grains and higher in fiber, whole grains, vegetables, and fruits.
+* Perceived Hunger & Cognitive Control:
+   * Differences in hunger perception and eating control are observed between weight regainers and maintainers.
+   * Greater flexible control of eating and reduced uncontrollable eating and psychological distress are linked to better weight maintenance.
+* Other Factors:
+   * People with less initial weight and more significant weight loss have a better chance of preventing weight regain.
+   * Higher calcium intake is associated with less weight increase.
+   * Reduced variety in food choices within the food groups, as reported in the National Weight Control Registry, may help prevent weight gain.
+________________
+
+
+Other Dietary Changes:
+* DASH Diet:
+   * Includes more vegetables, fruits, and low-fat dairy products.
+   * Helpful for weight maintenance, particularly due to the inclusion of dairy rather than fiber.
+* Gelatin vs. Milk Protein:
+   * Gelatin offers only a short-term effect on hunger suppression and does not significantly prevent weight gain.
+* Re-feeding Period:
+   * A six-week re-feeding period post-weight loss is more effective in improving dietary restraint compared to four weeks.
+________________
+
+
+Special Foods for Weight Maintenance:
+* Green Tea & Caffeine:
+   * Studies show no significant long-term effect on weight maintenance.
+   * Potentially more effective for habitual low caffeine consumers.
+* Capsaicin:
+   * Did not result in significant weight changes, despite increasing resting energy expenditure and respiratory quotient.
