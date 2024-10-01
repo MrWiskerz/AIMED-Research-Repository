@@ -1,0 +1,27 @@
+Full Name: P22 
+Sex: Female 
+Age: 18 
+Height (in inches): 67 
+Weight (in pounds): 119.05 
+Race (You may select multiple, use the provided guide made by the U.S. Dept. of Ed): White, Asian 
+What country or countries resonate the most with your culture?(If multiple, separate with commas): India  
+Religion(Select Atheist if none): Hinduism 
+Minutes of activity per day: 120 
+Days of activity per week: 7 
+Give a brief description of your active lifestyle(Could include: Walking, Sports, Gym): Sports, Dance, Running  
+If any, provide a brief description of any medical conditions relevant to dietary needs.(Could include: eating disorders, genetic diseases, diabetes, obesity, anorexia): none 
+Taste Preferences(Select all that you enjoy): Sweet, Umami (Savoury) 
+Textural Preferences(Select all that you enjoy): Crunchy, Tender, Fibrous 
+Spice Tolerance: 3 
+Do you have a preferred national cuisine? (Provide the country or countries. If multiple, separate with commas): Italian, North Indian, Chinese  
+Do you have an existing diet plan? If so, providing it will aid the AI in matching your needs.
+Upon receiving the AI generated diet plan, we will ask you to identify which plan you find more beneficial for further research purposes.: None 
+Are you Vegetarian/Vegan/Pescetarian?: Vegetarian 
+Do you only eat Halal or Kosher food?: No Restriction 
+If any, please list all types of food you are allergic to.(If multiple, separate with commas): Jalapeños  
+If any, please list all types of foods to avoid in the making of the diet.(Could include religious prohibitions. If multiple, separate with commas): non-vegetarian food 
+How much money are you willing to spend per week on food?(The more, the better quality food): 200 
+Goal weight maintenance: Maintain current weight 
+Goal physical activity maintenance: Maintain current activity 
+How many meals per day would you like?: 3 
+How willing are you to try new foods?: 3 

@@ -10,6 +10,7 @@ import csv
 class Func_Library():
 
     master_dic = {} # "Question Name" = [user0, user1, user2]
+    participant_names = {}
 
     change_keys = {
         # "Height (in inches)" : "height_in_inches", (its not working rn)
@@ -85,7 +86,7 @@ class Func_Library():
         with open(data_file, "r", encoding="utf-8", newline="") as data_text:
             spamreader = csv.reader(data_text, delimiter=",", quotechar="\"")
             key_delete_formats = [r'\ \[.*\]', "\n"]
-            first_row = True
+            first_row = None
             row_num = 0
             for row in spamreader:
                 question_num = len(row)
@@ -99,11 +100,15 @@ class Func_Library():
                         self.master_dic[row[question_index]] = []
                         first_row = row
                     else:
-                        new_val = self.change_value(row[question_index], first_row[question_index])
+                        old_val = row[question_index]
+                        if question_index == 1: # Secretizing names
+                            self.participant_names["P"+str(row_num)] = old_val
+                            old_val = "P"+str(row_num)
+                        new_val = self.change_value(old_val, first_row[question_index]) # val, key
                         self.master_dic[first_row[question_index]].append(new_val)
-
+                
                 row_num += 1
-        
+
         # Final Addons
         keys_to_remove = []
         for key in self.master_dic.keys():
