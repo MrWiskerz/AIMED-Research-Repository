@@ -5,7 +5,7 @@ Form_Lib = Func_Library()
 
 # Instantiation
 # DOCS: https://ai.google.dev/gemini-api/docs/
-genai.configure(api_key="AIzaSyDj7tSP_om4mob1LXAmVim1qxFDV8w6PiE")
+genai.configure(api_key="<API_KEY>")
 
 # Model Creation
 generation_config = {
