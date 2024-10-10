@@ -1,0 +1,28 @@
+Full Name: P33 
+Sex: Female 
+Age: 19 
+Height (in inches): 60 
+Weight (in pounds): 121 
+Race (You may select multiple, use the provided guide made by the U.S. Dept. of Ed): Asian 
+What country or countries resonate the most with your culture?(If multiple, separate with commas): India 
+Religion(Select Atheist if none): Hinduism 
+Minutes of activity per day: 22.5 
+Days of activity per week: 4 
+Give a brief description of your active lifestyle(Could include: Walking, Sports, Gym): Walking 
+If any, provide a brief description of any medical conditions relevant to dietary needs.(Could include: eating disorders, genetic diseases, diabetes, obesity, anorexia): None 
+Taste Preferences(Select all that you enjoy): Sweet, Salty 
+Textural Preferences(Select all that you enjoy): Crunchy, Chewy, Smooth, Fibrous 
+Spice Tolerance: 3 
+Do you have a preferred national cuisine? (Provide the country or countries. If multiple, separate with commas): Indian 
+Do you have an existing diet plan? If so, providing it will aid the AI in matching your needs.
+Upon receiving the AI generated diet plan, we will ask you to identify which plan you find more beneficial for further research purposes.: None 
+Are you Vegetarian/Vegan/Pescetarian?: Vegetarian 
+Do you only eat Halal or Kosher food?: No Restriction 
+If any, please list all types of food you are allergic to.(If multiple, separate with commas): None 
+If any, please list all types of foods to avoid in the making of the diet.(Could include religious prohibitions. If multiple, separate with commas): None 
+How much money are you willing to spend per week on food?(The more, the better quality food): 100-120 
+If comfortable, provide your Yearly Gross Income.(This will give the AI a range of certainty): None 
+Goal weight maintenance: Lose weight (calorie deficit) 
+Goal physical activity maintenance: More activity 
+How many meals per day would you like?: 3 
+How willing are you to try new foods?: 3 
