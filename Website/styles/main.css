@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2em;
+    background-color: #fff;
+    margin: 1em auto;
+    max-width: 800px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  section img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+  }
+  
+  .hero-header {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-image {
+    width: 100%; 
+    height: 30em;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+  }
+  
+  .hero-text {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1;
+  }
+  
+  .hero-text h1 {
+    margin: .8em;
+    font-size: 7em;
+  }
+  
+  .hero-text p {
+    margin-top: 0.2em;
+    font-size: 2em;
+  }
+
+  .flex-container {
+    display: flex;
+    justify-content: space-around; /* Space out the div elements */
+    align-items: flex-start; /* Align items to the top */
+    gap: 20px; /* Add some space between the items */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    margin-top: 1em;
+  }
+  
+  .flex-container > div {
+    flex: 1 1 30%; /* Each item takes up approximately 30% of the container */
+    min-width: 200px; /* Prevent the divs from getting too narrow */
+    text-align: center; /* Center-align content for better appearance */
+  }
+  
+  .flex-container img {
+    max-width: 50%; /* Ensure images are responsive */
+    height: auto;
+  }
+  
